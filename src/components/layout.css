@@ -45,7 +45,7 @@ a {
 .defaultHero {
   min-height: calc(100vh - 62px);
   background: linear-gradient(rgba(244, 67, 48, 0.7), rgba(0, 0, 0, 0.7)),
-    url("../images/header.jpg") center/cover no-repeat;
+    url("../images/Header.jpg") center/cover no-repeat;
   display: flex;
   justify-content: center;
   align-items: center;
