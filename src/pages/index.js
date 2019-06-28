@@ -4,6 +4,7 @@ import Hero from '../components/Hero'
 import Banner from '../components/Banner'
 import {Link} from 'gatsby'
 import About from '../components/Home/About'
+import Services from '../components/Home/Services'
 
 const homePage = () => {
   return(
@@ -15,6 +16,7 @@ const homePage = () => {
     </Banner>
   </Hero>
   <About />
+  <Services />
  </Layout>
  )
 }
