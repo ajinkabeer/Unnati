@@ -1,6 +1,13 @@
 .about {
   padding: 4rem 0;
 }
+
+.center{
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
 .about-center {
   width: 80vw;
   margin: 0 auto;
