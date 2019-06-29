@@ -3,6 +3,9 @@
   letter-spacing: var(--mainSpacing);
   color: var(--mainWhite);
 }
+
+ 
+
 .banner h1 {
   font-size: 3.3rem;
   text-transform: uppercase;

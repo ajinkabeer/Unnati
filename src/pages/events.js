@@ -1,12 +1,30 @@
 import React from 'react'
 import Layout from '../components/Layout'
 import Banner from '../components/Banner'
-const events = () => {
+import Styledhero from '../components/Styledhero'
+import{graphql} from 'gatsby'
+
+const events = ({data}) => {
   return (
     <Layout>
-  <h1>Events</h1>
+     <Styledhero img={data.defaultBcg.childImageSharp.fluid} />
+
     </Layout>
   )
 }
+
+
+export const query = graphql `
+query{
+  defaultBcg: file(relativePath:{eq: "realevents.jpg"}) {
+    childImageSharp {
+      fluid(quality:90,maxWidth: 4160) {
+        ...GatsbyImageSharpFluid_withWebp
+      }
+    }
+  }
+}
+`
+
 
 export default events;
