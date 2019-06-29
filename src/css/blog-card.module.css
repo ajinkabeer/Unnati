@@ -1,8 +1,7 @@
 .blog {
   box-shadow: var(--lightShadow);
   transition: var(--mainTransition);
-  width: 60%;
-}
+ }
 .blog:hover {
   box-shadow: var(--darkShadow);
 }
