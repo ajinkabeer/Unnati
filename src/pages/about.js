@@ -4,6 +4,8 @@ import Styledhero from '../components/Styledhero'
 import{graphql} from 'gatsby'
 import Title from '../components/StyledTitle'
 import Styles from '../css/about.module.css'
+import Abouts from '../components/About/abouts'
+import Homeabout from '../components/Home/About'
 
 const about = ({data}) =>{
  return(
@@ -11,7 +13,13 @@ const about = ({data}) =>{
      <Styledhero img={data.defaultBcg.childImageSharp.fluid} />
      <section className={Styles.about}>
      <Title title="about" subtitle="us" />
+     <Abouts />
      </section>
+
+     <section className={Styles.about}>
+     <Title title="our" subtitle="team" />
+      </section>
+
   </Layout>
  )
 }
