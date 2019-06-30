@@ -5,8 +5,7 @@ import{graphql} from 'gatsby'
 import Title from '../components/StyledTitle'
 import Styles from '../css/about.module.css'
 import Abouts from '../components/About/abouts'
-import Homeabout from '../components/Home/About'
-import Styles2 from '../css/single-blog.module.css'
+ import Styles2 from '../css/single-blog.module.css'
 
 
 const about = ({data}) =>{

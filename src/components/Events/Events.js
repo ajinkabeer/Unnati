@@ -1,6 +1,5 @@
 import React from 'react'
 import styles from '../../css/single-blog.module.css'
-import Layout from '../Layout'
 import "bootstrap/dist/css/bootstrap.min.css"
 
 

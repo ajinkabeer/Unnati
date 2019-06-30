@@ -6,8 +6,7 @@ export default [
       },
   {
    title: "Unnati Times",
-    text:" Education is the most important weapon which you can use to change the world . Udyat has understood this philosophy of Nelson Mandela and has executed it in an outstanding manner.",
-    para:  "Unnati Times is a youth led monthly newspaper started by Unnati with a aim to cultivate a habit of newspaper reading among young generation, which is a requisite part for Civil Services preparation. Unnati Times is a one destination for all the monthly news, brain teasers, confessions, quizzes, jokes, interviews, food hotspots, fashion trends, spiritual news, sports, travel destinations and much more targeting the youths of our nation. ",
+    text:" Education is the most important weapon which you can use to change the world . Udyat has understood this philosophy of Nelson Mandela and has executed it in an outstanding manner.Unnati Times is a youth led monthly newspaper started by Unnati with a aim to cultivate a habit of newspaper reading among young generation, which is a requisite part for Civil Services preparation. Unnati Times is a one destination for all the monthly news, brain teasers, confessions, quizzes, jokes, interviews, food hotspots, fashion trends, spiritual news, sports, travel destinations and much more targeting the youths of our nation. ",
    },
   {
      title: "Udyat",
