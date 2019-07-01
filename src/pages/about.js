@@ -80,7 +80,7 @@ const about = ({data}) =>{
 
 
 <section className={Styles2.blog}>
- <Title title="our" subtitle="branches" />
+ <Title title="OUR" subtitle="BRANCHES" />
 <div className={Styles2.center}>
 <h1>Uthan Youth Parliament</h1>
  <article className={Styles2.article}>
