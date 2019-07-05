@@ -7,6 +7,9 @@ import Styles from '../css/about.module.css'
 import Abouts from '../components/About/abouts'
 import Homeabout from '../components/Home/About'
 import Styles2 from '../css/single-blog.module.css'
+import Lokesh from '../images/lokesh.jpg'
+import Ritik from '../images/ritik.jpg'
+import Jyoti from '../images/jyoti.jpg'
 
 const about = ({data}) =>{
  return(
@@ -21,62 +24,37 @@ const about = ({data}) =>{
      <Title title="our" subtitle="team" />
        <div className={Styles2.center}>
          <div class="row">
-  <div class="column">
-    <div class="card">
-       <div class="container">
-        <h2>Person 1</h2>
-        <p class="title">CEO &amp; Founder</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-       </div>
+           <div class="col-sm">
+             <div class="card" style={{width: 18+'rem'}}>
+             <div class="card-body">
+               <img src={Lokesh}></img>
+               <h5 class="card-title">Mr.Lokesh Chugh</h5>
+               <p class="card-text">Founder and CEO</p>
+             </div>
+             </div>
+           </div>
+    <div class="col-sm">
+      <div class="card" style={{width: 18+'rem'}}>
+      <div class="card-body">
+        <img src={Ritik}></img>
+        <h5 class="card-title">Mr.Ritik Shah</h5>
+        <p class="card-text">Content Head</p>
+      </div>
+      </div>
     </div>
-  </div>
-  <div class="column">
-    <div class="card">
-       <div class="container">
-        <h2>Person 2</h2>
-        <p class="title">Team Member 1</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-       </div>
-    </div>
-  </div>
-  <div class="column">
-    <div class="card">
-       <div class="container">
-        <h2>Person 3</h2>
-        <p class="title">Team Member 2</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-       </div>
-    </div>
-  </div>
-  <div class="column">
-    <div class="card">
-       <div class="container">
-        <h2>Person 4</h2>
-        <p class="title">Team Member 3</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-       </div>
-    </div>
-  </div>
-  <div class="column">
-    <div class="card">
-       <div class="container">
-        <h2>Person 5</h2>
-        <p class="title">Team Member 4</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-       </div>
-    </div>
-  </div>
-  <div class="column">
-    <div class="card">
-       <div class="container">
-        <h2>Person 6</h2>
-        <p class="title">Team Member 5</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-       </div>
+    <div class="col-sm">
+      <div class="card" style={{width: 18+'rem'}}>
+      <div class="card-body">
+        <img src={Jyoti}></img>
+        <h5 class="card-title">Ms.Jyoti Gupta</h5>
+        <p class="card-text">President</p>
+      </div>
+      </div>
     </div>
   </div>
 </div>
-</div>
+     
+
 
 
 <section className={Styles2.blog}>
