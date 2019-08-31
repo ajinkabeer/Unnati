@@ -4,6 +4,7 @@
   align-items: center;
   padding: 1rem 1.25rem;
   text-decoration: none;
+  overflow: visible;
 }
 .logo-btn {
   background: transparent;
@@ -22,16 +23,17 @@
   list-style-type: none;
   transition: var(--mainTransition);
   height: 0;
-  overflow: hidden;
   text-decoration: none;
 }
 .show-nav {
   height: 216px;
-  overflow: hidden;
+  overflow: visible;
 }
 .nav-links a {
   display: block;
   padding: 1rem 1.25rem;
+  overflow: visible;
+
   text-decoration: none;
   text-transform: capitalize;
   color: var(--mainBlack);
@@ -42,6 +44,7 @@
 .nav-links a:hover {
   color: var(--primaryColor);
   text-decoration: none;
+  overflow: visible;
 }
 .nav-social-links {
   display: none;
@@ -49,23 +52,29 @@
 
 .dropdown {
   position: inherit;
-  display: inline;
+  display: block;
   outline: none;
   margin: 0;
-  overflow: hidden;
+  overflow: visible;
 }
 
 .dropdown .dropdownmenu {
   display: none;
+  position: absolute;
+  background: white;
+  padding: 8px 2px;
+  overflow: visible;
+  z-index: 1;
 }
 
 .dropdown li {
-  display: inline;
+  display: block;
+  overflow: visible;
 }
 
 .dropdown:hover .dropdownmenu {
-  display: inline-block;
-  float: none;
+  display: block;
+  overflow: visible;
 }
 
 @media screen and (min-width: 576px) {
