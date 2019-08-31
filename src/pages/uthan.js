@@ -7,7 +7,7 @@ import Styles from "../css/about.module.css"
 import Abouts from "../components/About/abouts"
 import Homeabout from "../components/Home/About"
 import Styles2 from "../css/single-blog.module.css"
-import UthanAlbum from "../components/uthanalbum"
+import Album from "../components/album"
 
 const uthan = ({ data }) => {
   return (
@@ -64,7 +64,7 @@ const uthan = ({ data }) => {
 
       <section className={Styles2.imagegallery}>
         <Title title="Uthan" subtitle="2018" />
-        <UthanAlbum />
+        <Album id="PDvCQqExBrWKaZnm9" />
       </section>
     </Layout>
   )

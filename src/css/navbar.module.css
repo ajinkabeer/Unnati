@@ -4,7 +4,7 @@
   align-items: center;
   padding: 1rem 1.25rem;
   text-decoration: none;
-  overflow: visible;
+  overflow: hidden;
 }
 .logo-btn {
   background: transparent;
@@ -24,15 +24,14 @@
   transition: var(--mainTransition);
   height: 0;
   text-decoration: none;
+  overflow: hidden;
 }
 .show-nav {
   height: 216px;
-  overflow: visible;
 }
 .nav-links a {
   display: block;
   padding: 1rem 1.25rem;
-  overflow: visible;
 
   text-decoration: none;
   text-transform: capitalize;
@@ -55,7 +54,6 @@
   display: block;
   outline: none;
   margin: 0;
-  overflow: visible;
 }
 
 .dropdown .dropdownmenu {
@@ -63,18 +61,15 @@
   position: absolute;
   background: white;
   padding: 8px 2px;
-  overflow: visible;
   z-index: 1;
 }
 
 .dropdown li {
   display: block;
-  overflow: visible;
 }
 
 .dropdown:hover .dropdownmenu {
   display: block;
-  overflow: visible;
 }
 
 @media screen and (min-width: 576px) {

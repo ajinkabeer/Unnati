@@ -9,7 +9,7 @@ class album extends React.Component {
   }
   async componentDidMount() {
     const response = await axios.get(
-      "https://google-photos-album-demo.glitch.me/pyebFG5jdXZHZwW28"
+      `https://google-photos-album-demo.glitch.me/${this.props.id}`
     )
     if (response && response.data && response.data.length > 0) {
       this.setState({

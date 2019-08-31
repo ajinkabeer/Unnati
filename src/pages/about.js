@@ -55,7 +55,7 @@ const about = ({ data }) => {
       <br />
       <section className={Styles2.imagegallery}>
         <Title title="Mahapanchayat" subtitle="MUN" />
-        <Album />
+        <Album id="pyebFG5jdXZHZwW28" />
       </section>
     </Layout>
   )
