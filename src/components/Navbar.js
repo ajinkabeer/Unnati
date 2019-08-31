@@ -1,48 +1,82 @@
-import React,{useState} from 'react'
-import {Link} from 'gatsby'
-import Styles from '../css/navbar.module.css'
-import {FaAlignRight} from 'react-icons/fa'
-import links from '../constants/links'
-import social from '../constants/social-icons'
+import React, { useState } from "react"
+import { Link } from "gatsby"
+import Styles from "../css/navbar.module.css"
+import { FaAlignRight } from "react-icons/fa"
+import links from "../constants/links"
+import social from "../constants/social-icons"
+import { Dropdown, Menu } from "semantic-ui-react"
 
 const Navbar = () => {
-  const [isOpen,setNav] = (useState(false));
+  const [isOpen, setNav] = useState(false)
   const toggleNav = () => {
     setNav(isOpen => !isOpen)
   }
-  return(
-   <nav className={Styles.navbar}>
-   <div className={Styles.navCenter}>
-   <div className={Styles.navHeader}>
-  <h3>Unnati</h3>
-    <button type="button" className={Styles.logoBtn} onClick={toggleNav}>
-   <FaAlignRight className={Styles.logoIcon}/>
-   </button>
-   </div>
-   <ul
+  return (
+    <nav className={Styles.navbar}>
+      <div className={Styles.navCenter}>
+        <div className={Styles.navHeader}>
+          <h3>Unnati</h3>
+          <button type="button" className={Styles.logoBtn} onClick={toggleNav}>
+            <FaAlignRight className={Styles.logoIcon} />
+          </button>
+        </div>
+        <ul
           className={
             isOpen
               ? `${Styles.navLinks} ${Styles.showNav}`
               : `${Styles.navLinks}`
           }
         >
-          {links.map((item, index) => {
+          <li>
+            <Link to="/">Home</Link>
+          </li>
+          <li>
+            <Link to="/article">Articles</Link>
+          </li>
+          <li>
+            <Link to="/about">About</Link>
+          </li>
+          <div className={Styles.dropdown}>
+            <li>
+              <Link>Our Branches</Link>
+            </li>
+            <div className={Styles.dropdownmenu}>
+              <ul>
+                <li>
+                  <Link to="/uthan">Uthan</Link>
+                </li>
+                <li>
+                  <Link to="/udyat">Udyat</Link>
+                </li>
+                <li>
+                  <Link to="/times">Times</Link>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <li>
+            <Link to="/events">Events</Link>
+          </li>
+          <li>
+            <Link to="/contact">Contact</Link>
+          </li>
+        </ul>
+        <div className={Styles.navSocialLinks}>
+          {social.map((item, index) => {
             return (
-              <li key={index}>
-                <Link to={item.path}>{item.text}</Link>
-              </li>
+              <a
+                key={index}
+                href={item.url}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                {item.icon}
+              </a>
             )
           })}
-        </ul>
-   <div className={Styles.navSocialLinks}>
-   {social.map((item,index)=>{
-     return <a key={index} href={item.url} target="_blank" rel="noopener noreferrer">
-     {item.icon}
-     </a>
-   })}
-   </div>
-   </div>
-   </nav>
+        </div>
+      </div>
+    </nav>
   )
 }
 

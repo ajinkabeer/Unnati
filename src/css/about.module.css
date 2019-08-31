@@ -2,7 +2,7 @@
   padding: 4rem 0;
 }
 
-.center{
+.center {
   text-align: center;
   align-items: center;
   justify-content: center;
@@ -34,6 +34,12 @@
 .about-info h4 {
   font-size: 1.9rem;
   text-transform: uppercase;
+}
+
+.imagegallery {
+  padding: 4rem 0;
+  width: 50%;
+  margin-left: 400px;
 }
 
 @media screen and (min-width: 768px) {
