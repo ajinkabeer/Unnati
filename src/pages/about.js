@@ -53,7 +53,7 @@ const about = ({ data }) => {
         </div>
       </div>
       <br />
-      <section className={Styles.imagegallery}>
+      <section className={Styles2.imagegallery}>
         <Title title="Mahapanchayat" subtitle="MUN" />
         <Album />
       </section>

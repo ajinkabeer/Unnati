@@ -50,6 +50,9 @@
     align-items: center;
     margin-top: 3rem;
   }
+  .imagegallery {
+    padding: 4rem 0;
+  }
 
   .about-img,
   .about-info {
@@ -78,10 +81,16 @@
     z-index: -1;
   }
 }
+.imagegallery {
+  padding: 4rem 0;
+}
 
 @media screen and (min-width: 1200px) {
   .about-center {
     width: 95vw;
     max-width: 1170px;
+  }
+  .imagegallery {
+    padding: 4rem 0;
   }
 }

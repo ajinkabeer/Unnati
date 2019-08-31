@@ -19,3 +19,10 @@
 img {
   width: 105%;
 }
+
+.imagegallery {
+  width: 80vw;
+  margin: 0 auto;
+  padding: 4rem 0;
+  width: 50%;
+}

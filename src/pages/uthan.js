@@ -62,7 +62,7 @@ const uthan = ({ data }) => {
         </div>
       </section>
 
-      <section className={Styles.imagegallery}>
+      <section className={Styles2.imagegallery}>
         <Title title="Uthan" subtitle="2018" />
         <UthanAlbum />
       </section>
