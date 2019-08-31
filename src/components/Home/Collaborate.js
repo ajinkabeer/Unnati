@@ -1,11 +1,11 @@
 import React from "react"
 import Title from "../StyledTitle"
-import Styles from "../../css/contact.module.css"
+import Styles from "../../css/about.module.css"
 
-const Contact = props => {
+const Collaborate = () => {
   return (
     <section className={Styles.contact}>
-      <Title title={props.title} subtitle={props.subtitle} />
+      <Title title="Contact" subtitle="us" />
       <div className={Styles.center}>
         <form
           action="https://formspree.io/unnati.knowledge@gmail.com"
@@ -53,4 +53,4 @@ const Contact = props => {
   )
 }
 
-export default Contact
+export default Collaborate
