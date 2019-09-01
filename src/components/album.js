@@ -20,8 +20,10 @@ class album extends React.Component {
       })
     }
   }
+
   render() {
     const { images } = this.state
+
     return images ? <ImageGallery items={images} /> : null
   }
 }

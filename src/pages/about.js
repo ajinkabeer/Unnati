@@ -25,29 +25,29 @@ const about = ({ data }) => {
       <div className={Styles2.center}>
         <div class="row">
           <div class="col-sm">
-            <div class="card" style={{ width: 18 + "rem" }}>
+            <div style={{ width: 18 + "rem", textAlign: "center" }}>
               <div class="card-body">
-                <img src={Lokesh}></img>
-                <h5 class="card-title">Mr.Lokesh Chugh</h5>
-                <p class="card-text">Founder and CEO</p>
+                <img src={Lokesh} style={{ borderRadius: 30 }}></img>
+                <h5 class="card-title" style={{ marginTop: 20 }} >Mr.Lokesh Chugh</h5>
+                <p class="card-text" style={{ textAlign: "center" }} >Founder and CEO</p>
               </div>
             </div>
           </div>
           <div class="col-sm">
-            <div class="card" style={{ width: 18 + "rem" }}>
+            <div style={{ width: 18 + "rem", textAlign: "center" }}>
               <div class="card-body">
-                <img src={Ritik}></img>
-                <h5 class="card-title">Mr.Ritik Shah</h5>
-                <p class="card-text">Content Head</p>
+                <img src={Ritik} style={{ borderRadius: 30 }}></img>
+                <h5 class="card-title" style={{ marginTop: 20 }}>Mr.Ritik Shah</h5>
+                <p class="card-text" style={{ textAlign: "center" }}>Content Head</p>
               </div>
             </div>
           </div>
           <div class="col-sm">
-            <div class="card" style={{ width: 18 + "rem" }}>
+            <div style={{ width: 18 + "rem", textAlign: "center" }}>
               <div class="card-body">
-                <img src={Jyoti}></img>
-                <h5 class="card-title">Ms.Jyoti Gupta</h5>
-                <p class="card-text">President</p>
+                <img src={Jyoti} style={{ borderRadius: 30 }}></img>
+                <h5 class="card-title" style={{ marginTop: 20 }}>Ms.Jyoti Gupta</h5>
+                <p class="card-text" style={{ textAlign: "center" }}>President</p>
               </div>
             </div>
           </div>
