@@ -2,9 +2,7 @@ import React, { useState } from "react"
 import { Link } from "gatsby"
 import Styles from "../css/navbar.module.css"
 import { FaAlignRight } from "react-icons/fa"
-import links from "../constants/links"
 import social from "../constants/social-icons"
-import { Dropdown, Menu } from "semantic-ui-react"
 
 const Navbar = () => {
   const [isOpen, setNav] = useState(false)
@@ -28,7 +26,7 @@ const Navbar = () => {
           }
         >
           <li>
-            <Link to="/">Home</Link>
+            <Link to="#">Home</Link>
           </li>
           <li>
             <Link to="/article">Articles</Link>
@@ -49,7 +47,7 @@ const Navbar = () => {
                   <Link to="/udyat">Udyat</Link>
                 </li>
                 <li>
-                  <Link to="/times">Times</Link>
+                  <Link to="/times">Unnati Times</Link>
                 </li>
               </ul>
             </div>

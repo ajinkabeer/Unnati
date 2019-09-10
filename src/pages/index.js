@@ -12,7 +12,7 @@ export default ({ data }) => (
   <Layout>
     <Styledhero home="true" img={data.defaultBcg.childImageSharp.fluid}>
       <Banner title="Unnati">
-        <h3>A Knowledge Hub For Civil Aspirants</h3>
+        <h3>The Knowledge Hub For Civil Aspirants</h3>
         <Link to="/article" className="btn-white">
           Read Articles
         </Link>

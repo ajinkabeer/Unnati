@@ -14,8 +14,8 @@ export default [
     url: "https://www.instagram.com/unnati_cell/",
   },
 
-  {
-    icon: <FaGithub  />,
-    url: "https://github.com/ajinkabeer/Unnati",
-  },
+  // {
+  //   icon: <FaGithub  />,
+  //   url: "https://github.com/ajinkabeer/Unnati",
+  // },
 ]

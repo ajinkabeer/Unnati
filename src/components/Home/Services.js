@@ -2,7 +2,6 @@ import React from "react"
 import Title from "../StyledTitle"
 import Styles from "../../css/services.module.css"
 import Services from "../../constants/services"
-import { Link } from "gatsby"
 
 const services = () => {
   return (
@@ -14,10 +13,6 @@ const services = () => {
             <article key={index} className={Styles.service}>
               <h4>{item.title}</h4>
               <p>{item.text}</p>
-              <Link to={item.link} className="btn-primary">
-                {" "}
-                {item.title}
-              </Link>
             </article>
           )
         })}
