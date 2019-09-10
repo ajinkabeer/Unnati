@@ -55,7 +55,7 @@ const about = ({ data }) => {
       </div>
       <br />
 
-      <section className={Styles2.imagegallery}>
+      {/* <section className={Styles2.imagegallery}>
         <Title
           title=""
           subtitle="Achievements"
@@ -71,7 +71,7 @@ const about = ({ data }) => {
           only enrich our history and culture.{" "}
         </article>
         <Album id="pyebFG5jdXZHZwW28" />
-      </section>
+      </section> */}
     </Layout>
   )
 }
