@@ -3,11 +3,16 @@ import Layout from '../components/Layout'
 import Styledhero from '../components/Styledhero'
 import { graphql } from 'gatsby'
 import Contact from '../components/Contact/Contact'
+import Styles from '../css/about.module.css'
 
 const contact = ({ data }) => {
   return (
     <Layout>
       {/* <Styledhero img={data.defaultBcg.childImageSharp.fluid} /> */}
+      <section className={Styles.about}>
+        <Title title="Contact" subtitle="Us" />
+        <Events />
+      </section>
       <Contact />
     </Layout>
   )
