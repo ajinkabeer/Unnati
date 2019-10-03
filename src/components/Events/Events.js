@@ -226,6 +226,104 @@ const events = () => {
           </div>
         </div>
       </div>
+      <div className={styles.center}>
+        <div class="card">
+          <div class="card-body">
+            <article className={styles.article}>
+              <h4 class="card-title">Mahapanchayat MUN </h4>
+              <p class="card-text">
+                {" "}
+                Mahapanchayat MUN was held by Unnati on 27th and 28 th August, 2019 at Evergreen Public School where students used their oratory skills to discuss on different social issues.
+                Young minds were molded to be better leaders. School level kids joined this event and they proved their point by a debate because debate and divergence of views can only enrich our history and culture.{" "}
+              </p>
+            </article>
+          </div>
+        </div>
+      </div>
+
+      <div className={styles.center}>
+        <div class="card">
+          <div class="card-body">
+            <article className={styles.article}>
+              <h4 class="card-title">Career counselling </h4>
+              <p class="card-text">
+                {" "}
+                Career counselling is an essential factor for identifying the real potential and guiding students towards a right career path.
+                Students needs to know the importance of career coaching and get the right guidance before they choose any academic stream.
+              </p>
+              <p class="card-text">Team Unnati took a step forward to guide the fresh minds and teach them the importance of different career options in our society.</p>
+            </article>
+          </div>
+        </div>
+      </div>
+
+      <div className={styles.center}>
+        <div class="card">
+          <div class="card-body">
+            <article className={styles.article}>
+              <h4 class="card-title">Letter of Appreciation From the Republic of Lebnon </h4>
+              <p class="card-text">
+                {" "}
+                Opportunities don't happen. You create them. Only those who has readiness to go too far can possibly find out how far they can go. Team Unnati feels empowered and ecstatic by the overwhelmed gesture shown to us by his Excellency Mr. Rabie Narsh(Ambassador, Embassy of Lebanon) and sending us a letter of Appreciation as a token of respect for our service to society.
+              </p>
+            </article>
+          </div>
+        </div>
+      </div>
+
+      <div className={styles.center}>
+        <div class="card">
+          <div class="card-body">
+            <article className={styles.article}>
+              <h4 class="card-title">Unnati on Mountains </h4>
+              <p class="card-text">
+                {" "}
+                Every mountain top is within reach if you just keep climbing. Scrambling the steep slopes and rattling over various cuts is not everyone’s cup of tea. Unnati salutes the audacity, wisdom and courage of our team member Nitish Singh on successfully conquering the Mt.Stok Kangri and hoisting Unnati's flag at the peak of Mt. Stok Kangri.{" "}
+              </p>
+            </article>
+          </div>
+        </div>
+      </div>
+
+      <div className={styles.center}>
+        <div class="card">
+          <div class="card-body">
+            <article className={styles.article}>
+              <h4 class="card-title">Samvidhan se vidhan tak</h4>
+              <p class="card-text">
+                {" "}
+                Failure to know and utilize the rights given to individuals often leads to their erosion and possibly getting themselves deeper into trouble.....
+                {" "}
+              </p>
+              <p class="card-text">
+                {" "}
+                So one must be well aware of their Constitution and the rights that it imparts us...
+                {" "}
+              </p>
+              <p class="card-text">
+                {" "}
+                "Samvidhan se Vidhan tak", a seminar on the rights that the Constitution gives us was organised by Unnati 28th November'18.
+              {" "}
+              </p>
+            </article>
+          </div>
+        </div>
+      </div>
+      <div className={styles.center}>
+        <div class="card">
+          <div class="card-body">
+            <article className={styles.article}>
+              <h4 class="card-title">Self analysis test</h4>
+              <p class="card-text">
+                {" "}
+                Unnati believes in uplifting those aspirants who possess will but lack resources. Keeping this in mind, Unnati, conducted a worship on How to crack Civil Service Examination followed by a short Self-Analysis Test on 10th February'19. Around 300 aspirants of the prestigious exam turned up to be a part of the same.
+                {" "}
+              </p>
+            </article>
+          </div>
+        </div>
+      </div>
+
     </div>
   )
 }
