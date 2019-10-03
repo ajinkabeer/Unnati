@@ -62,10 +62,10 @@ const uthan = ({ data }) => {
         </div>
       </section>
 
-      <section className={Styles2.imagegallery}>
+      {/* <section className={Styles2.imagegallery}>
         <Title title="Uthan" subtitle="2018" />
         <Album id="PDvCQqExBrWKaZnm9" />
-      </section>
+      </section> */}
     </Layout>
   )
 }

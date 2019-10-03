@@ -10,9 +10,6 @@ const contact = ({ data }) => {
   return (
     <Layout>
       {/* <Styledhero img={data.defaultBcg.childImageSharp.fluid} /> */}
-      <section className={Styles.about}>
-        <Title title="Contact" subtitle="Us" />
-      </section>
       <Contact />
     </Layout>
   )
