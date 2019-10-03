@@ -12,7 +12,7 @@ import Album from "../components/album"
 const uthan = ({ data }) => {
   return (
     <Layout>
-      <Styledhero img={data.defaultBcg.childImageSharp.fluid} />
+      {/* <Styledhero img={data.defaultBcg.childImageSharp.fluid} /> */}
       <section className={Styles.about}>
         <Title title="about" subtitle="Uthan Youth Parliament" />
         <div className={Styles2.center}>

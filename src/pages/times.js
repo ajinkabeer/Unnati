@@ -11,7 +11,7 @@ import Styles2 from "../css/single-blog.module.css"
 const times = ({ data }) => {
   return (
     <Layout>
-      <Styledhero img={data.defaultBcg.childImageSharp.fluid} />
+      {/* <Styledhero img={data.defaultBcg.childImageSharp.fluid} /> */}
       <section className={Styles2.blog}>
         <Title title="UNNATI" subtitle="TIMES" />
         <div className={Styles2.center}>

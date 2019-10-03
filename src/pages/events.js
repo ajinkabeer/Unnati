@@ -2,25 +2,25 @@ import React from 'react'
 import Layout from '../components/Layout'
 import Banner from '../components/Banner'
 import Styledhero from '../components/Styledhero'
-import{graphql} from 'gatsby'
+import { graphql } from 'gatsby'
 import Title from '../components/StyledTitle'
 import Styles from '../css/about.module.css'
 import Events from '../components/Events/Events'
-const events = ({data}) => {
+const events = ({ data }) => {
   return (
     <Layout>
-     <Styledhero img={data.defaultBcg.childImageSharp.fluid} />
-     <section className={Styles.about}>
-     <Title title="our" subtitle="events" />
-     <Events />
-     </section>
+      {/* <Styledhero img={data.defaultBcg.childImageSharp.fluid} /> */}
+      <section className={Styles.about}>
+        <Title title="our" subtitle="events" />
+        <Events />
+      </section>
 
     </Layout>
   )
 }
 
 
-export const query = graphql `
+export const query = graphql`
 query{
   defaultBcg: file(relativePath:{eq: "realevents.jpg"}) {
     childImageSharp {
