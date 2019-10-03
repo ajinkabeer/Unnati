@@ -12,7 +12,6 @@ const contact = ({ data }) => {
       {/* <Styledhero img={data.defaultBcg.childImageSharp.fluid} /> */}
       <section className={Styles.about}>
         <Title title="Contact" subtitle="Us" />
-        <Events />
       </section>
       <Contact />
     </Layout>
