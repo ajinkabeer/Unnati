@@ -36,7 +36,7 @@ const Navbar = () => {
           </li>
           <div className={Styles.dropdown}>
             <li>
-              <Link>Our Branches</Link>
+              <Link to="_blank">Our Branches</Link>
             </li>
             <div className={Styles.dropdownmenu}>
               <ul>

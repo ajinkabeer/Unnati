@@ -30,10 +30,27 @@ const times = ({ data }) => {
               distributed free of cost among the students of Delhi NCR with the
               motive to spread awareness on different topics.
             </p>
-            <i>
+            <i style={{ marginBottom: 5,marginTop:5 }}>
               To join Unnati Times or for any collaboration and sponsorships
               mail us upsc.cell.du@gmail.com
             </i>
+            <br />
+
+            <p style={{ marginBottom: 5,marginTop:5 }}>Unnati Times Links</p>
+            <a href="https://drive.google.com/file/d/14fGb_CwHgUCkU2Pkc63gJHnRwxR1HmbG/view?usp=drivesdk">
+              Edition I
+            </a>
+            <br/>
+            <a href="https://drive.google.com/file/d/1o64eI_1qR7Xr1vZccTnhXnC9jdZK3hGs/view?usp=drivesdk">
+              Edition II
+            </a>
+            <br />
+            <a href="https://drive.google.com/file/d/0BzDboi8jPcAhWEkxNlNwUGc0MDVrOXBVWkFBWW5HMUNWZ0lN/view">
+              {" "}
+              Edition III
+            </a>
+            <br />
+           
           </article>
         </div>
       </section>

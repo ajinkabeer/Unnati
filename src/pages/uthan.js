@@ -44,12 +44,13 @@ const uthan = ({ data }) => {
               a part of Uthan Youth Parliament as Chief Guests.
             </p>
             <p>
-              Team Uthan is all set for its next blockbuster, Uthan Edition 5 in 2020. Register here to be a part of Uthan legacy : Organizing Committee Applications link down below.
+              Team Uthan is all set for its next blockbuster, Uthan Edition 5 in 2020. Register down below to be a part of Uthan legacy.
             </p>
             <a href="https://docs.google.com/forms/d/1TjKSk-y-TwaAlfSKAD94566wzlEh2oGQIxVBLqml_8o/edit">
             Organizing Committee Applications link
                    </a>{" "}
-            <br></br>
+            <br />
+            <a href="https://www.facebook.com/uthanyouthparliament/">Find us on facebook</a>
           </article>
         </div>
       </section>

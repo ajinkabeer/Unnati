@@ -40,6 +40,8 @@ const udyat = ({ data }) => {
               values, social awareness and physical fitness. We hope that
               together we can change the educational status of our society.
             </p>
+            <br />
+            <a href="https://www.facebook.com/udyattherisingstars/">Find us on facebook</a>
           </article>
         </div>
       </section>

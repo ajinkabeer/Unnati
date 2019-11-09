@@ -6,7 +6,7 @@ const events = () => {
   return (
     <div>
       <div className={styles.center}>
-        <div class="card" style={{marginBottom:3}}>
+        <div class="card">
           <div class="card-body">
             <article className={styles.article}>
               <h4 class="card-title">Parliamentary Debate</h4>
@@ -27,7 +27,7 @@ const events = () => {
       </div>
 
       <div className={styles.center}>
-        <div class="card" style={{marginBottom:3}}>
+        <div class="card">
           <div class="card-body">
             <article className={styles.article}>
               <h4 class="card-title">Parliamentary Visit</h4>
@@ -45,7 +45,7 @@ const events = () => {
       </div>
 
       <div className={styles.center}>
-        <div class="card" style={{marginBottom:3}}>
+        <div class="card">
           <div class="card-body">
             <article className={styles.article}>
               <h4 class="card-title">Interactive Session</h4>
@@ -61,7 +61,7 @@ const events = () => {
       </div>
 
       <div className={styles.center}>
-        <div class="card" style={{marginBottom:3}}>
+        <div class="card">
           <div class="card-body">
             <article className={styles.article}>
               <h4 class="card-title">Run For Education Excellence</h4>
@@ -78,7 +78,7 @@ const events = () => {
       </div>
 
       <div className={styles.center}>
-        <div class="card" style={{marginBottom:3}}>
+        <div class="card">
           <div class="card-body">
             <article className={styles.article}>
               <h4 class="card-title">Erudite: The Quiz</h4>
@@ -98,7 +98,7 @@ const events = () => {
       </div>
 
       <div className={styles.center}>
-        <div class="card" style={{marginBottom:3}}>
+        <div class="card">
           <div class="card-body">
             <article className={styles.article}>
               <h4 class="card-title"> Uthan Youth Parliament</h4>
@@ -119,7 +119,7 @@ const events = () => {
       </div>
 
       <div className={styles.center}>
-        <div class="card" style={{marginBottom:3}}>
+        <div class="card">
           <div class="card-body">
             <article className={styles.article}>
               <h4 class="card-title">Satta: The Power of Words</h4>
@@ -139,7 +139,7 @@ const events = () => {
       </div>
 
       <div className={styles.center}>
-        <div class="card" style={{marginBottom:3}}>
+        <div class="card">
           <div class="card-body">
             <article className={styles.article}>
               <h4 class="card-title">Uthan Youth Parliament Edition 3</h4>
@@ -158,7 +158,7 @@ const events = () => {
         </div>
       </div>
       <div className={styles.center}>
-        <div class="card" style={{marginBottom:3}}>
+        <div class="card">
           <div class="card-body">
             <article className={styles.article}>
               <h4 class="card-title">Indo - Korean Meet</h4>
@@ -174,7 +174,7 @@ const events = () => {
         </div>
       </div>
       <div className={styles.center}>
-        <div class="card" style={{marginBottom:3}}>
+        <div class="card">
           <div class="card-body">
             <article className={styles.article}>
               <h4 class="card-title">Mahapanchayat MUN </h4>
@@ -194,7 +194,7 @@ const events = () => {
       </div>
 
       <div className={styles.center}>
-        <div class="card" style={{marginBottom:3}}>
+        <div class="card">
           <div class="card-body">
             <article className={styles.article}>
               <h4 class="card-title">Career counselling </h4>
@@ -252,7 +252,7 @@ const events = () => {
       </div> */}
 
       <div className={styles.center}>
-        <div class="card" style={{marginBottom:3}}>
+        <div class="card">
           <div class="card-body">
             <article className={styles.article}>
               <h4 class="card-title">Samvidhan se vidhan tak</h4>
@@ -270,7 +270,7 @@ const events = () => {
         </div>
       </div>
       <div className={styles.center}>
-        <div class="card" style={{marginBottom:3}}>
+        <div class="card">
           <div class="card-body">
             <article className={styles.article}>
               <h4 class="card-title">Self analysis test</h4>
