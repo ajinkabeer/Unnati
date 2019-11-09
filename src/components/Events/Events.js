@@ -211,7 +211,7 @@ const events = () => {
         </div>
       </div>
 
-      <div className={styles.center}>
+      {/* <div className={styles.center}>
         <div class="card" style={{marginBottom:3}}>
           <div class="card-body">
             <article className={styles.article}>
@@ -249,7 +249,7 @@ const events = () => {
             </article>
           </div>
         </div>
-      </div>
+      </div> */}
 
       <div className={styles.center}>
         <div class="card" style={{marginBottom:3}}>
