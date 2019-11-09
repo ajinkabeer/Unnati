@@ -3,12 +3,11 @@ import Layout from "../components/Layout"
 import Styledhero from "../components/Styledhero"
 import { graphql } from "gatsby"
 import Title from "../components/StyledTitle"
-import Styles from "../css/about.module.css"
-import Abouts from "../components/About/abouts"
-import Homeabout from "../components/Home/About"
 import Styles2 from "../css/single-blog.module.css"
 import udyatimage from "../images/udyat.jpg"
-
+import udyat2 from "../images/udyat2.jpg"
+import udyat3 from "../images/udyat3.jpg"
+import udyat4 from "../images/udyat4.jpg"
 
 const udyat = ({ data }) => {
   return (
@@ -43,12 +42,26 @@ const udyat = ({ data }) => {
               together we can change the educational status of our society.
             </p>
             <br />
-            <a href="https://www.facebook.com/udyattherisingstars/">Find us on facebook</a>
-            <div style={{ width: 18 + "rem", textAlign: "center" }}>
-              <div class="card-body">
-                <img src={udyatimage} style={{ borderRadius: 30 }}></img>
+            {/* <div class="row">
+              <div style={{ width: 18 + "rem", textAlign: "center" }}>
+                <div class="col-sm">
+                  <img src={udyatimage} style={{ borderRadius: 30 }}></img>
+                </div>
+                <div class="col-sm">
+                  <img src={udyat2} style={{ borderRadius: 30 }}></img>
+                </div>
+                <div class="col-sm">
+                  <img src={udyat3} style={{ borderRadius: 30 }}></img>
+                </div>
+                <div class="col-sm">
+                  <img src={udyat4} style={{ borderRadius: 30 }}></img>
                 </div>
               </div>
+            </div> */}
+            <br />
+            <a href="https://www.facebook.com/udyattherisingstars/">
+              Find us on facebook
+            </a>
           </article>
         </div>
       </section>
