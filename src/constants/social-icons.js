@@ -17,7 +17,7 @@ export default [
   },
   {
     icon: <FaEnvelope />,
-    url: "upsc.cell.du@gmail.com",
+    text:'https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=upsc.cell.du@gmail.com'
   }
   // {
   //   icon: <FaGithub  />,
