@@ -16,8 +16,8 @@ export default [
     url: "https://www.instagram.com/unnati_cell/",
   },
   {
-    icon: <i class="fas fa-envelope"></i>,
-    url: "",
+    icon: <FaEnvelope />,
+    url: "upsc.cell.du@gmail.com",
   }
   // {
   //   icon: <FaGithub  />,
