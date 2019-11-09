@@ -23,7 +23,7 @@ const about = ({ data }) => {
 
       <Title title="our" subtitle="team" />
       <div className={Styles2.center}>
-        <div class="row" style={{ marginLeft: 25 }}>
+        <div class="row">
           <div class="col-sm">
             <div style={{ width: 18 + "rem", textAlign: "center" }}>
               <div class="card-body">
