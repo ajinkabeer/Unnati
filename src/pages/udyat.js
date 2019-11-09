@@ -7,6 +7,8 @@ import Styles from "../css/about.module.css"
 import Abouts from "../components/About/abouts"
 import Homeabout from "../components/Home/About"
 import Styles2 from "../css/single-blog.module.css"
+import udyatimage from "../images/udyat.jpg"
+
 
 const udyat = ({ data }) => {
   return (
@@ -42,6 +44,11 @@ const udyat = ({ data }) => {
             </p>
             <br />
             <a href="https://www.facebook.com/udyattherisingstars/">Find us on facebook</a>
+            <div style={{ width: 18 + "rem", textAlign: "center" }}>
+              <div class="card-body">
+                <img src={udyatimage} style={{ borderRadius: 30 }}></img>
+                </div>
+              </div>
           </article>
         </div>
       </section>
