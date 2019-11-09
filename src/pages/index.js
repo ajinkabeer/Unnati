@@ -20,7 +20,7 @@ export default ({ data }) => (
     </Styledhero>
     <About />
     <Services />
-    <Collaborate title="Collaborate With" subtitle="Unnati" />
+    <Collaborate title="Associate With" subtitle="Unnati" />
   </Layout>
 )
 

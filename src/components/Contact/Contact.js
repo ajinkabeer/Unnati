@@ -34,6 +34,27 @@ const Contact = props => {
               required
             />
           </div>
+
+          <div>
+            <label htmlFor="name">Contact Number</label>
+            <input
+              name="number"
+              id="number"
+              className={Styles.formControl}
+              placeholder="Your contact number"
+              required
+            />
+          </div>
+          <div>
+            <label htmlFor="website">Your Website</label>
+            <input
+              name="website"
+              id="website"
+              className={Styles.formControl}
+              placeholder="Your Website"
+              required
+            />
+          </div>
           <div>
             <label htmlFor="message">Message</label>
             <textarea
