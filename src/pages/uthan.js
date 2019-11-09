@@ -44,20 +44,12 @@ const uthan = ({ data }) => {
               a part of Uthan Youth Parliament as Chief Guests.
             </p>
             <p>
-              Team Uthan is all set for its next blockbuster, Uthan Edition 4 on
-              2nd and 3rd November, 2019. Register here to be a part of Uthan
-              legacy:
+              Team Uthan is all set for its next blockbuster, Uthan Edition 5 in 2020. Register here to be a part of Uthan legacy : Organizing Committee Applications link down below.
             </p>
-            <a href="https://forms.gle/YQWwJ634vHsnGif28">
-              Delegate Application
-            </a>{" "}
+            <a href="https://docs.google.com/forms/d/1TjKSk-y-TwaAlfSKAD94566wzlEh2oGQIxVBLqml_8o/edit">
+            Organizing Committee Applications link
+                   </a>{" "}
             <br></br>
-            <a
-              href="https://docs.google.com/forms/d/e/1FAIpQLSfWgsJbAd55hqtvMX6Z
--pF-7lB6DkbZuWMwUeF8gLuUxOJrFA/viewform?usp=sf_link"
-            >
-              National Press Application
-            </a>
           </article>
         </div>
       </section>

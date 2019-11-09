@@ -29,7 +29,7 @@ const about = ({ data }) => {
               <div class="card-body">
                 <img src={Lokesh} style={{ borderRadius: 30 }}></img>
                 <h5 class="card-title" style={{ marginTop: 20 }} >Mr.Lokesh Chugh</h5>
-                <p class="card-text" style={{ textAlign: "center" }} >Founder and CEO</p>
+                <p class="card-text" style={{ textAlign: "center" }} >Founder and Chairman</p>
               </div>
             </div>
           </div>
