@@ -14,7 +14,7 @@ const Navbar = () => {
       <div className={Styles.navCenter}>
         <div className={Styles.navHeader}>
           <h3>Unnati</h3>
-          <button type="button" className={Styles.logoBtn} onClick={toggleNav}>
+            <button type="button" className={Styles.logoBtn} onClick={toggleNav}>
             <FaAlignRight className={Styles.logoIcon} />
           </button>
         </div>
@@ -26,7 +26,7 @@ const Navbar = () => {
           }
         >
           <li>
-            <Link to="#">Home</Link>
+            <Link to="/">Home</Link>
           </li>
           <li>
             <Link to="/article">Articles</Link>

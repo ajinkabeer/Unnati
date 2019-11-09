@@ -42,8 +42,7 @@ const Contact = props => {
               id="number"
               className={Styles.formControl}
               placeholder="Your contact number"
-              required
-            />
+             />
           </div>
           <div>
             <label htmlFor="website">Your Website</label>
@@ -52,8 +51,7 @@ const Contact = props => {
               id="website"
               className={Styles.formControl}
               placeholder="Your Website"
-              required
-            />
+             />
           </div>
           <div>
             <label htmlFor="message">Message</label>
