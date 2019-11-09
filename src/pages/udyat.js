@@ -7,6 +7,7 @@ import Styles from "../css/about.module.css"
 import Abouts from "../components/About/abouts"
 import Homeabout from "../components/Home/About"
 import Styles2 from "../css/single-blog.module.css"
+import udyat from "../images/udyat.jpg"
 
 const udyat = ({ data }) => {
   return (
@@ -16,6 +17,11 @@ const udyat = ({ data }) => {
         <Title title="UDYAT" subtitle="THE RISING STARS" />
         <div className={Styles2.center}>
           <article className={Styles2.article}>
+          <article className={Styles.aboutImg}>
+       <div className={Styles.imgContainer}>
+        <Img src={udyat}/>
+     </div>
+     </article>
             <p>
               "Education is the most important weapon which you can use to
               change the world". Udyat has understood this philosophy of Nelson
@@ -51,7 +57,7 @@ const udyat = ({ data }) => {
 
 export const query = graphql`
   query {
-    defaultBcg: file(relativePath: { eq: "udyat.jpg" }) {
+    defaultBcg: file(relativePath: { eq: "abbout.jpg" }) {
       childImageSharp {
         fluid(quality: 90, maxWidth: 4160) {
           ...GatsbyImageSharpFluid_withWebp
