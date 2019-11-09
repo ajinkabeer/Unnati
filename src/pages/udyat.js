@@ -51,7 +51,7 @@ const udyat = ({ data }) => {
 
 export const query = graphql`
   query {
-    defaultBcg: file(relativePath: { eq: "abbout.jpg" }) {
+    defaultBcg: file(relativePath: { eq: "udyat.jpg" }) {
       childImageSharp {
         fluid(quality: 90, maxWidth: 4160) {
           ...GatsbyImageSharpFluid_withWebp
