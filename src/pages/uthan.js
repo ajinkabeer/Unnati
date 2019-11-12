@@ -8,12 +8,12 @@ import Abouts from "../components/About/abouts"
 import Homeabout from "../components/Home/About"
 import Styles2 from "../css/single-blog.module.css"
 import Album from "../components/album"
+import styles from "../css/single-blog.module.css"
 
 const uthan = ({ data }) => {
   return (
     <Layout>
-      <Styledhero img={data.defaultBcg.childImageSharp.fluid} />
-      <section className={Styles.about}>
+       <section className={Styles.about}>
         <Title title="about" subtitle="Uthan Youth Parliament" />
         <div className={Styles2.center}>
           <article className={Styles2.article}>
@@ -54,6 +54,46 @@ const uthan = ({ data }) => {
           </article>
         </div>
       </section>
+      <Title title="Uthan Youth Parliament" subtitle="events" />
+            <div className={styles.center}>
+        <div class="card">
+          <div class="card-body">
+            <article className={styles.article}>
+              <h4 class="card-title">Satta: The Power of Words</h4>
+              <p class="card-text">
+                Edition 2 of Uthan Youth Parliament, Satta: The Power Of Words,
+                a legacy of Uthan Youth Parliament on 28th and 29th July, 2018
+                was bigger and better. With 8 different Committees and exciting
+                agendas, the event was filled with 550 delegates from all across
+                the country discussing on national and international issues. Mr
+                Salman Khurshid graced the event with his presence and
+                remarkable Words. He interacted with the students, heard their
+                problems and came out on conclusions.
+              </p>
+            </article>
+          </div>
+        </div>
+      </div>
+
+      <div className={styles.center}>
+        <div class="card" style={{marginBottom:20}}>
+          <div class="card-body">
+            <article className={styles.article}>
+              <h4 class="card-title">Uthan Youth Parliament Edition 3</h4>
+              <p class="card-text">
+                After the two successful event, the third Edition of Uthan Youth
+                Parliament connected more and more people towards the cause of
+                nation. The show stopper, Ms. Sheila Dikshit (Ex CM, Delhi)
+                interacted with delegates, shared her life experiences and
+                guided the youth towards a better road. Many grievances and
+                problems of young India was solved during the interactive
+                session. Other guests included Ms. Kiran Walia, Ms Sharmistha
+                Mukherjee, IRS Vinod Kumar Meena, Mr. Mudit Agarwal.
+              </p>
+            </article>
+          </div>
+        </div>
+      </div>  
 
       {/* <section className={Styles2.imagegallery}>
         <Title title="Uthan" subtitle="2018" />

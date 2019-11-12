@@ -12,8 +12,7 @@ import udyat4 from "../images/udyat4.jpg"
 const udyat = ({ data }) => {
   return (
     <Layout>
-      <Styledhero img={data.defaultBcg.childImageSharp.fluid} />
-      <section className={Styles2.blog}>
+       <section className={Styles2.blog}>
         <Title title="UDYAT" subtitle="THE RISING STARS" />
         <div className={Styles2.center}>
           <article className={Styles2.article}>

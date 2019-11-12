@@ -1,7 +1,7 @@
 import React from "react"
 import styles from "../../css/single-blog.module.css"
 import "bootstrap/dist/css/bootstrap.min.css"
-
+ 
 const events = () => {
   return (
     <div>
@@ -117,6 +117,8 @@ const events = () => {
           </div>
         </div>
       </div>
+
+    
       <div className={styles.center}>
         <div class="card">
           <div class="card-body">
@@ -171,45 +173,7 @@ const events = () => {
         </div>
       </div>
 
-      {/* <div className={styles.center}>
-        <div class="card" style={{marginBottom:3}}>
-          <div class="card-body">
-            <article className={styles.article}>
-              <h4 class="card-title">
-                Letter of Appreciation From the Republic of Lebnon{" "}
-              </h4>
-              <p class="card-text">
-                {" "}
-                Opportunities don't happen. You create them. Only those who has
-                readiness to go too far can possibly find out how far they can
-                go. Team Unnati feels empowered and ecstatic by the overwhelmed
-                gesture shown to us by his Excellency Mr. Rabie
-                Narsh(Ambassador, Embassy of Lebanon) and sending us a letter of
-                Appreciation as a token of respect for our service to society.
-              </p>
-            </article>
-          </div>
-        </div>
-      </div>
-
-      <div className={styles.center}>
-        <div class="card" style={{marginBottom:3}}>
-          <div class="card-body">
-            <article className={styles.article}>
-              <h4 class="card-title">Unnati on Mountains </h4>
-              <p class="card-text">
-                {" "}
-                Every mountain top is within reach if you just keep climbing.
-                Scrambling the steep slopes and rattling over various cuts is
-                not everyone’s cup of tea. Unnati salutes the audacity, wisdom
-                and courage of our team member Nitish Singh on successfully
-                conquering the Mt.Stok Kangri and hoisting Unnati's flag at the
-                peak of Mt. Stok Kangri.{" "}
-              </p>
-            </article>
-          </div>
-        </div>
-      </div> */}
+      
 
       <div className={styles.center}>
         <div class="card">
