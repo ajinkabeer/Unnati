@@ -1,7 +1,7 @@
 import React from "react"
 import styles from "../../css/single-blog.module.css"
 import "bootstrap/dist/css/bootstrap.min.css"
- 
+
 const events = () => {
   return (
     <div>
@@ -22,6 +22,9 @@ const events = () => {
                 auspiciously with the participation of more than 1300 students.
               </p>
             </article>
+            {/* <section className={styles.imagegallery}>
+              <Album id="Ea76zn5vPasNYk8J7" />
+            </section> */}
           </div>
         </div>
       </div>
@@ -118,7 +121,6 @@ const events = () => {
         </div>
       </div>
 
-    
       <div className={styles.center}>
         <div class="card">
           <div class="card-body">
@@ -172,8 +174,6 @@ const events = () => {
           </div>
         </div>
       </div>
-
-      
 
       <div className={styles.center}>
         <div class="card">

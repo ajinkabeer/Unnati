@@ -6,6 +6,8 @@ import { graphql } from 'gatsby'
 import Title from '../components/StyledTitle'
 import Styles from '../css/about.module.css'
 import Events from '../components/Events/Events'
+
+
 const events = ({ data }) => {
   return (
     <Layout>

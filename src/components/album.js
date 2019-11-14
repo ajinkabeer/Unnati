@@ -2,18 +2,7 @@ import React from "react"
 import axios from "axios"
 import "react-image-gallery/styles/css/image-gallery.css"
 import ImageGallery from "react-image-gallery"
-import { Dimmer, Loader, Segment } from 'semantic-ui-react'
 
-
-const dimmer = () => {
-  return (
-    <Segment>
-      <Dimmer active inverted>
-        <Loader inverted>Loading</Loader>
-      </Dimmer>
-    </Segment>
-  )
-}
 
 class album extends React.Component {
   state = {
@@ -36,7 +25,7 @@ class album extends React.Component {
 
   render() {
     const { images } = this.state
-    return images ? <ImageGallery items={images} autoPlay={true} showPlayButton={false} slideDuration={50} lazyLoad={false} /> : dimmer
+    return <ImageGallery items={images} autoPlay={true} showPlayButton={false} slideDuration={50} lazyLoad={false} /> 
   }
 }
 export default album
