@@ -94,11 +94,6 @@ const uthan = ({ data }) => {
           </div>
         </div>
       </div>  
-
-      <section className={Styles2.imagegallery}>
-        <Title title="Uthan" subtitle="2018" />
-        <Album id="PDvCQqExBrWKaZnm9" />
-      </section>
     </Layout>
   )
 }
