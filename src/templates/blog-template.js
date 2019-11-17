@@ -1,10 +1,9 @@
-import React from 'react'
-import { graphql } from 'gatsby'
-import Layout from '../components/Layout'
-import styles from '../css/single-blog.module.css'
-import { Link } from 'gatsby'
+import React from "react"
+import { graphql } from "gatsby"
+import Layout from "../components/Layout"
+import styles from "../css/single-blog.module.css"
+import { Link } from "gatsby"
 import { documentToReactComponents } from "@contentful/rich-text-react-renderer"
-
 
 const Blog = ({ data }) => {
   const {
@@ -34,25 +33,25 @@ const Blog = ({ data }) => {
           <article className={styles.article}>
             {documentToReactComponents(json)}
           </article>
-          <Link to="/article" className="btn-primary">All Articles</Link>
+          <Link to="/article" className="btn-primary">
+            All Articles
+          </Link>
         </div>
       </section>
     </Layout>
-
   )
 }
 
 export const query = graphql`
-query getArticle($slug:String!){
-  article:contentfulArticles(slug:{eq:$slug}){
-    title
-    publishedDate(formatString:"MMMM Do,YYYY")
-    body{
-      json
-    }
+  query getArticle($slug: String!) {
+    article: contentfulArticles(slug: { eq: $slug }) {
+      title
+      publishedDate(formatString: "MMMM Do,YYYY")
+      body {
+        json
+      }
     }
   }
-
 `
 
 export default Blog

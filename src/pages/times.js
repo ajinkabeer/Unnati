@@ -11,7 +11,7 @@ import Styles2 from "../css/single-blog.module.css"
 const times = ({ data }) => {
   return (
     <Layout>
-       <section className={Styles2.blog}>
+      <section className={Styles2.blog}>
         <Title title="UNNATI" subtitle="TIMES" />
         <div className={Styles2.center}>
           <article className={Styles2.article}>
@@ -29,17 +29,17 @@ const times = ({ data }) => {
               distributed free of cost among the students of Delhi NCR with the
               motive to spread awareness on different topics.
             </p>
-            <p style={{ marginBottom: 5,marginTop:5 }}>
+            <p style={{ marginBottom: 5, marginTop: 5 }}>
               To join Unnati Times or for any collaboration and sponsorships
               mail us upsc.cell.du@gmail.com
             </p>
             <br />
 
-            <p style={{ marginBottom: 5,marginTop:5 }}>Unnati Times Links</p>
+            <p style={{ marginBottom: 5, marginTop: 5 }}>Unnati Times Links</p>
             <a href="https://drive.google.com/file/d/14fGb_CwHgUCkU2Pkc63gJHnRwxR1HmbG/view?usp=drivesdk">
               Edition I
             </a>
-            <br/>
+            <br />
             <a href="https://drive.google.com/file/d/1o64eI_1qR7Xr1vZccTnhXnC9jdZK3hGs/view?usp=drivesdk">
               Edition II
             </a>
@@ -49,7 +49,6 @@ const times = ({ data }) => {
               Edition III
             </a>
             <br />
-           
           </article>
         </div>
       </section>
