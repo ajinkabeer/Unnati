@@ -4,7 +4,6 @@
   align-items: center;
   padding: 1rem 1.25rem;
   text-decoration: none;
-  overflow: hidden;
 }
 .logo-btn {
   background: transparent;
@@ -27,7 +26,7 @@
   overflow: hidden;
 }
 .show-nav {
-  height: 216px;
+  height:310px;
 }
 .nav-links a {
   display: block;
