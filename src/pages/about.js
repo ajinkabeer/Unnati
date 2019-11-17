@@ -9,6 +9,7 @@ import Styles2 from "../css/single-blog.module.css"
 import Lokesh from "../images/lokesh.jpg"
 import Ritik from "../images/ritik.jpg"
 import Jyoti from "../images/jyoti.jpg"
+import Album from "../components/album"
 import styles from "../css/single-blog.module.css"
 import lebanon from "../images/lebanon.jpg"
 import mountain from "../images/mountains.jpg"
@@ -28,7 +29,7 @@ const about = ({ data }) => {
           <div class="col-sm">
             <div style={{ width: 18 + "rem", textAlign: "center" }}>
               <div class="card-body">
-                <img alt="lokesh" src={Lokesh} style={{ borderRadius: 30 }}></img>
+                <img src={Lokesh} style={{ borderRadius: 30 }}></img>
                 <h5 class="card-title" style={{ marginTop: 20 }}>
                   Mr.Lokesh Chugh
                 </h5>
@@ -41,7 +42,7 @@ const about = ({ data }) => {
           <div class="col-sm">
             <div style={{ width: 18 + "rem", textAlign: "center" }}>
               <div class="card-body">
-                <img alt="jyoti" src={Jyoti} style={{ borderRadius: 30 }}></img>
+                <img src={Jyoti} style={{ borderRadius: 30 }}></img>
                 <h5 class="card-title" style={{ marginTop: 20 }}>
                   Ms.Jyoti Gupta
                 </h5>
@@ -54,7 +55,7 @@ const about = ({ data }) => {
           <div class="col-sm">
             <div style={{ width: 18 + "rem", textAlign: "center" }}>
               <div class="card-body">
-                <img alt="ritik" src={Ritik} style={{ borderRadius: 30 }}></img>
+                <img src={Ritik} style={{ borderRadius: 30 }}></img>
                 <h5 class="card-title" style={{ marginTop: 20 }}>
                   Mr.Ritik Shah
                 </h5>
@@ -88,7 +89,6 @@ const about = ({ data }) => {
             </p>
             <img
               src={lebanon}
-              alt="lebanon"
               style={{
                 borderRadius: 30,
                 width: "30%",
@@ -117,7 +117,6 @@ const about = ({ data }) => {
             </p>
             <img
               src={mountain}
-              alt="mountain"
               style={{
                 borderRadius: 30,
                 width: "30%",

@@ -18,7 +18,7 @@ const Blog = ({ data }) => {
       "embedded-asset-block": node => {
         return (
           <div className="rich">
-            <img alt="no-data" width="400" src={node.data.target.fields.file["en-US"].url} />
+            <img width="400" src={node.data.target.fields.file["en-US"].url} />
           </div>
         )
       },

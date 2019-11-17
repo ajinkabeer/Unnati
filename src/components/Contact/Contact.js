@@ -36,7 +36,7 @@ const Contact = props => {
           </div>
 
           <div>
-            <label htmlFor="name">Contact Number</label>
+            <label htmlFor="name">Contact</label>
             <input
               name="number"
               id="number"
@@ -45,12 +45,12 @@ const Contact = props => {
              />
           </div>
           <div>
-            <label htmlFor="website">Your Website</label>
+            <label htmlFor="website">Website</label>
             <input
               name="website"
               id="website"
               className={Styles.formControl}
-              placeholder="Your Website"
+              placeholder="Your website if available"
              />
           </div>
           <div>
