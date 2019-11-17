@@ -13,6 +13,7 @@ import Album from "../components/album"
 import styles from "../css/single-blog.module.css"
 import lebanon from "../images/lebanon.jpg"
 import mountain from "../images/mountains.jpg"
+import news from "../images/news.jpg"
 
 const about = ({ data }) => {
   return (
@@ -74,9 +75,9 @@ const about = ({ data }) => {
           <Title
             title=""
             subtitle="Achievements"
-            style={{ marginTop: 120, marginBottom: -60 }}
+            style={{ marginTop: 120 }}
           />
-          <article className={styles.article}>
+          <article className={styles.article} style={{marginTop:'6%'}}>
             <h4>Letter of Appreciation From the Republic of Lebnon </h4>
             <p>
               {" "}
@@ -92,10 +93,10 @@ const about = ({ data }) => {
               style={{
                 borderRadius: 30,
                 width: "30%",
-                border:'1px solid black',
-                display: 'block',
-                marginLeft: 'auto',
-                marginRight: 'auto'
+                border: "1px solid black",
+                display: "block",
+                marginLeft: "auto",
+                marginRight: "auto",
               }}
             ></img>
           </article>
@@ -120,11 +121,45 @@ const about = ({ data }) => {
               style={{
                 borderRadius: 30,
                 width: "30%",
-                marginTop:'6%',
-                border:'1px solid black',
-                display: 'block',
-                marginLeft: 'auto',
-                marginRight: 'auto'
+                marginTop: "6%",
+                border: "1px solid black",
+                display: "block",
+                marginLeft: "auto",
+                marginRight: "auto",
+              }}
+            ></img>
+          </article>
+        </section>
+      </div>
+
+      <div className={Styles2.center}>
+        <section className={Styles.about}>
+          <article className={styles.article} style={{ marginBottom: 10 }}>
+            <h4 style={{ marginTop: 15 }}>Newspaper Publication </h4>
+            <p>
+              {" "}
+              It is said, "Kids saving the world > adults saving the world." It
+              is important to inculcate the 'debate and discussion' culture in
+              them. To do that MUN can be really helpful. Unnati organizes Model
+              United Nations in different schools, our latest venture was
+              organizing MUN at Evergreen Public School, Vasundhara Enclave
+              where around 450 delegates form Dehi/NCR debated and discussed on
+              various topics like sustainable development goals 2030 etc. Rabie
+              Narsh, the ambassador of the republic of Lebanon and Naveen
+              Sharma, President International Society for Cooperation and
+              Development gave away the prize for the best delegate and the best
+              speaker.{" "}
+            </p>
+            <img
+              src={news}
+              style={{
+                borderRadius: 30,
+                width: "30%",
+                marginTop: "6%",
+                border: "1px solid black",
+                display: "block",
+                marginLeft: "auto",
+                marginRight: "auto",
               }}
             ></img>
           </article>
