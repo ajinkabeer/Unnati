@@ -166,18 +166,28 @@ const about = ({ data }) => {
         </section>
       </div>
 
-      {/* <section className={Styles2.imagegallery}>
-        <Title title="Mahapanchayat" subtitle="MUN" />
-        <article style={{ marginBottom: 20 }}>
-          Mahapanchayat MUN was held by Unnati on 27th and 28 th August, 2019 at
-          Evergreen Public School where students used their oratory skills to
-          discuss on different social issues. Young minds were molded to be
-          better leaders. School level kids joined this event and they proved
-          their point by a debate because debate and divergence of views can
-          only enrich our history and culture.{" "}
-        </article>
-        <Album id="pyebFG5jdXZHZwW28" />
-      </section> */}
+      <div className={Styles2.center}>
+        <section className={Styles.about}>
+          <article className={styles.article} style={{ marginBottom: 10 }}>
+            <h4 style={{ marginTop: 15 }}>Video Publication </h4>
+            <p>
+              {" "}
+              "With bad laws and good civil servants it is still possible to govern. But with bad civil servants even the best laws can't work. "
+So to mould the top-notch civil servants of tomorrow Unnati: The knowledge hub for civil Aspirants conducted its first interactive session at Hansraj College on 8 April 2017. Experienced and honoured civil servants Jatin Narval, Dr. Sudhir, Amitabh Khare came to give some knowledge about the civil services exam to the aspirants.
+The session was legit as the candidates went home with smile on their faces and new knowledge in their minds..{" "}
+            </p>
+            <div style={{ 
+              width:'50%',
+              marginTop:'6%',
+              display: "block",
+                marginLeft: "auto",
+                marginRight: "auto"}}>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/3tK1JUOc-fM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+           </article>
+        </section>
+      </div>
+
     </Layout>
   )
 }
