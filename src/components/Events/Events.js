@@ -180,6 +180,55 @@ const uthan = [
   }
 ]
 
+const samvidhan = [
+  {
+    original:'https://lh3.googleusercontent.com/A4YS9DOWKSf_cX4XOb-x_09IbLubesJ7UwImgslA0jLOD24b-g3SC_QnMHyyxyeb-cj9JPk4VRg78ugv3as660QC0sam0306jtwTTi99RNLl5C3eUlbZOxjAmi8EJPWVfuk3FGpNlQ_KqeYVDvEa4L04I1w0ujNSv6qp-_Ls7pz1I5mDPoCvue0uDe_KqQLJ2qV2njqP_cmU62PeQoOQFPRutZkUBSBvBsOcPHfGAS5VYtexvBhprrr-OBWLpK2G4hJnmmXNWsoIpHpucwrlUugmp6GrQQoVZ4ELSmsbsucpqFiTyfoOjCHjKtVrHDr4moFysvhT_rttawx1jfhyVgwf8Ut4zlmflJrUziGwOmWZGkfJQpz_M3-7k_kI4EthqjVrqeuZef_su9pQ3f8V85Tfs2wm-cqkM9IXP1UeVg7BlUjKTGKhG9e6qjXMVJxJ5SQmlZ3m9JoGMwwrRaOhrx61DPCpF1ncwyjLKYj1QhAD1wOyewt-8GPF90wGyP9uCZ6EWmaNM2XmRD_UVspqhKTyrvsuLdP2GL0dGI_3h0TL2ozWSDSqebI0aCgvRKwnKoTScDBPQDcKYcXVbJjFVUZE9FXDc-q_HzCySeTh1ihBEDkBi1hKCVXGQcVWajFKhvTnsaUEvAhcqsHjWJ7PeqkcvzzOSOC_H9CsJVqygjmtkAWLRFu2FnCPL6TaBDDabCbYzCw5sDgtVk3i7VRkAN9R-BsS50dfonP2iFhNBhEbrhe7=w720-h416-no'
+  },
+  {
+    original:'https://lh3.googleusercontent.com/TsvcC3uoDovsTcOmebFFXnsKifGI9jmjzjrCYvnmbxPpIMZpLOzDsOVELNJBrdkPF1z1kaa2hbvfHLO1ybdWwyG0d8RDWsysDka3fDKflBKB6eXW3SZ4UjJqPzdqTl4aR5CTGubgI6sYFYPzVG6Qq91PxTr6aGEx1E3InL5WOpxOKSFwAbXBSyqLFCP1Seunkub9l7gmXhmDYoZt7Bmuuv-VjlG02k5ghA0BUcm_hv6Rr4_DxTz6almp23ymf0aexSb4m7qgF077ZWt3g0hBiVIkVmHybOb0CCqJOEeGBGU28oUE2Ciqa8mmx_ugPQoHc7Ao-0s7tNbNZ8XcY6E1mXmCfTehtuxvl3OtWNy8TDAhwUMFt_xNPwNEd41E7XlF9Npga3yni9E75dPcd5Itz8yjJbN1qjPp53sj0ex5Ovkr1ZfP5sCr7kLQef3Yj4Tj81Ca7gjXjxmyzy6xct4qfCry34Zwiy8jxDLwijeRdT-FqogjxMbeyDZ3KBBTgPgFV8vXjWGdVf7_mVEx-5WdxoGDMZdus5ncedxWiK74OIbUM99S9m4mRjEyh2ssOrmJgI54hxF3Ghbg8or15XL9OyAoTSdl5UcKzPK4MYoWHMq16B5d0qRhH_6eW4rtChJdldRz-Y5eD1UtZ7Zswoh_32mxaYywfsEmN5EVWZnt3CHNiZOVDKlHMGv17txPawIrrAy7LWTYKWyTIXFYko3ZNhHLn8HIXgXypSNEVVo6SuNHfxRB=w720-h402-no'
+  },
+  {
+    original:'https://lh3.googleusercontent.com/6BJVWOPpgSFdST0QUsVHrg7NP1bfLpTm6dRfLf297OHKt_VI4o18bUTIXi3jDuNdVP3dxGKdGjjlIqaDyhZ1aReABkyO_r4MPmlUVWbiSA5NXoCrSiqBslEMF8N1ExBls41oyafYkVHpYSe4oUvLjKppZd_U7H8p8TN43HEskVgv92c9ArqRVppC6wYE5B5bCy1aFKh80oIYyTKW97s5gigo1TnN6cVqbj7GyvKmlUOMCUUgiyywOsWGkTgbh51A3ftVpWiWET7Oc4cAxPL-VBynwxkngPSK_6ONni5G17xkQV3fAKS5tPNsuTsscG243FQM48nv7Irlihsl-Y8qJmw2z84ZFk4Z2ZX_Oot5wyoBcMrCSL1zUNySH7VXULm5R_sRKEhh8QlbkfqrOk6dwdtW38tCeg-RC4vU_TRHvrKght8WKSb0zjmIrVMmj1FP7q-wENpelfKa-lh4NU7uHkKw9gicE5njpXLT9p3h51viktlN3O3EsVExqnpJXjFZ9x4tPVT2Z-ryJBGEfQplEGvfNBYLTUzi8tZ8XvME0oObQRdOQ7qm2QSHsJQuM29X0QhjM3HmU4qm_AyTwC_jWFRnkv05XZkoVoHOkQ20z3XuzjUNgFO77Dd99n9pm4Ms2eYamkEu6LOurQ_rxh4M2Gf6I31YL3cyktFAx2C4u4yVQUUipSkafkIwOS97qywQh1KPldPaSpDXPtTgA4Lon5ElqLUgbUUoNd3nh0aKEY118rTy=w720-h441-no'
+  },
+  {
+    original:'https://lh3.googleusercontent.com/ww5kNs3AQfYF_-YVh0G8OXWEqDNdjI_WMiDIutrI99XnKsAfAtgbZniC595r5dHlzZ8t61KGZXQHEdZMn4wtFO6SPdRDRoid0QYvSzAcG5lDh6JxZ6j2U18OuESEWyLy_xnFadd_7H1DdvVQu03TS0Q6QQSNDeut3Vj0VtNRG0pxSpVlz_hH1pLn92x5VmAZNHkS-dsm8e9tERoLXFoN6zEATf5wm09--bqjsnNVdDHjefVu_SiYaQjDWGhRPipgDmQnpSmYQg6gwqT7sT7zwYudqkMU4pOX_8ORsfU2NfYS6rsNeAxYRhWvYaQwLlStvrdDpVlUbqv3fPqYlEBReGqMtLZUeAZUJL_bacQLgGaXpPVnQ07cSTf7_Yn-UJTLJztu_puBQbpQ-gVhc4LT_XBuvmJycdc7DN8De0GS-P8H5s-xo0EmIdMm_oFYQlHPu1MNCTNZGickVbQPkSVOospfz_5ngWH4SnyN_aHoOasU-QoeK89s0o1lbljihSM7LDYalkFSpLfsWprdzLl21h5jR5_rsyyb850Zz1wor9lwfTlMqoSpq4FdQMFpZh-XBDi7J1PLbjgeMKTZGTIyeQ7Mg1dEchxcmjbTWXnOgQf0u5oXD8xGDb899R4dX_XoHzYMwVuqyjfjCic7n0pmHoItnbZN4MTVI4gD9_Upp9YdtqON8U1PLw9tIrk0zcrwjC9ocwr_mD1oyj5bht65uJRYve9YG0UcdZjXCj8efZzCK8V0=w720-h390-no'
+  }
+]
+
+const self = [
+  {
+    original:
+    'https://lh3.googleusercontent.com/4t0GbWOjugjeHs-HdaoKM4mAVpusuO7jqvT8IP1PklpYC_m-Aqlkkdc_p4bZnYARqLMKMQFoEM6cPC_19EiQBGen0lFZVBAVI5EcspHWr9mITkfeczUBgMfJbdMaz_EaqKlUhR6y2B8J-YRdsBoVAPp5P5Ejw3r8y8xVJU4AWMWPYcVVA58PcR86JfZoMHufsb4uykAooCN2C7uCYACuc0EEF18aLtPtOXKicydrJXbLGff7g4y9u2yo7EBmxni1jmUBNiOvdcEs2SQkuCMZp6Fv7hH3f_tRdkS8OzbuMBGy26odFMy0aeLhG3nx2Gr2iffYPpTLNVVoVmcMNTX-SdiL9MtN7pHwHwEzE98cCmDM1zCzsufnokFeDgmGgnLmwetwJkJs-MxzCtvpUB0y4J88hBYLVLuEOyuyuo6roaPQHVrWQgInb8TIjELkqZYDRyOS2QyQfYa_KV51KBIuxNYYImMH6iHbZh1wwI8pbSOwg1OtPkiJmu6pWih3T15T8pikDprYyYOE_ZkRBWNIfyoV4rrerU00gltsDrWrVN7dvyKf_cLf_8IOQ5Hy0KVyeja2fhsTV2XpiXEG9KtdqPZKQ25sYIOL8PQOGHvPhDcPodBqzkfXdfYYjzlK0oBE3cj3rzW-tPwWrxN3s1FyPOrUVdYs0_ZYE2IgX5gGPePwNhZVCfEkKxsrR-w8rfdhxc2HgvwmaQNiXuE7yzGArUFFIVVnmlstJnmDHRH4SHY-7nHa=w720-h540-no'
+  },
+  {
+    original:
+    'https://lh3.googleusercontent.com/1g_awKsSZWj0A6akmVLpoVDwk3BgiU955vU5a9S_eY7hDYOgGeR52EUaqaJ6BlyYRPgLtjSUi3smn3pcXHmNiJ4tZxizTZKsyyPQkljC1GauD-aa0ISxlV7KBh3vz4Jzy4rvuQHyyy2YwsU2KNLkgSEmP-xck7Z7rhhF4hcuhAOzdX6Jd9UopqU9rYR-6w0e7rV6aHPJMZeMlD_HcYgQPb3nHqynSUJeryQj2iYdBFfhNZt6tpTM9WoC2c71H9TIp7kuXNbGuLw-397yJkxEcd5ChAubpM_T0dOo_tZ0fxaJb60j_5cFaqXooBKjtgxB9JorIAbAkiDXHyliaqr6I2i_asW2BnMfPdAs-DW_bbLJoq15CyWwi9k4aVkf52k8tJCwnX94JPJuduA4rlvhG7uKIyxyh1SoJZEhoJQHTErvcn2IyU2353ZelJYSS5pKgBfSTniwpnezgZiCsbUFUEdp_cbOn5CrUlqAks2mIR06aOxSkENPO-zGB7U6CcUWa599XmxV-NbmNe8Cv7L0lV2LD10aWUgB4K2hXGZaJKJg-m9Ft-4jE4EMTNdcpmLa19g3286_tzFHMDYlqwbSpFLhdxDcFUsNkS36ME9cp_FfRBXAzzWP_ZJrrhkWlqfwz0ckU_zHw4hkhOIQdJ6ion2aXULZCsXAm8JPAiiSrWj7eer8oVlzfLDxtLIVOVFefyAmkMeoEZVcwqxU0FFfVzC3sjW3UfZ6Oe7O1GGkrybK71as=w720-h540-no'
+  },
+  {
+    original:
+    'https://lh3.googleusercontent.com/AHPdbPFh5xEuTGai8d2KfZJ0sGR6gTLkPexM7xFw9RAnhnNqLS3ac6xMCQXq2vpsVdNNdgGvy7f5AslGwrFLPUPU-1_TBAUubYV0Bnih0c9MNnc42QTDfmVLonzFo1jlfkKjv3cM09wVmeTIarMilm5lnseSQcVIrUs6TAVOJccNTgJEkU_st4ecseA4i7Edo_xpOJBFRM9dsgXbeQ8dnELu_jAvj9bBpmocAXCMhNZL2f2yVdGncNPfsui3Ej91kOJXzyUJhrUWundn4PuyUrtNSSfdeZNq2gxbHovZnb2gMPB1O18gllQG83WEU4V9jpHRE-5DN6QUOPHrorTpGOiecaNyGjcWpQw5LPk3GEvnFn4qVaZqwtribMsroUG-RdO3XBF2--mzkKB2zWcA45AQGLN24mtumz0ScsR5b7-pRM6js9SMB-Kg7KRBZSaHIdVG1wbfFYif6q7VcItk0XT8fSodE7Y5LqrVS1sz3_nYECmb92jaHnmxeDHmNNOPSQcb0QGWCNfRxSdSLVlxWqqDfMP9BBmsHhwWyZ-eEWfUT4yriLdCdW5-2EkvrNdv-03yy08Sq19-2yaMgdnmcBBdPKxlqv6KGdPsxzhx3Ux0qcMnAI1864paFdcgCDxIm-yAMIUYQIu4FUkvPLFkgGof3nfJLZYZnUfHfmefjUBDfZ2xX9Eu-n_HNP5YbNxOOsy1ik8rmXaKNjnTe5x1LD2sKRoBRWtVNrMctXyG8cmlZUu8=w720-h960-no'
+  },
+  {
+    original:
+    'https://lh3.googleusercontent.com/Z9U0Y6AGfxxTOl8DhmT97_E0rJ58ooB2LefiwahMsriQdBbypoHPJB_FMsgyncEyEAS6CqYwNRsbzqod3i8wv1Odjdcspi9CuKs5yu9IVHI6uGvKMmfNSgLRFh6uA0g-9Acov6NQgQ1ODySX9CyEeNMcdwnVLWB52ORqM1XpZVA2FNIClTom3vfig2RWONa4mowQmpPrBud7ZiSK3nbplHUiv3ZGk1KjcpGaQWGMxd2igImY5Xp6nxxHhzKW5YNOtZegi6CbQEionbn6K20-TNpTLnmC7EDsgWhJQeXt1gGsxIOB9sQFZc2S38zdEHqrOFR2OvDHiEJVd2DiwcLCVMU69O77SuGOoHSbhpcXsvZSwZ9o09eJmz8v_Yik-UL0ULSs7L5EoO5QQ7VdkNBCUfQBWKcu63Hdir953dpkauVQ00o11dral1sHRCqsjomnVU6w9Wj2gx_mZk0ZzVtXF40_9Mlh7AT7e7WVF9Mb4P2PfDXau7KVk54HrrwkLPHvGUxbXAenrj3Hpvd3esUGJlDRkNVpNTUxvMPOeiR6mzf-I-rYOheGdhzhVWoYSFkirwyphw8VHba6fF81dZVGznihDaJ_ipwckiFBI0juJwXteMY9NvNww1zShifzTqtfWtUPvSUlk8QG3b74LnwvgWgdariRtzilSqgtYcyPw5GLahsSJ2cw5MDscFaGRHnyoV4K7ISEMe4eC-ocqgh61GN9x8sMtbdJP-huLbMS9nfmX4C1=w720-h540-no'
+  }
+]
+
+const campus = [
+ {
+   original:
+   'https://lh3.googleusercontent.com/ovAX3fFk8Kgkjzjz8-uxFPLEWqhubELsD5YagXbCorRzNM55q3_q5eliY7Vd_8RfE8D1Uly0tmsn8By9H96ElCHUAJV6a3m5Eehv8PO6AgKbAtlMJWGxXk9J81IzhA9tuJuCc80WKtbW5AHZfNbAqPYmowO20ePiNvDUUoYTU-NGckKVJK7U3fFgjB3HysImFojJroCCY2jjiZmh3jT5uhIkQ1-_tdaZwOiyNnZRqlyT1qt8cMnLmpiJFeZ0OX4GHJtqEuFZQcwRqEIufjP8fxUZDntlSZYaWPEIIYK4cYWLkNKfHqf-6M242q8R41Fqj9NgcoqdoPgi38DC4bp-0bu6aiI1UZca-3m653ZZjRmcKxqkCd67fzko4_C9alsi0pXqtpkAHje4-lTWsbbdmcEpLYU5qthDcWaYGG3cxctZ2bolt8Fr5m1JCg0qEhzRPTwsvsSpC_o30pBxBt0i0dtuTYcDXy57NpUJfEUbnqVWvCoVyytDTyexsdiByLinL1uI5Q6ofOef3gc74Fph3Je1TX9CBY56ASjW9j3BAJ-X-nOY3iV5l9yFE6_vXqT3V866evGXUYWR7kjnR05t0Ja2_fjRuitosC_qxkzjfd-M-wRlA2Kcye0m-_gl5je2D2Qdb36R-iWO81B6uD7oO0amO0KLPXH-9nUDVDGbXNDfSF0xkY-BDOZlLcIMsuLc01o6bQh2r_0EhTUZnHbhecb5Q4Td6xTZSPrXqvnyKu8GZB5s=w720-h330-no'
+ },
+ {
+   original:
+   'https://lh3.googleusercontent.com/Yje6AM_0P1T_RSodiMo2AmDbyu5bxrB0tKer0Of8VAjcEnYkUzXIK3t9NCiUvu-KbUFwMWQjF4ATYlBNg_8NZEUNyOCTp49tmmRZta8aKXT3XigllrAKBWSmlzKuMdv8Lu0dge71PGhbk5ZUXbZ_r-aIw4kKW7_Mr2P9vt6AKVUVyqzdeH4_35whyv86CCPayvov_XW16se-N1OSPB5DaoS_ryOFdj10WAAWM6S0Qx9Ba4uYoFXQwLi5VJUApgigTimnjr97ndqKHoy_xaMj1yGYFzcpMwoKSkRwdh9CEJ_jTJgFWWDjVKtbn26iKP2iJzDLX1BONilNwlLzqJpXGgR0362XJPbyLXTLxFzfTcnSoCopvzP2Erv5-BUsC6Hp10wFlVQJoJW-Zu5292iyF6GQCxuLBpTmv7cCj_BtvagJJzjV1VLylSx1cnb9CpSzYqlKauYwEqu8vg1XQhJu0h91Yc_QSHddfWxmXsMKJcg6oIcQygfTHYJEqcSM2rFLpV3mgICkPj9ZffMVQo3mwY-dXzVS-CZsWt7jPFotU0ZS_MkuKWuTZ0yUM-hZsmQIrtd-EKfktvrlJgLuy-_0ew1B-fpkhHCkAnl-SEtLz5qCo1q_yrzi0hwxKrM5Z0EWUf_vu1W80KGgSJnR6SY9bRxD5-oCEHpyShH4bVKyKgoIPY4kBXUiS6Ov3FQMPZG26tCXnZMgYovavGQC2zcrnTpf_wG6lZJXKRvr3vcCynp168GM=w720-h480-no'
+ },
+ {
+   original:
+   'https://lh3.googleusercontent.com/Sg6SeIgBuHmLbpN3qJIQyNGNl-tZEJ6E_tkG68C3Jq3wWQmrNGb5nM_M9q_hhBZeGHfktJcd11RtRVtALDAxeOIEVQbX1HLMNPVf9pywOohNv-mStN8hixWw793-eQjPWUaBN8Sh2ZqNU7x513FszFYIHnWaZpY136Zf3Wp97ctitHuyx7nUrX6IHP_QeGfInpefqnQpEQJW-fwdF0etejS8OG8kTOc_ZsI4tD8kZ9KrCJwi8uQVZufUeVa0dITxpfeEN7keQLd3_shB2BwNC_h9QymgcAkoAhTIpy3Ke541zXzJW4WNkFFEZ3nqvUD5ZTf8Rd4ZtUKKMoBfIZVuMiAwcOx7nX1Jsx3YMU8kpDB3YJJ75OABeQJsrixxjLduiK1bQaypRWP4QYu2pSZ7mvRa-5ztWiZrYPqyii1KWDRLSL1fR3GiJBUompxtGLy-O42OK-4bYIXNmRXeteB1huPQ0Z8f8-vRoKjYMLzXWLgSlAiQD6oUeaHICQGOgP_Zma0Zj2eAEyiXe1PqbMuViwzVCLVflfoqFDmzkNXZvDfp9pGakIhUkFNgaohUwUJB-8XD_zPloWIExS1D8QFPBp8l-OeGl_7P7g89raLGVOnVj5Nys-EMK3NwLYl-ZdL5w1S44Ygy2Nf-RaeF6HglALH_1J6MaWVs0ustpLrchiiPfGD1eB_v3VMQxvhWO2bqPNjE0z2fURa3_9ozonK850sUMgU3s98s3gtARa8nZwrdwVBa=w700-h933-no'
+ }
+]
+
 class events extends React.Component {
   render() {
     return (
@@ -445,7 +494,7 @@ class events extends React.Component {
             <article className={Styles.aboutImg}>
               <div className={Styles.imgContainer}>
                 <ImageGallery
-                  items={parliamentaryDebate}
+                  items={samvidhan}
                   showPlayButton={false}
                   showFullscreenButton={false}
                   showIndex={false}
@@ -473,7 +522,7 @@ class events extends React.Component {
             <article className={Styles.aboutImg}>
               <div className={Styles.imgContainer}>
                 <ImageGallery
-                  items={parliamentaryDebate}
+                  items={self}
                   showPlayButton={false}
                   showFullscreenButton={false}
                   showIndex={false}
@@ -495,6 +544,27 @@ class events extends React.Component {
             </article>
           </div>
         </section>
+
+        
+        <section className={Styles.about}>
+          <div className={Styles.aboutCenter}>
+            <article className={Styles.aboutImg}>
+              <div className={Styles.imgContainer}>
+                <ImageGallery
+                  items={campus}
+                  showPlayButton={false}
+                  showFullscreenButton={false}
+                  showIndex={false}
+                  infinite={false}
+                />
+              </div>
+            </article>
+            <article className={Styles.aboutInfo}>
+              <h5>Unnati on Campus</h5>
+            </article>
+          </div>
+        </section>
+
       </div>
     )
   }
