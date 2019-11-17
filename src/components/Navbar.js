@@ -10,11 +10,17 @@ const Navbar = () => {
     setNav(isOpen => !isOpen)
   }
   return (
-    <nav className={Styles.navbar}>
+    <nav
+      className={Styles.navbar}
+      style={{
+        boxShadow:
+          "0 4px 6px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.05)",
+      }}
+    >
       <div className={Styles.navCenter}>
         <div className={Styles.navHeader}>
           <h3>Unnati</h3>
-            <button type="button" className={Styles.logoBtn} onClick={toggleNav}>
+          <button type="button" className={Styles.logoBtn} onClick={toggleNav }>
             <FaAlignRight className={Styles.logoIcon} />
           </button>
         </div>

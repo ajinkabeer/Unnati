@@ -7,7 +7,7 @@ import Styles from './layout.css'
 const Layout = ({children}) => {
   return (
     <main>
-    <Navbar />
+    <Navbar style={{  boxShadow:'2px'}} />
     {children}
     <Footer/>
     </main>
