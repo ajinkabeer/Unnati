@@ -1,13 +1,9 @@
-import React, { Component } from "react"
+import React from "react"
 import Layout from "../components/Layout"
-import Styledhero from "../components/Styledhero"
 import { graphql } from "gatsby"
 import Title from "../components/StyledTitle"
 import Styles from "../css/about.module.css"
-import Abouts from "../components/About/abouts"
-import Homeabout from "../components/Home/About"
 import Styles2 from "../css/single-blog.module.css"
-import Album from "../components/album"
 import styles from "../css/single-blog.module.css"
 
 const uthan = ({ data }) => {

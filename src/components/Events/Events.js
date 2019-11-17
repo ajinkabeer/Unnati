@@ -1,5 +1,4 @@
 import React from "react"
-import styles from "../../css/single-blog.module.css"
 import "bootstrap/dist/css/bootstrap.min.css"
 import ImageGallery from "react-image-gallery"
 import Styles from "../../css/about.module.css"

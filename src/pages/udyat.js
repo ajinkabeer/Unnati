@@ -1,13 +1,9 @@
-import React, { Component } from "react"
+import React from "react"
 import Layout from "../components/Layout"
-import Styledhero from "../components/Styledhero"
 import { graphql } from "gatsby"
 import Title from "../components/StyledTitle"
 import Styles2 from "../css/single-blog.module.css"
-import udyatimage from "../images/udyat.jpg"
-import udyat2 from "../images/udyat2.jpg"
-import udyat3 from "../images/udyat3.jpg"
-import udyat4 from "../images/udyat4.jpg"
+
 
 const udyat = ({ data }) => {
   return (

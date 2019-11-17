@@ -1,7 +1,5 @@
 import React from 'react'
-import Title from '../StyledTitle'
 import Styles from '../../css/services.module.css'
-import Services from '../../constants/services'
 
 const abouts = () => {
   return(
