@@ -29,10 +29,10 @@ const times = ({ data }) => {
               distributed free of cost among the students of Delhi NCR with the
               motive to spread awareness on different topics.
             </p>
-            <i style={{ marginBottom: 5,marginTop:5 }}>
+            <p style={{ marginBottom: 5,marginTop:5 }}>
               To join Unnati Times or for any collaboration and sponsorships
               mail us upsc.cell.du@gmail.com
-            </i>
+            </p>
             <br />
 
             <p style={{ marginBottom: 5,marginTop:5 }}>Unnati Times Links</p>
