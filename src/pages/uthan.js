@@ -67,6 +67,27 @@ const uthan4 = [
       "https://lh3.googleusercontent.com/BxelsKL2YGJz9K2IGeOeRZFvXmrC6jW8eVm8dZDgp474hUBV9RA4vWDmUpWhFNCH5kuXw4B-fr6o_NcTDLd_vQLHzH_he4x_Hpb8e9lNsTDtML6OVXxJH26bZ3VJB6YFWKj8fR9Z-qzv7_o1DAm4rjAWm_ORki6yYpJeyjbqUlOZvRpidS-IUdH8oyK4BqmQCRt6VsYXzUX0F_D3z6dK_Gna7w5lPpcKN8KVSUz_ocurybhh0JnFSwy2_-v_HHBRHrG1SJnGuLwY0yPxTBTyRpid2UHxHZW4HNIkuo1Gu9cH831vRlva1sDnkjWiGgsa2WYfRV0wQwnpAjDtEJIZcq9UdKsWho29oyYUwvq0hqimUv5FfKOXxQ5PSRmHf4DudawFU1UC8IQXz0tMzsrdfpxX6Q2PngV4IKloExmAdTo8uYZtxr3C3BJhxNc493Nd5Kreom-CADyzhcliQOk-XPVHViIVlSQO6BESd-QAP-qXZEotDklegiRN9PsSJTNK-cgFJWE-gS4KFe88fgoUJHM0LIReJp08_lWYr7R_nLHNSJqMZz6W718bt10ahrArjtU8p7NiDm4tdzgjhmRpepySiJpjOu2oZfTnYIWrERocJIlNoiXGaEU8qldNACm0_CA7xZzlMTk3YPZDtp5Fubzp_mvzIVco4OjupUodHMcfNYwRQSP2zfz_7F4fDnVaWC7ubQLlB0_r1URUEzbsPwYauUnxcCIbxu8yX53RxyPI3r8=w1152-h864-no",
   },
 ]
+
+const uthans = [
+  {
+    original:
+      "https://lh3.googleusercontent.com/1u4hMxeQMxrpM0hagKOhk-dCzYr2kBhmixp3M-yJxeQRVpY4QO5CjR9SK2WMI0JRX2ZlNGbJ0FrmuGB3ms9EVWfkCoM9J61zQNiadrc3Gy2pw6ekHr-Kt56Tb14NWcv_1Hg9mFOQCuteFvYESbx3eulYNsTr9YS92IA8BalzqgzOyhMj3jJfpYV3CJrZyFbuZtDdc1C831V6UREfm6tK6QxkNEeBTcDOQ6CgM-Tgk6Y0bj-_qQ_rrQQnaaIgIvgc8Qs67F6OrhQRKBiXpFIcxDZht98skW3PGffLaOP_rnoARrh3XLBDk3V30pOYB8Rw-bI_tYmkVxX1Blh1MbSoIvEITzz4C229toHc4GBpOwVfpvkXARneaGBjeOv-EaWwueWW6JBBHgPWMkdnO0N3XaNGze17r6YomXraKLStRDEWsS8SXgDHABKqQOlu0Si80Z3vtsb1Mx_yDqyLxy6ORcmE7xlBg0hRgQ7Sq4JmtNwbmNHnA-bIfXAtw6PbwFFC_lPpsdg9VXvGweJkbKer5LFs_3lBT4i5jjIQi6GX3w5CZl8a2i4qzHshEsH1EJRmXF5qFigxvX99XI9zY_5bcymiXVJvOa9ABPKuLXtlX4WCH3NJ-2IP5CmIj8v77vsTr_gVIXpQqtubAt18UM84VVlv1FcleWo8Eh-L3C6O_lEGKl7OtBHthEn5Ez-5XgkWGMiOofAHOHcAO6pS9ntx5B7Jo8hoKR0h5z_wo76rqvTxeeA=w348-h260-no",
+  },
+  {
+    original:
+      "https://lh3.googleusercontent.com/6HQpn2zE8Np8G-thc_9TOXIkKnfsYlvIW5OEwcyadjjx4ybhooKaRrZdj3B__Qi2LIoMJuw2IGmqO7D3wghqt8Ezrk_ogF7D7volVh3kWfwiQDQYV5h_1f8S5OezFbXYoK8e9L0jkmkkd2bCu1vUrrF0d5ujZtcXnLCPbOd3seCUCZbPhdBzgeNjdaMQKPFoGG3zsOAlzwuBO3sWB7iQMINwyHYhJ9gCdOtCoSwa72ivovG5RnusRFcaaJ9BSONwzJyYwKq4WfohdcHwDgcJM3rVJwAKvI0VOjYR2G--Swylp3EsNdA8Vz6STicCR-B8E8PCn3yrOmOKYy1HC1izwhTUMk2pn2lRzPdGikQ8yZcYDnGcpZgTRvnbMzNPfCmmvpBwNBiU9iJhXDkDBzonOZn-5oTIviQNdKv2RnACne6xL0rIt6cG8HMVed69o9UkkQuRfudgGFUi0UpBUbTffNLjlmeKosoeWJy6veYqlPdqeZDB3mcacjqOlj7xSOKs7oqlgS_Kf8c6ZEBZfTUNoPBa1Xe-RBAa4rw8fZd6PUkXA_KoKxfc4Xshe0o4d_jLYxbwbKZzr9prdoplQ2BQfuZyn7teJJ3MLdWvt-jSg8sje9fo9cvoKri3Xw9_Trqh0TuLhnIEtFhBOsniSf9z-vRBQahSzjVnxMrIxCMFWEIYbYHvZrZqgUR_UXhuQRhbTTsFvVMrUyPq-po7ysoCvso8y9DnmXr5286u7Zp1svymTUo=w348-h260-no",
+  },
+  {
+    original:
+      "https://lh3.googleusercontent.com/SHchiPdDlA0C7FOafCz3FCZDVNFF6wTcRgQULZwxeFmjLjPOun64PTjC5XEiJi52JqbyeAAxyr8Ye96YdM_hTDdqBqOF-sclOHMHJnXq9e9MU297f_UB81r8Ho3Lh2NFYNieJajpeFdCTHcLF_E73rvTfmgoMYXLLSQtLNwxDVDQH44-TzWqMi2PBwlw6WAgWeDfrw9GEg9PtOi7FdI5UlSTlJ3lMMTjFTtGS127se3iEKcXo5Yid4FfZYGpLpEuRhDjyjCinwsYD5FCOp7YSrDoWs9r0OmzUujhR_20_wtcJXFBGD4ohG6cQjd71YmVe4hxUgM8q7vQr6FAmKLBhkltWoe4rOvwHhmg6HPK--4ou1TjuSqjpsQvAYNt5Ytv8in2NtvS1fhVpdJveMnhuyxmXd2zf_-A6XZf-49wgnO2Eqmb72uLVRwMCZU-cBK90bntn1H-1OIQPB7oJF9vWvoR1LZqVQMzEH_Q2ChQZIlMg-TXucPcmaGmp36Honq5jrq-zrk9Di-Nz4jYbFM3BGrF5qaWNxCrjfrQ9jLTOrgzBwy0BodCvevosNOUGDUMmK03ldr0IiHzvrXDNZh1HWYVCo4JeiPh74-vE6MDrlF_EWoorxiCRzbG_kDqTsk4VmO44YGnktxpBF8QBrsUo_qArOpuggFvVyrHHptGy9UPp-Qe2mzmu0_Z8m_YtjJw-m3t-R_E8rpW5Xe0tpIy_ugb1PvPrHN2XGd9N8T9SWnmyHY=w1232-h816-no",
+  },
+  {
+    original:
+      "https://lh3.googleusercontent.com/xPChTEGiokcDsT-u-7tkd6jXAlErmNNIqAhH-cnWpT1Lo0jHB7ngPM1AvUXTHam1n4X0IV3cq223bpjl-fNEM3-qgCmHQAhbzL0G0XOgK-Lb2l8qJaV5sY30-kADVSZriz2H2zaeiVRz-c7etEusoCJnHnubCcV34SAWOP_ewMuvoIPrP6QWGBDzCon1ifSbwzqtIYi6RJObxAUiJSi8oQyX1g_JgquacYVQVGg7cnquPz2cQL-fY6yP7gbc5x_AUTGkvWfZHxWrsnhBsLqCJQo3VYiscboHYxkBddx84UUwQS5Xmhwhj6ArR2wZ1UZf-eklstK4Ocl4PmT13_tHD0L55OaWqmNUgqXn_8-Blei9e1hTbTTDiypZ7MXsmpQO6uPnejFUpAv-Wi9QlzjtdW6TkSuUyvYy6EXUsPoNW1D_c2RxzXJWoaQPygoH0Jx9ZmLiNhIRwNwM8J5XyLVheAEpCTAulIgXxOsk0ztyEyOwLJtdCjlZ2KlSK52SEwefmrpQv4OvxprF3KBQTztnQhZlKxmycj8-QYYNdWMibUqvU7Yakc-Dh0miwVq8i4fGC_YfC6HuwT_4y8rDjdNa-tk7xQJOAMXUE958lbiUW_Xuh2S_dhDWhg5Lr6eg5ve31TUMKKxpWEOfx5DHw_LPBcBfNexegtGD5x2oopdLUvFzDNzxDTBRb5xNfvXLISlwb1b_YiZR_wj8AgjhYGA3MT0SXaOp_nYYVy8uan3piknHmxs=w1232-h816-no",
+  },
+]
+
+
 const uthan = ({ data }) => {
   return (
     <Layout>
@@ -115,6 +136,38 @@ const uthan = ({ data }) => {
         </div>
       </section>
       <Title title="Uthan Youth Parliament" subtitle="events" />
+
+      <section className={Styles.about}>
+          <div className={Styles.aboutCenter}>
+            <article className={Styles.aboutImg}>
+              <div className={Styles.imgContainer}>
+                <ImageGallery
+                  items={uthans}
+                  showPlayButton={false}
+                  showFullscreenButton={false}
+                  showIndex={false}
+                  infinite={false}
+                />
+              </div>
+            </article>
+            <article className={Styles.aboutInfo}>
+              <h5>Uthan Youth Parliament</h5>
+              <p>
+                {" "}
+                Unnati organized its first edition of UTHAN YOUTH PARLIAMENT on
+                20-21st January'18 with the foremost motive to encourage healthy
+                debate and deliberation. The conference was a simulation of four
+                Indian committees namely Lok Sabha, National Security Council,
+                All India Political Parties and Meet and stakeholders meet. The
+                Uthan Youth Parliament was a success with the participation of
+                more than 350 delegates from all over India. TIt was graced by
+                the presence of eminent dignitaries like Mr. Eldo George
+                Varghese, Mr. Vinod Kumar Meena(IPOS) and Mr. Sanil Sachar.
+              </p>
+            </article>
+          </div>
+        </section>
+
 
       <section className={Styles.about} style={{ marginTop: -30 }}>
         <div className={Styles.aboutCenter}>

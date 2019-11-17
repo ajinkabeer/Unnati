@@ -23,14 +23,13 @@ const journey = [
   },
   {
     original:
-    "https://lh3.googleusercontent.com/bRH0NKDv0CBzf7oH4l6RBxCnVwwXscQUoPd4EV0YvM_SOIuO9RLJTRagTFfD-TdGhxsY2PYtxoQBnbRXkXKpPKJIJ46ynD2S7pdkgdRpHHZ_DoeIfIs5O8PCP-8QmmtY5teb-kSU3KKjexGkBkHlANgDbbBCjCROgveW9EbR3y23Mi8ZwpHBAiZH5J7WQ_Itph_K6DSgoWqF_C39D7srxcYfMDku3DbWRtdmokgeVDDlnYivkwefyfv2ystXWzGtZMo1LQs4flhFGHEejV3CMljq8Y-Z60uoZjn4dR7yHltkM-Fd6WGK-z-o93-snzsqJyTk_lRuvIfOlZR4pUbqdztwPJs2g7k8627qm-KGthRETCdolMccisnis9FqOe7SNNejbKZue4BL4-CDDgSpc4Beu5_4-HztveMSLjtG4LOt6ALWowSNpW3sILCJCmVReaz345bkLwv0ORk4RHcGcz0Dl2gsuhb_ukAJLQWzPik1OWj1-g6CkZz7sGRL36XCEMwDjPb0haC5aDZqGH6eEIFUOyT7LMsWq4IhNc9bqNP0a-K8kN5YPeSqjZdNZMQmPkO_HupxAWkH2D6OehGIVqzuPT4Nz7UJSv-65h4B_ujhRXYln_PGYhIq_cIKfPXi6xlkqsL14xrGd2wqifitk-mo_ReLG1U2aFXAs41e8c432_AEjmkjalowEUptlSMsA8CA7DmfGkKrJAT3_0Hy5_3k3nCo2m6T_j49Gsk98uhU_po=w719-h960-no"
+      "https://lh3.googleusercontent.com/bRH0NKDv0CBzf7oH4l6RBxCnVwwXscQUoPd4EV0YvM_SOIuO9RLJTRagTFfD-TdGhxsY2PYtxoQBnbRXkXKpPKJIJ46ynD2S7pdkgdRpHHZ_DoeIfIs5O8PCP-8QmmtY5teb-kSU3KKjexGkBkHlANgDbbBCjCROgveW9EbR3y23Mi8ZwpHBAiZH5J7WQ_Itph_K6DSgoWqF_C39D7srxcYfMDku3DbWRtdmokgeVDDlnYivkwefyfv2ystXWzGtZMo1LQs4flhFGHEejV3CMljq8Y-Z60uoZjn4dR7yHltkM-Fd6WGK-z-o93-snzsqJyTk_lRuvIfOlZR4pUbqdztwPJs2g7k8627qm-KGthRETCdolMccisnis9FqOe7SNNejbKZue4BL4-CDDgSpc4Beu5_4-HztveMSLjtG4LOt6ALWowSNpW3sILCJCmVReaz345bkLwv0ORk4RHcGcz0Dl2gsuhb_ukAJLQWzPik1OWj1-g6CkZz7sGRL36XCEMwDjPb0haC5aDZqGH6eEIFUOyT7LMsWq4IhNc9bqNP0a-K8kN5YPeSqjZdNZMQmPkO_HupxAWkH2D6OehGIVqzuPT4Nz7UJSv-65h4B_ujhRXYln_PGYhIq_cIKfPXi6xlkqsL14xrGd2wqifitk-mo_ReLG1U2aFXAs41e8c432_AEjmkjalowEUptlSMsA8CA7DmfGkKrJAT3_0Hy5_3k3nCo2m6T_j49Gsk98uhU_po=w719-h960-no",
   },
 
   {
     original:
       "https://lh3.googleusercontent.com/7ntONBcSPJlBL1D4oaGEJyHEQpBdcSmGg44ANxSUZsCM1SESZMFw_27FJt08xPYVqvv6TGPNINd5dMVdYHUOE6I8sw9VcVQgVh2b29MV_PVROCAoAC4t0_JBCHK6OAbDR1iQpd-ILzebtWBrT7GBjbZCF_cUqc0WKvB8-w04jtWYvwaVu46RNVyUBrwL0o5oifTH7M2LFdSbhb4TC33MD7UaIrglWC_FHX9q7kK8sQgGL9UPJ4STBmz1RkhPRUEV7GgSl7m3H5hY62Yq5jl-dPhbdHk5ejedRPvZWQHshpx45irmtSvXzUQpWlArWi9Gml18aavMQYF1CkUnLmY-HnPP5PrD-UbVyFJqlyLUavUWSnpKQf-ySpJ2C8civ_0Gvsnx-WMQV3Xzmr4oFSZd0kVBQVhvupR-UZjdVLTA3mb5t4ZispdqPcMuKOVgF91vmSxLf9kSh8PalGhbr9O0yR1xIczjldLwMfwL7CpyNNyvzQ6Mu-Hv0Daw1Ld5taPMaY9KTg6J71taXwlsbhKcont2nisB2aLXp-gTuYn8-pLf6FxihRaF1f1_on3qCgrGoC2042aE4mY7QpJgRBkqt4QtF_WSIuTjNwGI0SngNfGMNfRhtGbHfne5tiQ5wuHvJ73Ykoi59KMH-OS6A8SahQ99uCWjC4JQI6qX5mpU7_3vSoD5OU1VzVjEW5vXyXoDtVdWsuA379LKxZCnZ-AqXCChp0mGZyiGAffjR6rTsSYBKaLt=w720-h960-no",
   },
-
 ]
 
 const about = ({ data }) => {
@@ -120,68 +119,96 @@ const about = ({ data }) => {
       <div className={Styles2.center}>
         <section className={Styles.about}>
           <Title title="" subtitle="Achievements" style={{ marginTop: 120 }} />
-          <article className={styles.article} style={{ marginTop: "6%" }}>
-            <h4>Letter of Appreciation From the Republic of Lebnon </h4>
-            <p>
-              {" "}
-              Opportunities don't happen. You create them. Only those who has
-              readiness to go too far can possibly find out how far they can go.
-              Team Unnati feels empowered and ecstatic by the overwhelmed
-              gesture shown to us by his Excellency Mr. Rabie Narsh(Ambassador,
-              Embassy of Lebanon) and sending us a letter of Appreciation as a
-              token of respect for our service to society.
-            </p>
-            <img
-              src={lebanon}
-              style={{
-                borderRadius: 30,
-                width: "30%",
-                border: "1px solid black",
-                display: "block",
-                marginLeft: "auto",
-                marginRight: "auto",
-              }}
-            ></img>
-          </article>
+
+          <section className={Styles.about}>
+            <div className={Styles.aboutCenter}>
+              <article className={Styles.aboutImg}>
+                <div className={Styles.imgContainer} >
+                  <img
+                    src={lebanon}
+                    style={{
+                      border:'1px solid black',
+                      display: "block",
+                      marginLeft: "auto",
+                      marginRight: "auto",
+                      width: "65%",
+                      marginTop:-15
+                    }}
+                  ></img>
+                </div>
+              </article>
+              <article className={Styles.aboutInfo}>
+                <h5>Letter of Appreciation From the Republic of Lebnon</h5>
+                <p>
+                  {" "}
+                  Opportunities don't happen. You create them. Only those who
+                  has readiness to go too far can possibly find out how far they
+                  can go. Team Unnati feels empowered and ecstatic by the
+                  overwhelmed gesture shown to us by his Excellency Mr. Rabie
+                  Narsh(Ambassador, Embassy of Lebanon) and sending us a letter
+                  of Appreciation as a token of respect for our service to
+                  society.
+                </p>
+              </article>
+            </div>
+          </section>
         </section>
       </div>
+      
+      <section className={Styles.about}>
+            <div className={Styles.aboutCenter}>
+              <article  className={Styles.aboutImg}>
+                <div  className={Styles.imgContainer}>
+                  <img
+                    src={mountain}
+                    style={{
+                      display: "block",
+                      marginLeft: "auto",
+                      marginRight: "auto",
+                      width: "85%",
+                      marginTop:-15
 
-      <div className={Styles2.center}>
-        <section className={Styles.about}>
-          <article className={styles.article} style={{ marginBottom: 10 }}>
-            <h4 style={{ marginTop: 15 }}>Unnati on Mountains </h4>
-            <p>
-              {" "}
-              Every mountain top is within reach if you just keep climbing.
+                    }}
+                  ></img>
+                </div>
+              </article>
+              <article className={Styles.aboutInfo}>
+                <h5>Unnati on Mountains</h5>
+                <p>
+                  {" "}
+                  Every mountain top is within reach if you just keep climbing.
               Scrambling the steep slopes and rattling over various cuts is not
               everyone’s cup of tea. Unnati salutes the audacity, wisdom and
               courage of our team member Nitish Singh on successfully conquering
               the Mt.Stok Kangri and hoisting Unnati's flag at the peak of Mt.
-              Stok Kangri.{" "}
-            </p>
-            <img
-              src={mountain}
-              style={{
-                borderRadius: 30,
-                width: "30%",
-                marginTop: "6%",
-                border: "1px solid black",
-                display: "block",
-                marginLeft: "auto",
-                marginRight: "auto",
-              }}
-            ></img>
-          </article>
-        </section>
-      </div>
+              Stok Kangri.
+                </p>
+              </article>
+            </div>
+          </section>
 
-      <div className={Styles2.center}>
-        <section className={Styles.about}>
-          <article className={styles.article} style={{ marginBottom: 10 }}>
-            <h4 style={{ marginTop: 15 }}>Newspaper Publication </h4>
-            <p>
-              {" "}
-              It is said, "Kids saving the world > adults saving the world." It
+          <section className={Styles.about}>
+            <div className={Styles.aboutCenter}>
+              <article className={Styles.aboutImg}>
+                <div className={Styles.imgContainer}>
+                  <img
+                    src={news}
+                    style={{
+                      
+                      display: "block",
+                      marginLeft: "auto",
+                      marginRight: "auto",
+                      width: "50%",
+                      marginTop:'-3%'
+                    }}
+                  ></img>
+                </div>
+              </article>
+              <article className={Styles.aboutInfo}>
+                <h5>Newspaper Publication</h5>
+                <p>
+                  {" "}
+                  It is said, "Kids saving the world > adults saving the world." It
               is important to inculcate the 'debate and discussion' culture in
               them. To do that MUN can be really helpful. Unnati organizes Model
               United Nations in different schools, our latest venture was
@@ -191,50 +218,17 @@ const about = ({ data }) => {
               Narsh, the ambassador of the republic of Lebanon and Naveen
               Sharma, President International Society for Cooperation and
               Development gave away the prize for the best delegate and the best
-              speaker.{" "}
-            </p>
-            <img
-              src={news}
-              style={{
-                borderRadius: 30,
-                width: "30%",
-                marginTop: "6%",
-                border: "1px solid black",
-                display: "block",
-                marginLeft: "auto",
-                marginRight: "auto",
-              }}
-            ></img>
-          </article>
-        </section>
-      </div>
+              speaker.
+                </p>
+              </article>
+            </div>
+          </section>
 
-      <div className={Styles2.center}>
-        <section className={Styles.about}>
-          <article className={styles.article} style={{ marginBottom: 10 }}>
-            <h4 style={{ marginTop: 15 }}>Video Publication </h4>
-            <p>
-              {" "}
-              "With bad laws and good civil servants it is still possible to
-              govern. But with bad civil servants even the best laws can't work.
-              " So to mould the top-notch civil servants of tomorrow Unnati: The
-              knowledge hub for civil Aspirants conducted its first interactive
-              session at Hansraj College on 8 April 2017. Experienced and
-              honoured civil servants Jatin Narval, Dr. Sudhir, Amitabh Khare
-              came to give some knowledge about the civil services exam to the
-              aspirants. The session was legit as the candidates went home with
-              smile on their faces and new knowledge in their minds..{" "}
-            </p>
-            <div
-              style={{
-                width: "50%",
-                marginTop: "6%",
-                display: "block",
-                marginLeft: "auto",
-                marginRight: "-50",
-              }}
-            >
-              <iframe
+          <section className={Styles.about}>
+            <div className={Styles.aboutCenter}>
+              <article>
+                <div>
+                <iframe
                 width="560"
                 height="315"
                 src="https://www.youtube.com/embed/3tK1JUOc-fM"
@@ -242,10 +236,25 @@ const about = ({ data }) => {
                 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                 allowfullscreen
               ></iframe>
+                </div>
+              </article>
+              <article className={Styles.aboutInfo}>
+                <h5>Video Publication</h5>
+                <p>
+                  {" "}
+                  "With bad laws and good civil servants it is still possible to
+              govern. But with bad civil servants even the best laws can't work.
+              " So to mould the top-notch civil servants of tomorrow Unnati: The
+              knowledge hub for civil Aspirants conducted its first interactive
+              session at Hansraj College on 8 April 2017. Experienced and
+              honoured civil servants Jatin Narval, Dr. Sudhir, Amitabh Khare
+              came to give some knowledge about the civil services exam to the
+              aspirants. The session was legit as the candidates went home with
+              smile on their faces and new knowledge in their minds..
+                </p>
+              </article>
             </div>
-          </article>
-        </section>
-      </div>
+          </section>
     </Layout>
   )
 }

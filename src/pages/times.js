@@ -29,13 +29,14 @@ const times = ({ data }) => {
               distributed free of cost among the students of Delhi NCR with the
               motive to spread awareness on different topics.
             </p>
+            <a href="https://www.facebook.com/groups/407901806432989/">Find us on facebook</a>
+          <br />
             <p style={{ marginBottom: 5, marginTop: 5 }}>
               To join Unnati Times or for any collaboration and sponsorships
               mail us upsc.cell.du@gmail.com
             </p>
             <br />
-
-            <p style={{ marginBottom: 5, marginTop: 5 }}>Unnati Times Links</p>
+             <p style={{ marginBottom: 5, marginTop: 5 }}>Unnati Times Links</p>
             <a href="https://drive.google.com/file/d/14fGb_CwHgUCkU2Pkc63gJHnRwxR1HmbG/view?usp=drivesdk">
               Edition I
             </a>

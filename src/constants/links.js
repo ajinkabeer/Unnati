@@ -16,6 +16,10 @@ export default [
     text: "about",
   },
   {
+    path:"/join",
+    text:"join"
+  },
+  {
     path: "/contact",
     text: "contact",
   },

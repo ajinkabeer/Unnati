@@ -3,6 +3,7 @@ import { Link } from "gatsby"
 import Styles from "../css/navbar.module.css"
 import { FaAlignRight } from "react-icons/fa"
 import social from "../constants/social-icons"
+import logo from "../images/logo.jpg"
 
 const Navbar = () => {
   const [isOpen, setNav] = useState(false)
@@ -19,7 +20,7 @@ const Navbar = () => {
     >
       <div className={Styles.navCenter}>
         <div className={Styles.navHeader}>
-          <h3>Unnati</h3>
+         <img src={logo} style={{width:60}}  />
           <button type="button" className={Styles.logoBtn} onClick={toggleNav }>
             <FaAlignRight className={Styles.logoIcon} />
           </button>
@@ -60,6 +61,9 @@ const Navbar = () => {
           </div>
           <li>
             <Link to="/events">Events</Link>
+          </li>
+          <li>
+            <Link to="/join">Join</Link>
           </li>
           <li>
             <Link to="/contact">Contact</Link>

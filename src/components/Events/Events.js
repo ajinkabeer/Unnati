@@ -160,25 +160,6 @@ const career = [
   },
 ]
 
-const uthan = [
-  {
-    original:
-      "https://lh3.googleusercontent.com/1u4hMxeQMxrpM0hagKOhk-dCzYr2kBhmixp3M-yJxeQRVpY4QO5CjR9SK2WMI0JRX2ZlNGbJ0FrmuGB3ms9EVWfkCoM9J61zQNiadrc3Gy2pw6ekHr-Kt56Tb14NWcv_1Hg9mFOQCuteFvYESbx3eulYNsTr9YS92IA8BalzqgzOyhMj3jJfpYV3CJrZyFbuZtDdc1C831V6UREfm6tK6QxkNEeBTcDOQ6CgM-Tgk6Y0bj-_qQ_rrQQnaaIgIvgc8Qs67F6OrhQRKBiXpFIcxDZht98skW3PGffLaOP_rnoARrh3XLBDk3V30pOYB8Rw-bI_tYmkVxX1Blh1MbSoIvEITzz4C229toHc4GBpOwVfpvkXARneaGBjeOv-EaWwueWW6JBBHgPWMkdnO0N3XaNGze17r6YomXraKLStRDEWsS8SXgDHABKqQOlu0Si80Z3vtsb1Mx_yDqyLxy6ORcmE7xlBg0hRgQ7Sq4JmtNwbmNHnA-bIfXAtw6PbwFFC_lPpsdg9VXvGweJkbKer5LFs_3lBT4i5jjIQi6GX3w5CZl8a2i4qzHshEsH1EJRmXF5qFigxvX99XI9zY_5bcymiXVJvOa9ABPKuLXtlX4WCH3NJ-2IP5CmIj8v77vsTr_gVIXpQqtubAt18UM84VVlv1FcleWo8Eh-L3C6O_lEGKl7OtBHthEn5Ez-5XgkWGMiOofAHOHcAO6pS9ntx5B7Jo8hoKR0h5z_wo76rqvTxeeA=w348-h260-no",
-  },
-  {
-    original:
-      "https://lh3.googleusercontent.com/6HQpn2zE8Np8G-thc_9TOXIkKnfsYlvIW5OEwcyadjjx4ybhooKaRrZdj3B__Qi2LIoMJuw2IGmqO7D3wghqt8Ezrk_ogF7D7volVh3kWfwiQDQYV5h_1f8S5OezFbXYoK8e9L0jkmkkd2bCu1vUrrF0d5ujZtcXnLCPbOd3seCUCZbPhdBzgeNjdaMQKPFoGG3zsOAlzwuBO3sWB7iQMINwyHYhJ9gCdOtCoSwa72ivovG5RnusRFcaaJ9BSONwzJyYwKq4WfohdcHwDgcJM3rVJwAKvI0VOjYR2G--Swylp3EsNdA8Vz6STicCR-B8E8PCn3yrOmOKYy1HC1izwhTUMk2pn2lRzPdGikQ8yZcYDnGcpZgTRvnbMzNPfCmmvpBwNBiU9iJhXDkDBzonOZn-5oTIviQNdKv2RnACne6xL0rIt6cG8HMVed69o9UkkQuRfudgGFUi0UpBUbTffNLjlmeKosoeWJy6veYqlPdqeZDB3mcacjqOlj7xSOKs7oqlgS_Kf8c6ZEBZfTUNoPBa1Xe-RBAa4rw8fZd6PUkXA_KoKxfc4Xshe0o4d_jLYxbwbKZzr9prdoplQ2BQfuZyn7teJJ3MLdWvt-jSg8sje9fo9cvoKri3Xw9_Trqh0TuLhnIEtFhBOsniSf9z-vRBQahSzjVnxMrIxCMFWEIYbYHvZrZqgUR_UXhuQRhbTTsFvVMrUyPq-po7ysoCvso8y9DnmXr5286u7Zp1svymTUo=w348-h260-no",
-  },
-  {
-    original:
-      "https://lh3.googleusercontent.com/SHchiPdDlA0C7FOafCz3FCZDVNFF6wTcRgQULZwxeFmjLjPOun64PTjC5XEiJi52JqbyeAAxyr8Ye96YdM_hTDdqBqOF-sclOHMHJnXq9e9MU297f_UB81r8Ho3Lh2NFYNieJajpeFdCTHcLF_E73rvTfmgoMYXLLSQtLNwxDVDQH44-TzWqMi2PBwlw6WAgWeDfrw9GEg9PtOi7FdI5UlSTlJ3lMMTjFTtGS127se3iEKcXo5Yid4FfZYGpLpEuRhDjyjCinwsYD5FCOp7YSrDoWs9r0OmzUujhR_20_wtcJXFBGD4ohG6cQjd71YmVe4hxUgM8q7vQr6FAmKLBhkltWoe4rOvwHhmg6HPK--4ou1TjuSqjpsQvAYNt5Ytv8in2NtvS1fhVpdJveMnhuyxmXd2zf_-A6XZf-49wgnO2Eqmb72uLVRwMCZU-cBK90bntn1H-1OIQPB7oJF9vWvoR1LZqVQMzEH_Q2ChQZIlMg-TXucPcmaGmp36Honq5jrq-zrk9Di-Nz4jYbFM3BGrF5qaWNxCrjfrQ9jLTOrgzBwy0BodCvevosNOUGDUMmK03ldr0IiHzvrXDNZh1HWYVCo4JeiPh74-vE6MDrlF_EWoorxiCRzbG_kDqTsk4VmO44YGnktxpBF8QBrsUo_qArOpuggFvVyrHHptGy9UPp-Qe2mzmu0_Z8m_YtjJw-m3t-R_E8rpW5Xe0tpIy_ugb1PvPrHN2XGd9N8T9SWnmyHY=w1232-h816-no",
-  },
-  {
-    original:
-      "https://lh3.googleusercontent.com/xPChTEGiokcDsT-u-7tkd6jXAlErmNNIqAhH-cnWpT1Lo0jHB7ngPM1AvUXTHam1n4X0IV3cq223bpjl-fNEM3-qgCmHQAhbzL0G0XOgK-Lb2l8qJaV5sY30-kADVSZriz2H2zaeiVRz-c7etEusoCJnHnubCcV34SAWOP_ewMuvoIPrP6QWGBDzCon1ifSbwzqtIYi6RJObxAUiJSi8oQyX1g_JgquacYVQVGg7cnquPz2cQL-fY6yP7gbc5x_AUTGkvWfZHxWrsnhBsLqCJQo3VYiscboHYxkBddx84UUwQS5Xmhwhj6ArR2wZ1UZf-eklstK4Ocl4PmT13_tHD0L55OaWqmNUgqXn_8-Blei9e1hTbTTDiypZ7MXsmpQO6uPnejFUpAv-Wi9QlzjtdW6TkSuUyvYy6EXUsPoNW1D_c2RxzXJWoaQPygoH0Jx9ZmLiNhIRwNwM8J5XyLVheAEpCTAulIgXxOsk0ztyEyOwLJtdCjlZ2KlSK52SEwefmrpQv4OvxprF3KBQTztnQhZlKxmycj8-QYYNdWMibUqvU7Yakc-Dh0miwVq8i4fGC_YfC6HuwT_4y8rDjdNa-tk7xQJOAMXUE958lbiUW_Xuh2S_dhDWhg5Lr6eg5ve31TUMKKxpWEOfx5DHw_LPBcBfNexegtGD5x2oopdLUvFzDNzxDTBRb5xNfvXLISlwb1b_YiZR_wj8AgjhYGA3MT0SXaOp_nYYVy8uan3piknHmxs=w1232-h816-no",
-  },
-]
-
 const samvidhan = [
   {
     original:
@@ -214,21 +195,6 @@ const self = [
   {
     original:
       "https://lh3.googleusercontent.com/Z9U0Y6AGfxxTOl8DhmT97_E0rJ58ooB2LefiwahMsriQdBbypoHPJB_FMsgyncEyEAS6CqYwNRsbzqod3i8wv1Odjdcspi9CuKs5yu9IVHI6uGvKMmfNSgLRFh6uA0g-9Acov6NQgQ1ODySX9CyEeNMcdwnVLWB52ORqM1XpZVA2FNIClTom3vfig2RWONa4mowQmpPrBud7ZiSK3nbplHUiv3ZGk1KjcpGaQWGMxd2igImY5Xp6nxxHhzKW5YNOtZegi6CbQEionbn6K20-TNpTLnmC7EDsgWhJQeXt1gGsxIOB9sQFZc2S38zdEHqrOFR2OvDHiEJVd2DiwcLCVMU69O77SuGOoHSbhpcXsvZSwZ9o09eJmz8v_Yik-UL0ULSs7L5EoO5QQ7VdkNBCUfQBWKcu63Hdir953dpkauVQ00o11dral1sHRCqsjomnVU6w9Wj2gx_mZk0ZzVtXF40_9Mlh7AT7e7WVF9Mb4P2PfDXau7KVk54HrrwkLPHvGUxbXAenrj3Hpvd3esUGJlDRkNVpNTUxvMPOeiR6mzf-I-rYOheGdhzhVWoYSFkirwyphw8VHba6fF81dZVGznihDaJ_ipwckiFBI0juJwXteMY9NvNww1zShifzTqtfWtUPvSUlk8QG3b74LnwvgWgdariRtzilSqgtYcyPw5GLahsSJ2cw5MDscFaGRHnyoV4K7ISEMe4eC-ocqgh61GN9x8sMtbdJP-huLbMS9nfmX4C1=w720-h540-no",
-  },
-]
-
-const campus = [
-  {
-    original:
-      "https://lh3.googleusercontent.com/ovAX3fFk8Kgkjzjz8-uxFPLEWqhubELsD5YagXbCorRzNM55q3_q5eliY7Vd_8RfE8D1Uly0tmsn8By9H96ElCHUAJV6a3m5Eehv8PO6AgKbAtlMJWGxXk9J81IzhA9tuJuCc80WKtbW5AHZfNbAqPYmowO20ePiNvDUUoYTU-NGckKVJK7U3fFgjB3HysImFojJroCCY2jjiZmh3jT5uhIkQ1-_tdaZwOiyNnZRqlyT1qt8cMnLmpiJFeZ0OX4GHJtqEuFZQcwRqEIufjP8fxUZDntlSZYaWPEIIYK4cYWLkNKfHqf-6M242q8R41Fqj9NgcoqdoPgi38DC4bp-0bu6aiI1UZca-3m653ZZjRmcKxqkCd67fzko4_C9alsi0pXqtpkAHje4-lTWsbbdmcEpLYU5qthDcWaYGG3cxctZ2bolt8Fr5m1JCg0qEhzRPTwsvsSpC_o30pBxBt0i0dtuTYcDXy57NpUJfEUbnqVWvCoVyytDTyexsdiByLinL1uI5Q6ofOef3gc74Fph3Je1TX9CBY56ASjW9j3BAJ-X-nOY3iV5l9yFE6_vXqT3V866evGXUYWR7kjnR05t0Ja2_fjRuitosC_qxkzjfd-M-wRlA2Kcye0m-_gl5je2D2Qdb36R-iWO81B6uD7oO0amO0KLPXH-9nUDVDGbXNDfSF0xkY-BDOZlLcIMsuLc01o6bQh2r_0EhTUZnHbhecb5Q4Td6xTZSPrXqvnyKu8GZB5s=w720-h330-no",
-  },
-  {
-    original:
-      "https://lh3.googleusercontent.com/Yje6AM_0P1T_RSodiMo2AmDbyu5bxrB0tKer0Of8VAjcEnYkUzXIK3t9NCiUvu-KbUFwMWQjF4ATYlBNg_8NZEUNyOCTp49tmmRZta8aKXT3XigllrAKBWSmlzKuMdv8Lu0dge71PGhbk5ZUXbZ_r-aIw4kKW7_Mr2P9vt6AKVUVyqzdeH4_35whyv86CCPayvov_XW16se-N1OSPB5DaoS_ryOFdj10WAAWM6S0Qx9Ba4uYoFXQwLi5VJUApgigTimnjr97ndqKHoy_xaMj1yGYFzcpMwoKSkRwdh9CEJ_jTJgFWWDjVKtbn26iKP2iJzDLX1BONilNwlLzqJpXGgR0362XJPbyLXTLxFzfTcnSoCopvzP2Erv5-BUsC6Hp10wFlVQJoJW-Zu5292iyF6GQCxuLBpTmv7cCj_BtvagJJzjV1VLylSx1cnb9CpSzYqlKauYwEqu8vg1XQhJu0h91Yc_QSHddfWxmXsMKJcg6oIcQygfTHYJEqcSM2rFLpV3mgICkPj9ZffMVQo3mwY-dXzVS-CZsWt7jPFotU0ZS_MkuKWuTZ0yUM-hZsmQIrtd-EKfktvrlJgLuy-_0ew1B-fpkhHCkAnl-SEtLz5qCo1q_yrzi0hwxKrM5Z0EWUf_vu1W80KGgSJnR6SY9bRxD5-oCEHpyShH4bVKyKgoIPY4kBXUiS6Ov3FQMPZG26tCXnZMgYovavGQC2zcrnTpf_wG6lZJXKRvr3vcCynp168GM=w720-h480-no",
-  },
-  {
-    original:
-      "https://lh3.googleusercontent.com/Sg6SeIgBuHmLbpN3qJIQyNGNl-tZEJ6E_tkG68C3Jq3wWQmrNGb5nM_M9q_hhBZeGHfktJcd11RtRVtALDAxeOIEVQbX1HLMNPVf9pywOohNv-mStN8hixWw793-eQjPWUaBN8Sh2ZqNU7x513FszFYIHnWaZpY136Zf3Wp97ctitHuyx7nUrX6IHP_QeGfInpefqnQpEQJW-fwdF0etejS8OG8kTOc_ZsI4tD8kZ9KrCJwi8uQVZufUeVa0dITxpfeEN7keQLd3_shB2BwNC_h9QymgcAkoAhTIpy3Ke541zXzJW4WNkFFEZ3nqvUD5ZTf8Rd4ZtUKKMoBfIZVuMiAwcOx7nX1Jsx3YMU8kpDB3YJJ75OABeQJsrixxjLduiK1bQaypRWP4QYu2pSZ7mvRa-5ztWiZrYPqyii1KWDRLSL1fR3GiJBUompxtGLy-O42OK-4bYIXNmRXeteB1huPQ0Z8f8-vRoKjYMLzXWLgSlAiQD6oUeaHICQGOgP_Zma0Zj2eAEyiXe1PqbMuViwzVCLVflfoqFDmzkNXZvDfp9pGakIhUkFNgaohUwUJB-8XD_zPloWIExS1D8QFPBp8l-OeGl_7P7g89raLGVOnVj5Nys-EMK3NwLYl-ZdL5w1S44Ygy2Nf-RaeF6HglALH_1J6MaWVs0ustpLrchiiPfGD1eB_v3VMQxvhWO2bqPNjE0z2fURa3_9ozonK850sUMgU3s98s3gtARa8nZwrdwVBa=w700-h933-no",
   },
 ]
 
@@ -309,7 +275,7 @@ class events extends React.Component {
               </div>
             </article>
             <article className={Styles.aboutInfo}>
-              <h5>Interactive Session</h5>
+              <h5>Interactive Session with Civil Service Officers</h5>
               <p>
                 {" "}
                 An Interactive Session was organized by Team Unnati. The event
@@ -373,37 +339,6 @@ class events extends React.Component {
                 Officer. The quiz was conducted with the approval of officers to
                 provide fair competition to the participants. More than 2500
                 students associated themselves with the event.
-              </p>
-            </article>
-          </div>
-        </section>
-
-        <section className={Styles.about}>
-          <div className={Styles.aboutCenter}>
-            <article className={Styles.aboutImg}>
-              <div className={Styles.imgContainer}>
-                <ImageGallery
-                  items={uthan}
-                  showPlayButton={false}
-                  showFullscreenButton={false}
-                  showIndex={false}
-                  infinite={false}
-                />
-              </div>
-            </article>
-            <article className={Styles.aboutInfo}>
-              <h5>Uthan Youth Parliament</h5>
-              <p>
-                {" "}
-                Unnati organized its first edition of UTHAN YOUTH PARLIAMENT on
-                20-21st January'18 with the foremost motive to encourage healthy
-                debate and deliberation. The conference was a simulation of four
-                Indian committees namely Lok Sabha, National Security Council,
-                All India Political Parties and Meet and stakeholders meet. The
-                Uthan Youth Parliament was a success with the participation of
-                more than 350 delegates from all over India. TIt was graced by
-                the presence of eminent dignitaries like Mr. Eldo George
-                Varghese, Mr. Vinod Kumar Meena(IPOS) and Mr. Sanil Sachar.
               </p>
             </article>
           </div>
@@ -543,35 +478,6 @@ class events extends React.Component {
                 short Self-Analysis Test on 10th February'19. Around 300
                 aspirants of the prestigious exam turned up to be a part of the
                 same
-              </p>
-            </article>
-          </div>
-        </section>
-
-        <section className={Styles.about}>
-          <div className={Styles.aboutCenter}>
-            <article className={Styles.aboutImg}>
-              <div className={Styles.imgContainer}>
-                <ImageGallery
-                  items={campus}
-                  showPlayButton={false}
-                  showFullscreenButton={false}
-                  showIndex={false}
-                  infinite={false}
-                />
-              </div>
-            </article>
-            <article className={Styles.aboutInfo}>
-              <h5>Unnati on Campus</h5>
-              <p>
-                "The only person you are destined to become is the person you
-                decide to be.” – Ralph Waldo Emerson. To stand out of crowd you
-                need to put your best foot forward. Internship gives you an
-                opportunity to learn things practically while you are still in
-                college. Team Unnati participated in internship fair of
-                different colleges to provide them an opportunity to learn the
-                work culture while they are still in college and sharpen their
-                skills.
               </p>
             </article>
           </div>

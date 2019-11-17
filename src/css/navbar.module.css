@@ -4,11 +4,14 @@
   align-items: center;
   padding: 1rem 1.25rem;
   text-decoration: none;
+
 }
+
 .logo-btn {
   background: transparent;
   border: none;
   outline: none;
+
 }
 .logo-btn:hover {
   cursor: pointer;
@@ -26,7 +29,7 @@
   overflow: hidden;
 }
 .show-nav {
-  height:310px;
+  height:375px;
 }
 .nav-links a {
   display: block;
@@ -72,7 +75,7 @@
 
 @media screen and (min-width: 576px) {
   .navbar {
-    padding: 0 2rem;
+    padding: 0 1rem;
   }
 }
 
