@@ -59,7 +59,7 @@ const Contact = props => {
               name="message"
               id="message"
               className={Styles.formControl}
-              placeholder="Your Message"
+              placeholder="Your message"
               required
             />
           </div>

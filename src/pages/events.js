@@ -11,7 +11,7 @@ import Events from '../components/Events/Events'
 const events = ({ data }) => {
   return (
     <Layout>
-      <Styledhero img={data.defaultBcg.childImageSharp.fluid} />
+      {/* <Styledhero img={data.defaultBcg.childImageSharp.fluid} /> */}
       <section className={Styles.about}>
         <Title title="our" subtitle="events" />
         <Events />

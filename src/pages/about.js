@@ -17,7 +17,7 @@ import mountain from "../images/mountains.jpg"
 const about = ({ data }) => {
   return (
     <Layout>
-      <Styledhero img={data.defaultBcg.childImageSharp.fluid} />
+      {/* <Styledhero img={data.defaultBcg.childImageSharp.fluid} /> */}
       <section className={Styles.about}>
         <Title title="about" subtitle="us" />
         <Abouts />
