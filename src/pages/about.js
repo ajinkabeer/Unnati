@@ -92,6 +92,10 @@ const about = ({ data }) => {
               style={{
                 borderRadius: 30,
                 width: "30%",
+                border:'1px solid black',
+                display: 'block',
+                marginLeft: 'auto',
+                marginRight: 'auto'
               }}
             ></img>
           </article>
@@ -116,6 +120,11 @@ const about = ({ data }) => {
               style={{
                 borderRadius: 30,
                 width: "30%",
+                marginTop:'6%',
+                border:'1px solid black',
+                display: 'block',
+                marginLeft: 'auto',
+                marginRight: 'auto'
               }}
             ></img>
           </article>
