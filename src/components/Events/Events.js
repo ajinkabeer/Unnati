@@ -219,15 +219,19 @@ class events extends React.Component {
               <h5>Parliamentary Debate</h5>
               <p>
                 {" "}
-                For and against gives birth to a parley And in parliament,
-                dispute of words is considered a formal way. 'A good parliament
-                is built with good debaters'. To provide a platform to many
-                young debaters to showcase their talent, Team Unnati organized a
+                For and against gives birth to a parley. A good parliament is
+                built with good debaters To provide a platform to many young
+                debaters to showcase their talent, Team Unnati organized a
                 Parliamentary Debate, where students from all over India
                 participated in a huge figure. The chief guest for the event was
-                Sharmishtha Mukherjee Ji, spokesperson of AICC Mentor for the
-                event was Amrita Dhawan Ji, President of NSUI. The event ended
-                auspiciously with the participation of more than 1300 students.
+                Sharmishtha Mukherjee Ji, spokesperson of AICC; the guiding
+                mentor for the event was Amrita Dhawan Ji, President of NSUI.
+                The event was enthralling, not just for the debaters but also
+                the judges who were actually moved by the thought and words of
+                the young children. They were surprised by the enthusiasm shown
+                by the youngsters and the way they presented their research. The
+                event ended auspiciously with the participation of more than
+                1300 students who learnt to speak and present their matter.
               </p>
             </article>
           </div>
@@ -255,7 +259,17 @@ class events extends React.Component {
                 way are organized more often to keep the interns connected with
                 the country and experience the importance and height of Unnati,
                 while working with the aided system of government of India.
-                Moreover, 1500 students and interns participated in the event
+                Moreover, 1500 students and interns participated in the event We
+                never miss a chance to learn from the best. Team UNNATI,
+                recently, hosted a visit to the parliamentary for its
+                hardworking and talented interns. We believe in a secular and
+                demographic work mode. Such visits are organised to help the
+                interns, the youth of the country, to connect and establish a
+                clear understanding of the working of the government. More than
+                1500 of us went to the parliament and had a knowledgeable
+                session. The team was honoured to visit and learn from one of
+                the most prestigious place itself. The essence of debates came
+                clearer and louder to us when we saw the real place ourselves.
               </p>
             </article>
           </div>
@@ -281,7 +295,15 @@ class events extends React.Component {
                 An Interactive Session was organized by Team Unnati. The event
                 was successfully drawn to a close with the support of Mrs. Rama,
                 Principal of Hans Raj College. More than 1700 students
-                participated in the event
+                participated in the event.We work hard and our best to achieve
+                what we want. Team UNNATI organised an interactive session for
+                the aspiring civil aspirants. The event held at Hans Raj College
+                proved to be a great learning opportunity for the young hard
+                workers who got to learn from their ideal: CIVIL OFFICERS. The
+                audience also had the opportunity to ask and interact with
+                guests who responded to them with them with utmost enthusiasm
+                and sincerity. The event was successfully drawn to a close with
+                the support of Dr. Rama, Principal of Hans Raj College.
               </p>
             </article>
           </div>
