@@ -87,7 +87,6 @@ const uthans = [
   },
 ]
 
-
 const uthan = ({ data }) => {
   return (
     <Layout>
@@ -138,36 +137,35 @@ const uthan = ({ data }) => {
       <Title title="Uthan Youth Parliament" subtitle="events" />
 
       <section className={Styles.about}>
-          <div className={Styles.aboutCenter}>
-            <article className={Styles.aboutImg}>
-              <div className={Styles.imgContainer}>
-                <ImageGallery
-                  items={uthans}
-                  showPlayButton={false}
-                  showFullscreenButton={false}
-                  showIndex={false}
-                  infinite={false}
-                />
-              </div>
-            </article>
-            <article className={Styles.aboutInfo}>
-              <h5>Uthan Youth Parliament</h5>
-              <p>
-                {" "}
-                Unnati organized its first edition of UTHAN YOUTH PARLIAMENT on
-                20-21st January'18 with the foremost motive to encourage healthy
-                debate and deliberation. The conference was a simulation of four
-                Indian committees namely Lok Sabha, National Security Council,
-                All India Political Parties and Meet and stakeholders meet. The
-                Uthan Youth Parliament was a success with the participation of
-                more than 350 delegates from all over India. TIt was graced by
-                the presence of eminent dignitaries like Mr. Eldo George
-                Varghese, Mr. Vinod Kumar Meena(IPOS) and Mr. Sanil Sachar.
-              </p>
-            </article>
-          </div>
-        </section>
-
+        <div className={Styles.aboutCenter}>
+          <article className={Styles.aboutImg}>
+            <div className={Styles.imgContainer}>
+              <ImageGallery
+                items={uthans}
+                showPlayButton={false}
+                showFullscreenButton={false}
+                showIndex={false}
+                infinite={false}
+              />
+            </div>
+          </article>
+          <article className={Styles.aboutInfo}>
+            <h5>Uthan Youth Parliament</h5>
+            <p>
+              {" "}
+              Unnati organized its first edition of UTHAN YOUTH PARLIAMENT on
+              20-21st January'18 with the foremost motive to encourage healthy
+              debate and deliberation. The conference was a simulation of four
+              Indian committees namely Lok Sabha, National Security Council, All
+              India Political Parties and Meet and stakeholders meet. The Uthan
+              Youth Parliament was a success with the participation of more than
+              350 delegates from all over India. TIt was graced by the presence
+              of eminent dignitaries like Mr. Eldo George Varghese, Mr. Vinod
+              Kumar Meena(IPOS) and Mr. Sanil Sachar.
+            </p>
+          </article>
+        </div>
+      </section>
 
       <section className={Styles.about} style={{ marginTop: -30 }}>
         <div className={Styles.aboutCenter}>
@@ -244,6 +242,39 @@ const uthan = ({ data }) => {
           </article>
           <article className={Styles.aboutInfo}>
             <h5>Uthan Youth Parliament Edition 4</h5>
+            <p>
+              We are proud to announce that we have successfully conducted yet
+              another astounding conference: UTHAN YOUTH PARLUAMENT CHAPTER 4;
+              which was graced by the presence of honorable Ambassador Muhamed
+              Cengic, a career diplomat with more than two decades of experience
+              in the Bosnia and Herzegovina Foreign Service. Prior to his
+              current assignment, he served as Ambassador of Bosnia and
+              Herzegovina to the Republic of Indonesia, Republic of Singapore
+              and DR Timor Leste. We are also gratified by the guests who showed
+              up and blessed our occasion: P L Punia, Member of Parliament,
+              Rajya Sabha; Ruchi Gupta, Joint Secretary, AICC; Varun Rajpal,
+              Lawyer, High Court; Ashima Mandla, Lawyer, Supreme Court; Neeraj
+              Kundan, National President, NSUI; Geeta Sahare, Deputy Dean,
+              University of Delhi; Raman Besil, Founder, Langda Aam Productions;
+              Naveen Sharma, President, International Society for Cooperation
+              and development UTHAN was also the proud hosts of 800+ delegates
+              and worked in collaboration with 40 institutions. We are highly
+              blessed with love and support we have received over the past few
+              months. The success of the conference belongs to the EBs, who
+              enriched the level of debate; the hard working guests, who made
+              time for us; the organising committee, who worked continuously for
+              days and nights without any break; and most importantly the
+              delegates, who researched with their heart and put their souls
+              into the two days. We would like to show our gratitude towards the
+              organising committee, without them hosting an event at such a
+              grand level wouldn't have been possible. We held a highly fruitful
+              debate on a vast diversity of topics which enriched the knowledge
+              of our debaters, and will be helpful in their promising and bright
+              future. UTHAN gave the young minds the opportunity to rack up
+              their brain and speak in a loud and convincing manner. The
+              delegates learnt to defend and counter attack their oppositions
+              and geared then for the practical world.
+            </p>
           </article>
         </div>
       </section>
