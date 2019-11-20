@@ -29,7 +29,10 @@ const times = ({ data }) => {
               distributed free of cost among the students of Delhi NCR with the
               motive to spread awareness on different topics.
             </p>
-            <a href="https://www.facebook.com/groups/407901806432989/">
+            <a
+              className="btn-primary"
+              href="https://www.facebook.com/groups/407901806432989/"
+            >
               Find us on facebook
             </a>
             <br />

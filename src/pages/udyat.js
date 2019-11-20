@@ -76,12 +76,13 @@ const udyat = ({ data }) => {
             </div>
           </article>
           <article className={Styles.aboutInfo}>
-            <h5>
               {" "}
-              <a href="https://www.facebook.com/udyattherisingstars/">
+              <a
+                className="btn-primary"
+                href="https://www.facebook.com/udyattherisingstars/"
+              >
                 Find us on facebook
               </a>
-            </h5>
           </article>
         </div>
       </section>
