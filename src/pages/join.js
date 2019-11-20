@@ -28,7 +28,7 @@ const campus = [
 const poster = [
   {
     original:
-    "https://lh3.googleusercontent.com/uou5XJBqge99h40RF-dsnTWXM_U6AiMIkXoQhu80xihdudIm4vR8geij4vrsAOg26FmwjkIwiM_iV8NBacs_tbGZydl5PJ4Xd_6en1BFs0MWnsAhRM6DDpmd0pgf51jLu84d3zMFlsIebpw5ZFioQ7n8pKN2EZM5ljFACrQyog0fYQv2VYfUYOecDv2FF-wcc4gl2cHPlJ-xKQpDRK-UfgpK4BpWqs8Jzei10UweDTY9v4npdY6lZA4Pis1p5VeYw8RpuYJdwx-OkHeYjM8WgpwkaZJuKMD6qPglg3RkDgQOUAyGEBrwj4hGVvF7j_mqPytHQ5TyYLyZOm-dot68BiOpMANOSmKtSa-iep2D6SlIS-q1M26fsK7sV_EofnIlLrm7tLF52HeeuSQs0Ox-nlRK4TFALfhfidROpkG07ANvAHDY1aA_C0unQYxto0pFUmS6aBMHn7z1DsBiMv4_MAuTJCXHUe3re1KXNELhRdLTeCWeCk_8K2wZsCu9pBwT8SMJwe2G7DEWG6Sfy5sL4OfCg_dkBUmJlliTqiT-zpZx4xaSAIq1pAG1HoqM2jXCM4ntMSvaQuB8dtRq1Y8Oyxhk88Kiu2AnW5tWKb7IwPrcyCPw07LBM9dQbqwqgCjG4TQYVvtmv2sJaOSZ6h9MDPqP2qwAOMV6shgiIyszt2T9eOoIdDqF03RkOIS2zoAjbJFeI3aYwFVzAKvn98UhPhhQVuzq_MeAGJJYxlTXWWPBnVs=w703-h993-no"
+      "https://lh3.googleusercontent.com/uou5XJBqge99h40RF-dsnTWXM_U6AiMIkXoQhu80xihdudIm4vR8geij4vrsAOg26FmwjkIwiM_iV8NBacs_tbGZydl5PJ4Xd_6en1BFs0MWnsAhRM6DDpmd0pgf51jLu84d3zMFlsIebpw5ZFioQ7n8pKN2EZM5ljFACrQyog0fYQv2VYfUYOecDv2FF-wcc4gl2cHPlJ-xKQpDRK-UfgpK4BpWqs8Jzei10UweDTY9v4npdY6lZA4Pis1p5VeYw8RpuYJdwx-OkHeYjM8WgpwkaZJuKMD6qPglg3RkDgQOUAyGEBrwj4hGVvF7j_mqPytHQ5TyYLyZOm-dot68BiOpMANOSmKtSa-iep2D6SlIS-q1M26fsK7sV_EofnIlLrm7tLF52HeeuSQs0Ox-nlRK4TFALfhfidROpkG07ANvAHDY1aA_C0unQYxto0pFUmS6aBMHn7z1DsBiMv4_MAuTJCXHUe3re1KXNELhRdLTeCWeCk_8K2wZsCu9pBwT8SMJwe2G7DEWG6Sfy5sL4OfCg_dkBUmJlliTqiT-zpZx4xaSAIq1pAG1HoqM2jXCM4ntMSvaQuB8dtRq1Y8Oyxhk88Kiu2AnW5tWKb7IwPrcyCPw07LBM9dQbqwqgCjG4TQYVvtmv2sJaOSZ6h9MDPqP2qwAOMV6shgiIyszt2T9eOoIdDqF03RkOIS2zoAjbJFeI3aYwFVzAKvn98UhPhhQVuzq_MeAGJJYxlTXWWPBnVs=w703-h993-no",
   },
 ]
 
@@ -37,15 +37,28 @@ const join = ({ data }) => {
     <Layout>
       <section className={Styles2.blog}>
         <Title title="Join" subtitle="Us" />
-         <div className={Styles2.center}>
+        <div className={Styles2.center}>
           <article className={Styles2.article}>
             <p>
-            "The only person you are destined to become is the person you decide to be.” – Ralph Waldo Emerson. To stand out of crowd you need to put your best foot forward. Internship gives you an opportunity to learn things practically while you are still in college. Team Unnati participated in internship fair of different colleges to provide them an opportunity to learn the work culture while they are still in college and sharpen their skills.
-        Unnati: The Knowledge Hub For Civil Aspirants is a not for profit organisation registered under the government of India. Started by Mr. Lokesh Chugh under the able guidance of Mr. Oscar Fernandez (MP, Rajya Sabha and Chief Patron, Unnati), Unnati is working for the upliftment of youth in different sectors from 18th of December, 2016. Unnati aims at providing free guidance to those UPSC aspirants who have knowledge and talent but lack adequate resources. 
-        We host various events and also provide free UPSC guidance to UPSC aspirants.
+              "The only person you are destined to become is the person you
+              decide to be.” – Ralph Waldo Emerson. To stand out of crowd you
+              need to put your best foot forward. Internship gives you an
+              opportunity to learn things practically while you are still in
+              college. Team Unnati participated in internship fair of different
+              colleges to provide them an opportunity to learn the work culture
+              while they are still in college and sharpen their skills. Unnati:
+              The Knowledge Hub For Civil Aspirants is a not for profit
+              organisation registered under the government of India. Started by
+              Mr. Lokesh Chugh under the able guidance of Mr. Oscar Fernandez
+              (MP, Rajya Sabha and Chief Patron, Unnati), Unnati is working for
+              the upliftment of youth in different sectors from 18th of
+              December, 2016. Unnati aims at providing free guidance to those
+              UPSC aspirants who have knowledge and talent but lack adequate
+              resources. We host various events and also provide free UPSC
+              guidance to UPSC aspirants.
             </p>
           </article>
-        </div> 
+        </div>
       </section>
 
       <section className={Styles.about}>
@@ -90,8 +103,11 @@ const join = ({ data }) => {
             </div>
           </article>
           <article className={Styles.aboutInfo}>
-              <h5>Internships</h5>
-             <a className="btn-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSfPJRwHPGrQVe9j6b0W7DWd6b-m3mabeTu73BFP9z5GtUm97A/viewform">
+            <h5>Internships</h5>
+            <a
+              className="btn-primary"
+              href="https://docs.google.com/forms/d/e/1FAIpQLSfPJRwHPGrQVe9j6b0W7DWd6b-m3mabeTu73BFP9z5GtUm97A/viewform"
+            >
               Click here to proceed
             </a>
           </article>

@@ -123,16 +123,16 @@ const about = ({ data }) => {
           <section className={Styles.about}>
             <div className={Styles.aboutCenter}>
               <article className={Styles.aboutImg}>
-                <div className={Styles.imgContainer} >
+                <div className={Styles.imgContainer}>
                   <img
                     src={lebanon}
                     style={{
-                      border:'1px solid black',
+                      border: "1px solid black",
                       display: "block",
                       marginLeft: "auto",
                       marginRight: "auto",
                       width: "65%",
-                      marginTop:-15
+                      marginTop: -15,
                     }}
                   ></img>
                 </div>
@@ -154,61 +154,59 @@ const about = ({ data }) => {
           </section>
         </section>
       </div>
-      
-      <section className={Styles.about}>
-            <div className={Styles.aboutCenter}>
-              <article  className={Styles.aboutImg}>
-                <div  className={Styles.imgContainer}>
-                  <img
-                    src={mountain}
-                    style={{
-                      display: "block",
-                      marginLeft: "auto",
-                      marginRight: "auto",
-                      width: "85%",
-                      marginTop:-15
 
-                    }}
-                  ></img>
-                </div>
-              </article>
-              <article className={Styles.aboutInfo}>
-                <h5>Unnati on Mountains</h5>
-                <p>
-                  {" "}
-                  Every mountain top is within reach if you just keep climbing.
+      <section className={Styles.about}>
+        <div className={Styles.aboutCenter}>
+          <article className={Styles.aboutImg}>
+            <div className={Styles.imgContainer}>
+              <img
+                src={mountain}
+                style={{
+                  display: "block",
+                  marginLeft: "auto",
+                  marginRight: "auto",
+                  width: "85%",
+                  marginTop: -15,
+                }}
+              ></img>
+            </div>
+          </article>
+          <article className={Styles.aboutInfo}>
+            <h5>Unnati on Mountains</h5>
+            <p>
+              {" "}
+              Every mountain top is within reach if you just keep climbing.
               Scrambling the steep slopes and rattling over various cuts is not
               everyone’s cup of tea. Unnati salutes the audacity, wisdom and
               courage of our team member Nitish Singh on successfully conquering
               the Mt.Stok Kangri and hoisting Unnati's flag at the peak of Mt.
               Stok Kangri.
-                </p>
-              </article>
-            </div>
-          </section>
+            </p>
+          </article>
+        </div>
+      </section>
 
-          <section className={Styles.about}>
-            <div className={Styles.aboutCenter}>
-              <article className={Styles.aboutImg}>
-                <div className={Styles.imgContainer}>
-                  <img
-                    src={news}
-                    style={{
-                      
-                      display: "block",
-                      marginLeft: "auto",
-                      marginRight: "auto",
-                      width: "50%",
-                      marginTop:'-3%'
-                    }}
-                  ></img>
-                </div>
-              </article>
-              <article className={Styles.aboutInfo}>
-                <h5>Newspaper Publication</h5>
-                <p>
-                  {" "}
-                  It is said, "Kids saving the world > adults saving the world." It
+      <section className={Styles.about}>
+        <div className={Styles.aboutCenter}>
+          <article className={Styles.aboutImg}>
+            <div className={Styles.imgContainer}>
+              <img
+                src={news}
+                style={{
+                  display: "block",
+                  marginLeft: "auto",
+                  marginRight: "auto",
+                  width: "50%",
+                  marginTop: "-3%",
+                }}
+              ></img>
+            </div>
+          </article>
+          <article className={Styles.aboutInfo}>
+            <h5>Newspaper Publication</h5>
+            <p>
+              {" "}
+              It is said, "Kids saving the world > adults saving the world." It
               is important to inculcate the 'debate and discussion' culture in
               them. To do that MUN can be really helpful. Unnati organizes Model
               United Nations in different schools, our latest venture was
@@ -219,16 +217,16 @@ const about = ({ data }) => {
               Sharma, President International Society for Cooperation and
               Development gave away the prize for the best delegate and the best
               speaker.
-                </p>
-              </article>
-            </div>
-          </section>
+            </p>
+          </article>
+        </div>
+      </section>
 
-          <section className={Styles.about}>
-            <div className={Styles.aboutCenter}>
-              <article>
-                <div>
-                <iframe
+      <section className={Styles.about}>
+        <div className={Styles.aboutCenter}>
+          <article>
+            <div>
+              <iframe
                 width="560"
                 height="315"
                 src="https://www.youtube.com/embed/3tK1JUOc-fM"
@@ -236,13 +234,13 @@ const about = ({ data }) => {
                 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                 allowfullscreen
               ></iframe>
-                </div>
-              </article>
-              <article className={Styles.aboutInfo}>
-                <h5>Video Publication</h5>
-                <p>
-                  {" "}
-                  "With bad laws and good civil servants it is still possible to
+            </div>
+          </article>
+          <article className={Styles.aboutInfo}>
+            <h5>Video Publication</h5>
+            <p>
+              {" "}
+              "With bad laws and good civil servants it is still possible to
               govern. But with bad civil servants even the best laws can't work.
               " So to mould the top-notch civil servants of tomorrow Unnati: The
               knowledge hub for civil Aspirants conducted its first interactive
@@ -251,10 +249,10 @@ const about = ({ data }) => {
               came to give some knowledge about the civil services exam to the
               aspirants. The session was legit as the candidates went home with
               smile on their faces and new knowledge in their minds..
-                </p>
-              </article>
-            </div>
-          </section>
+            </p>
+          </article>
+        </div>
+      </section>
     </Layout>
   )
 }
