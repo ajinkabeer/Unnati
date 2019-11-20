@@ -360,7 +360,18 @@ class events extends React.Component {
                 Ahuja. The chief guest for the event was Mr. Amitabh Khare, IAS
                 Officer. The quiz was conducted with the approval of officers to
                 provide fair competition to the participants. More than 2500
-                students associated themselves with the event.
+                students associated themselves with the event. Unnati: The
+                knowledge hub for civil aspirants, aims to provide free guidance
+                and help to the civil aspirants. A quiz was conducted for the
+                same which focused on the major topics tested in the exam. We
+                had IPS Officers: Mr. Sudhir and Mr. Amit who conducted the
+                quiz. The quizmasters boosted the young participants and made
+                the quiz very interactive. The guests for the event were famous
+                YouTubers Mr. Amit Bhadana and Mr. Harsh Deep Ahuja who provided
+                great support to the participants. The Chief guest: Mr. Amitabh
+                Khare, IAS officer, provided guidance and support to those
+                answering in the quiz. He also ensured a fair conduct. All the
+                members had a knowledge enriching time.
               </p>
             </article>
           </div>
@@ -386,7 +397,18 @@ class events extends React.Component {
                 To build a better and strong relationship with Korea, Team
                 Unnati organised an Indo Korean Meet where delegates from Korea
                 discussed on different issues and topics related to India with
-                different schools and University students.
+                different schools and University students. We learn when we
+                speak. Team UNNATI feels proud to announce the conduction of an
+                Indo-Korean meet. We try to learn from every where to expand the
+                horizons of our knowledge. We were glad to meet and interact
+                with delegates from Korea who had a chest full of knowledge to
+                share with us. We also conducted an open debate where the
+                delegates from Korea discussed issues of international
+                importance with the delegates of India. We are truly gratified
+                to them for coming and sharing their tricks and tips with us.
+                The session will also be helpful in improving the relations
+                between the two countries and will help in their growth and
+                development.
               </p>
             </article>
           </div>
@@ -415,7 +437,18 @@ class events extends React.Component {
                 minds were molded to be better leaders. School level kids joined
                 this event and they proved their point by a debate because
                 debate and divergence of views can only enrich our history and
-                culture
+                culture.We motivate and guide the young minds to realise their
+                aim and strive towards it. UNNATI organised the very first
+                edition of MAHAPANCHAYAT MUN on August 27 and 28,2019 at
+                Evergreen Public School, Delhi. The national level conference
+                hosted more than 500 delegates who debated upon serious issues
+                of national and international importance. They were constantly
+                motivated by the members of the experienced and extra ordinary
+                Executive Board. The two-day conference turned out to be highly
+                fruitful for all the participants who learnt to speak and
+                present their matter in a persuasive tone. The delegates were
+                also rewarded with certificates and trophies for their exemplary
+                performance.
               </p>
             </article>
           </div>
@@ -444,6 +477,18 @@ class events extends React.Component {
                 the right guidance before they choose any academic stream. Team
                 Unnati took a step forward to guide the fresh minds and teach
                 them the importance of different career options in our society.
+                With the vast diversity of options available today, it is
+                natural for the youngsters to get confused about the field
+                appropriate for them. But it is very important to make the right
+                choices at the right time so you can work towards it in a proper
+                way. UNNATI recognises this on-growing issue of career confusion
+                so to help the youth of India, we hosted a Career Counselling
+                Session that provided the students with the options available
+                and the academic requirement for these. It highly helped the
+                students to eliminate and short list the various choices
+                available. They all were happy to receive the guidance from some
+                of the best experts and were glad to clear some of the doubts
+                they had.
               </p>
             </article>
           </div>
@@ -471,7 +516,20 @@ class events extends React.Component {
                 deeper into trouble..... So one must be well aware of their
                 Constitution and the rights that it imparts us... "Samvidhan se
                 Vidhan tak", a seminar on the rights that the Constitution gives
-                us was organised by Unnati 28th November'18.
+                us was organised by Unnati 28th November'18. One of the root
+                causes of the continuous discontentment of the citizens is their
+                unawareness. If they had been aware about a certain right or
+                procedure, they would have received the justice they deserved. A
+                common cause for all the unjust the citizens suffer is because
+                of their lack of knowledge about their actual rights and
+                measures. To help eradicate this issue, team UNNATI organised a
+                session: ‘Samvidhan se Vidhan Tak’ that helped raise awareness,
+                amongst the attendees, about their rights and the measures to
+                avail these rights. The session was moderated my special guests
+                who had high knowledge about the constitution and made the
+                session interactive and engaging for the audience. It was a
+                3-day session, organised in collaboration with Jawahar Bhawan,
+                in which the whole Constitution was read out and explained.
               </p>
             </article>
           </div>
