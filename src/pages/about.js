@@ -226,14 +226,12 @@ const about = ({ data }) => {
         <div className={Styles.aboutCenter}>
           <article>
             <div>
-              <iframe
-                width="560"
-                height="315"
-                src="https://www.youtube.com/embed/3tK1JUOc-fM"
-                frameborder="0"
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                allowfullscreen
-              ></iframe>
+              <a
+                className="btn-primary"
+                href="https://www.youtube.com/watch?v=3tK1JUOc-fM&feature=emb_title"
+              >
+                Watch it on youtube
+              </a>
             </div>
           </article>
           <article className={Styles.aboutInfo}>
