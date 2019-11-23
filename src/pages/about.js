@@ -21,7 +21,6 @@ import {journey} from '../components/About/links'
 const about = ({ data }) => {
   return (
     <Layout>
-      {/* <Styledhero img={data.defaultBcg.childImageSharp.fluid} /> */}
       <section className={Styles.about}>
         <Title title="about" subtitle="us" />
         <Abouts />

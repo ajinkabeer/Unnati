@@ -9,7 +9,6 @@ import Title from "../components/StyledTitle"
 const contact = ({ data }) => {
   return (
     <Layout>
-      {/* <Styledhero img={data.defaultBcg.childImageSharp.fluid} /> */}
       <Contact title="Contact" subtitle="Unnati" />
     </Layout>
   )
