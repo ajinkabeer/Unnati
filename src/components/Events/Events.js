@@ -21,41 +21,6 @@ class events extends React.Component {
   render() {
     return (
       <div>
-        <section className={Styles.about} style={{ marginTop: -30 }}>
-          <div className={Styles.aboutCenter}>
-            <article className={Styles.aboutImg}>
-              <div className={Styles.imgContainer}>
-                <ImageGallery
-                  items={parliamentaryDebate}
-                  showPlayButton={false}
-                  showFullscreenButton={false}
-                  showIndex={false}
-                  infinite={false}
-                />
-              </div>
-            </article>
-            <article className={Styles.aboutInfo}>
-              <h5>Parliamentary Debate</h5>
-              <p>
-                {" "}
-                For and against gives birth to a parley. A good parliament is
-                built with good debaters To provide a platform to many young
-                debaters to showcase their talent, Team Unnati organized a
-                Parliamentary Debate, where students from all over India
-                participated in a huge figure. The chief guest for the event was
-                Sharmishtha Mukherjee Ji, spokesperson of AICC; the guiding
-                mentor for the event was Amrita Dhawan Ji, President of NSUI.
-                The event was enthralling, not just for the debaters but also
-                the judges who were actually moved by the thought and words of
-                the young children. They were surprised by the enthusiasm shown
-                by the youngsters and the way they presented their research. The
-                event ended auspiciously with the participation of more than
-                1300 students who learnt to speak and present their matter.
-              </p>
-            </article>
-          </div>
-        </section>
-
         <section className={Styles.about}>
           <div className={Styles.aboutCenter}>
             <article className={Styles.aboutImg}>
@@ -123,6 +88,41 @@ class events extends React.Component {
                 guests who responded to them with them with utmost enthusiasm
                 and sincerity. The event was successfully drawn to a close with
                 the support of Dr. Rama, Principal of Hans Raj College.
+              </p>
+            </article>
+          </div>
+        </section>
+
+        <section className={Styles.about} style={{ marginTop: -30 }}>
+          <div className={Styles.aboutCenter}>
+            <article className={Styles.aboutImg}>
+              <div className={Styles.imgContainer}>
+                <ImageGallery
+                  items={parliamentaryDebate}
+                  showPlayButton={false}
+                  showFullscreenButton={false}
+                  showIndex={false}
+                  infinite={false}
+                />
+              </div>
+            </article>
+            <article className={Styles.aboutInfo}>
+              <h5>Parliamentary Debate</h5>
+              <p>
+                {" "}
+                For and against gives birth to a parley. A good parliament is
+                built with good debaters To provide a platform to many young
+                debaters to showcase their talent, Team Unnati organized a
+                Parliamentary Debate, where students from all over India
+                participated in a huge figure. The chief guest for the event was
+                Sharmishtha Mukherjee Ji, spokesperson of AICC; the guiding
+                mentor for the event was Amrita Dhawan Ji, President of NSUI.
+                The event was enthralling, not just for the debaters but also
+                the judges who were actually moved by the thought and words of
+                the young children. They were surprised by the enthusiasm shown
+                by the youngsters and the way they presented their research. The
+                event ended auspiciously with the participation of more than
+                1300 students who learnt to speak and present their matter.
               </p>
             </article>
           </div>
