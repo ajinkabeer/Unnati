@@ -14,6 +14,7 @@ import {
   erudite,
   run,
   interactiveSession,
+  interaction,
 } from "./Links"
 
 class events extends React.Component {
@@ -148,7 +149,14 @@ class events extends React.Component {
                 Unnati organized Run For Education Excellence event. To cheer up
                 the spirits of the participants, the Youth icon Mr. Harsh
                 Beniwal was present at the event.. Over 2000 students partook in
-                the event.
+                the event."Go far as you can see; when you get there you will be
+                able to go further." Keeping this mantra in mind Unnati kept on
+                doing good deeds like when Unnati organized 'Run for Educational
+                Excellence', a 6 km marathon for generating proceeds for charity
+                and adopting a slum, today known as Udyat. This particular deed
+                was noticed by Inshorts the app providing inclusives in sixty
+                words. We hope that the good work we do keeps on coming around
+                in such recognition.
               </p>
             </article>
           </div>
@@ -266,7 +274,17 @@ class events extends React.Component {
                 fruitful for all the participants who learnt to speak and
                 present their matter in a persuasive tone. The delegates were
                 also rewarded with certificates and trophies for their exemplary
-                performance.
+                performance.It is said, "Kids saving the world > adults saving
+                the world." It is important to inculcate the 'debate and
+                discussion' culture among the Young generation. To do that MUN
+                can be really helpful. Unnati organizes Model United Nations in
+                different schools, our latest venture was organizing MUN at
+                Evergreen Public School, Vasundhara Enclave where around 450
+                delegates form Dehi/NCR debated and discussed on various
+                important topics. His Excellency Rabie Narsh, the Ambassador of
+                the Republic of Lebanon and Naveen Sharma, President
+                International Society for Cooperation and Development gave away
+                the prizes to the winner
               </p>
             </article>
           </div>
@@ -376,6 +394,36 @@ class events extends React.Component {
                 short Self-Analysis Test on 10th February'19. Around 300
                 aspirants of the prestigious exam turned up to be a part of the
                 same
+              </p>
+            </article>
+          </div>
+        </section>
+        <section className={Styles.about}>
+          <div className={Styles.aboutCenter}>
+            <article className={Styles.aboutImg}>
+              <div className={Styles.imgContainer}>
+                <ImageGallery
+                  items={interaction}
+                  showPlayButton={false}
+                  showFullscreenButton={false}
+                  showIndex={false}
+                  infinite={false}
+                />
+              </div>
+            </article>
+            <article className={Styles.aboutInfo}>
+              <h5>Interaction with Entrepreneur</h5>
+              <p>
+                Unnati has always motivated and guided students to excel in the
+                field of education and become an asset for this nation since
+                long. Various initiatives have been taken for the personality
+                development of Students. People have always appreciated our
+                efforts to make students better citizens. Delhi govt is
+                conducting a programme on enterpreneurship and it was our
+                priveleged to be a part of it. Mr. Manish Sisodia invited Unnati
+                because of the things that we have done for the students. Mr.
+                Lokesh Chugh, Founder and Chairperson was invited to interact
+                with students and motivate them.
               </p>
             </article>
           </div>
