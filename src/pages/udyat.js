@@ -1,6 +1,5 @@
 import React, { Component } from "react"
 import Layout from "../components/Layout"
-import Styledhero from "../components/Styledhero"
 import { graphql } from "gatsby"
 import Title from "../components/StyledTitle"
 import Styles2 from "../css/single-blog.module.css"
