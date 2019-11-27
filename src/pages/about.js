@@ -14,8 +14,7 @@ import lebanon from "../images/lebanon.jpg"
 import mountain from "../images/mountains.jpg"
 import news from "../images/news.jpg"
 import ImageGallery from "react-image-gallery"
-import {journey} from '../components/About/links'
-
+import { journey } from "../components/About/links"
 
 const about = ({ data }) => {
   return (

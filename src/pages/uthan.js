@@ -8,7 +8,7 @@ import Homeabout from "../components/Home/About"
 import Styles2 from "../css/single-blog.module.css"
 import styles from "../css/single-blog.module.css"
 import ImageGallery from "react-image-gallery"
-import {satta,uthans,uthan4,uthan3} from "../components/uthanLinks"
+import { satta, uthans, uthan4, uthan3 } from "../components/uthanLinks"
 import Album from "../components/album"
 
 const uthan = ({ data }) => {
@@ -53,7 +53,7 @@ const uthan = ({ data }) => {
             </a>{" "}
             <br />
             <a
-            style={{marginTop:5}}
+              style={{ marginTop: 5 }}
               className="btn-primary"
               href="https://www.facebook.com/uthanyouthparliament/"
             >
