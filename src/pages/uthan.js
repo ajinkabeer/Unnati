@@ -13,7 +13,7 @@ const uthan = ({ data }) => {
   return (
     <Layout>
       <section className={Styles.about}>
-        <Title title="about" subtitle="Uthan Youth Parliament Edition I" />
+        <Title title="about" subtitle="Uthan Youth Parliament" />
         <div className={Styles2.center}>
           <article className={Styles2.article}>
             <p>
@@ -76,7 +76,7 @@ const uthan = ({ data }) => {
             </div>
           </article>
           <article className={Styles.aboutInfo}>
-            <h5>Uthan Youth Parliament</h5>
+            <h5>Uthan Youth Parliament Edition I</h5>
             <p>
               {" "}
               Unnati organized its first edition of UTHAN YOUTH PARLIAMENT on
