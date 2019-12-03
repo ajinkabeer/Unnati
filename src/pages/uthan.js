@@ -13,7 +13,7 @@ const uthan = ({ data }) => {
   return (
     <Layout>
       <section className={Styles.about}>
-        <Title title="about" subtitle="Uthan Youth Parliament" />
+        <Title title="about" subtitle="Uthan Youth Parliament Edition I" />
         <div className={Styles2.center}>
           <article className={Styles2.article}>
             <p>
