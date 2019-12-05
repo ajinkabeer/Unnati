@@ -40,7 +40,7 @@ const team = () => {
         <div class="card">
           <img src={Jyoti} alt="jyoti" style={{width:"100%"}} />
           <div class="container">
-            <h2 style={{fontSize:20,marginTop:5}}>Jyoti</h2>
+            <h2 style={{fontSize:20,marginTop:5}}>Ms. Jyoti Gupta</h2>
             <p class="title">President</p>
           </div>
         </div>
