@@ -66,8 +66,8 @@ const about = ({ data }) => {
 
           <section className={Styles.about}>
             <div className={Styles.aboutCenter}>
-              <article className={Styles.aboutImg}>
-                <div className={Styles.imgContainer}>
+              <article>
+                <div>
                   <img
                     src={lebanon}
                     style={{
@@ -101,8 +101,8 @@ const about = ({ data }) => {
 
       <section className={Styles.about}>
         <div className={Styles.aboutCenter}>
-          <article className={Styles.aboutImg}>
-            <div className={Styles.imgContainer}>
+          <article>
+            <div>
               <img
                 src={mountain}
                 style={{
@@ -132,8 +132,8 @@ const about = ({ data }) => {
 
       <section className={Styles.about}>
         <div className={Styles.aboutCenter}>
-          <article className={Styles.aboutImg}>
-            <div className={Styles.imgContainer}>
+          <article>
+            <div>
               <img
                 src={news}
                 style={{
@@ -173,6 +173,7 @@ const about = ({ data }) => {
               <a
                 className="btn-primary"
                 href="https://www.youtube.com/watch?v=3tK1JUOc-fM&feature=emb_title"
+                style={{margilLeft:10}}
               >
                 Watch it on youtube
               </a>
