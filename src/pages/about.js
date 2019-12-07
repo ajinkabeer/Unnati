@@ -5,17 +5,14 @@ import Title from "../components/StyledTitle"
 import Styles from "../css/about.module.css"
 import Abouts from "../components/About/abouts"
 import Styles2 from "../css/single-blog.module.css"
-import Lokesh from "../images/lokesh.jpg"
-import Ritik from "../images/ritik.jpg"
-import Jyoti from "../images/jyoti.jpg"
-import Album from "../components/album"
 import styles from "../css/single-blog.module.css"
 import lebanon from "../images/lebanon.jpg"
 import mountain from "../images/mountains.jpg"
 import news from "../images/news.jpg"
 import ImageGallery from "react-image-gallery"
 import { journey } from "../components/About/links"
-import Team from '../components/About/team'
+import Team from "../components/About/team"
+import Patrons from "../components/About/patrons"
 
 const about = ({ data }) => {
   return (
@@ -27,7 +24,7 @@ const about = ({ data }) => {
 
       <Title title="our" subtitle="team" />
       <div className={Styles2.center}>
-       <Team />
+        <Team />
       </div>
       <br />
 
@@ -173,9 +170,9 @@ const about = ({ data }) => {
               <a
                 className="btn-primary"
                 href="https://www.youtube.com/watch?v=3tK1JUOc-fM&feature=emb_title"
-                style={{margilLeft:10}}
+                style={{ margilLeft: 10 }}
               >
-                Watch it on youtube
+                Youtube Link
               </a>
             </div>
           </article>
@@ -196,6 +193,11 @@ const about = ({ data }) => {
           </article>
         </div>
       </section>
+
+      <Title title="Patrons" subtitle=" and Associates" />
+      <div style={{ marginLeft: 10, marginRight: 10, marginBottom: 50 }}>
+        <Patrons />
+      </div>
     </Layout>
   )
 }
