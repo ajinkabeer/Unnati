@@ -29,7 +29,7 @@ label {
   background-color: var(--primaryColor);
   border-color: var(--primaryColor);
   text-transform: uppercase;
-  color: var(--mainBlack);
+  color: var(--mainWhite);
   transition: var(--mainTransition);
   cursor: pointer;
 }
