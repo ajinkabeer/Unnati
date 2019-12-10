@@ -5,17 +5,13 @@ import Title from "../components/StyledTitle"
 import Styles from "../css/about.module.css"
 import Abouts from "../components/About/abouts"
 import Styles2 from "../css/single-blog.module.css"
-import styles from "../css/single-blog.module.css"
-import lebanon from "../images/lebanon.jpg"
-import mountain from "../images/mountains.jpg"
-import news from "../images/news.jpg"
 import ImageGallery from "react-image-gallery"
 import { journey } from "../components/About/links"
 import Team from "../components/About/team"
 import Patrons from "../components/About/patrons"
 import Achievements from "../components/About/achievements"
 
-const about = ({ data }) => {
+const about = () => {
   return (
     <Layout>
       <section className={Styles.about}>
