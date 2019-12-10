@@ -3,13 +3,11 @@ import Layout from "../components/Layout"
 import { graphql } from "gatsby"
 import Title from "../components/StyledTitle"
 import Styles from "../css/about.module.css"
-import Abouts from "../components/About/abouts"
-import Homeabout from "../components/Home/About"
 import Styles2 from "../css/single-blog.module.css"
 import ImageGallery from "react-image-gallery"
 import { campus, poster } from "../components/Join/links"
 
-const join = ({ data }) => {
+const join = () => {
   return (
     <Layout>
       <section className={Styles2.blog}>
