@@ -12,18 +12,6 @@ const Blog = ({ data }) => {
     body: { json },
   } = data.article
 
-  const options = {
-    renderNode: {
-      "embedded-asset-block": node => {
-        return (
-          <div className="rich">
-            <img width="400" src={node.data.target.fields.file["en-US"].url} />
-          </div>
-        )
-      },
-    },
-  }
-
   return (
     <Layout>
       <section className={styles.blog}>
