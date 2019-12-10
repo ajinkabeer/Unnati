@@ -36,7 +36,6 @@
     "react-icons": "^3.7.0",
     "react-image-gallery": "^0.9.1",
     "react-photo-gallery": "^8.0.0",
-    "semantic-ui-react": "^0.88.0",
     "styled-components": "^4.3.2"
   },
   "devDependencies": {
