@@ -5,11 +5,10 @@ import Title from "../components/StyledTitle"
 import Styles from "../css/about.module.css"
 import Abouts from "../components/About/abouts"
 import Styles2 from "../css/single-blog.module.css"
-import ImageGallery from "react-image-gallery"
-import { journey } from "../components/About/links"
 import Team from "../components/About/team"
 import Patrons from "../components/About/patrons"
 import Achievements from "../components/About/achievements"
+import JourneySoFar from "../components/About/journey"
 
 const about = () => {
   return (
@@ -26,32 +25,7 @@ const about = () => {
       <br />
 
       <section className={Styles.about}>
-        <div className={Styles.aboutCenter}>
-          <article className={Styles.aboutImg}>
-            <div className={Styles.imgContainer}>
-              <ImageGallery
-                items={journey}
-                showPlayButton={false}
-                showFullscreenButton={false}
-                showIndex={false}
-                infinite={false}
-              />
-            </div>
-          </article>
-          <article className={Styles.aboutInfo}>
-            <h5>Journey so far</h5>
-            <p>
-              {" "}
-              It seems like just now, only a few days ago UNNATI was formed but
-              it has been a whole year. We cannot believe how far we have come
-              in just 365 days, all credits to the love and support you guys
-              have shown. We look back to the past 2 years with an awe. How
-              amazing it has been! How much we have grown up in just 2 years! We
-              have you guys to thank for it. Let's promise to continue the
-              growth and reach impeccable heights
-            </p>
-          </article>
-        </div>
+        <JourneySoFar />
       </section>
 
       <div className={Styles2.center}>
