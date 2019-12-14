@@ -7,12 +7,11 @@ import Abouts from "../components/About/abouts"
 import Homeabout from "../components/Home/About"
 import Styles2 from "../css/single-blog.module.css"
 import ImageGallery from "react-image-gallery"
-import {campus,poster} from "../components/Join/links"
+import { campus, poster } from "./links"
 
 const content = () => {
   return (
     <Layout>
-     
       <section className={Styles.about}>
         <div className={Styles.aboutCenter}>
           <article className={Styles.aboutImg}>
