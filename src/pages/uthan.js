@@ -1,15 +1,14 @@
-import React, { Component } from "react"
+import React from "react"
 import Layout from "../components/Layout"
 import { graphql } from "gatsby"
 import Title from "../components/StyledTitle"
 import Styles from "../css/about.module.css"
-import Abouts from "../components/About/abouts"
 import Styles2 from "../css/single-blog.module.css"
 import ImageGallery from "react-image-gallery"
 import { satta, uthans, uthan4, uthan3 } from "../components/uthanLinks"
 import Album from "../components/album"
 
-const uthan = ({ data }) => {
+const uthan = () => {
   return (
     <Layout>
       <section className={Styles.about}>

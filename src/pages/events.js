@@ -1,6 +1,5 @@
 import React from "react"
 import Layout from "../components/Layout"
-import Banner from "../components/Banner"
 import { graphql } from "gatsby"
 import Title from "../components/StyledTitle"
 import Styles from "../css/about.module.css"

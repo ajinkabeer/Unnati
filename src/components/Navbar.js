@@ -20,7 +20,7 @@ const Navbar = () => {
     >
       <div className={Styles.navCenter}>
         <div className={Styles.navHeader}>
-         <img src={logo} style={{width:60}}  />
+         <img alt="logo" src={logo} style={{width:60}}  />
           <button type="button" className={Styles.logoBtn} onClick={toggleNav }>
             <FaAlignRight className={Styles.logoIcon} />
           </button>

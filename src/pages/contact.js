@@ -2,8 +2,7 @@ import React from "react"
 import Layout from "../components/Layout"
 import { graphql } from "gatsby"
 import Contact from "../components/Contact/Contact"
-import Styles from "../css/about.module.css"
-import Title from "../components/StyledTitle"
+
 
 const contact = ({ data }) => {
   return (

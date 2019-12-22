@@ -20,7 +20,7 @@ class events extends React.Component {
   render() {
     return (
       <div>
-        <section className={Styles.about}>
+        <section className={Styles.about} style={{marginTop:-50}}>
           <div className={Styles.aboutCenter}>
             <article className={Styles.aboutImg}>
               <div className={Styles.imgContainer}>
