@@ -16,16 +16,4 @@ const join = () => {
   )
 }
 
-export const query = graphql`
-  query {
-    defaultBcg: file(relativePath: { eq: "abbout.jpg" }) {
-      childImageSharp {
-        fluid(quality: 90, maxWidth: 4160) {
-          ...GatsbyImageSharpFluid_withWebp
-        }
-      }
-    }
-  }
-`
-
 export default join
