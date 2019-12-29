@@ -1,6 +1,5 @@
 import React from "react"
 import Layout from "../components/Layout"
-import { graphql } from "gatsby"
 import Title from "../components/StyledTitle"
 import Styles from "../css/about.module.css"
 import Abouts from "../components/About/abouts"
@@ -43,16 +42,5 @@ const about = () => {
   )
 }
 
-export const query = graphql`
-  query {
-    defaultBcg: file(relativePath: { eq: "abbout.jpg" }) {
-      childImageSharp {
-        fluid(quality: 90, maxWidth: 4160) {
-          ...GatsbyImageSharpFluid_withWebp
-        }
-      }
-    }
-  }
-`
 
 export default about
