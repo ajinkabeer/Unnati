@@ -1,11 +1,10 @@
 import React from "react"
 import Layout from "../components/Layout"
-import { graphql } from "gatsby"
 import Title from "../components/StyledTitle"
 import Styles from "../css/about.module.css"
 import Events from "../components/Events/Events"
 
-const events = ({ data }) => {
+const events = () => {
   return (
     <Layout>
       <section className={Styles.about}>
@@ -16,16 +15,5 @@ const events = ({ data }) => {
   )
 }
 
-export const query = graphql`
-  query {
-    defaultBcg: file(relativePath: { eq: "realevents.jpg" }) {
-      childImageSharp {
-        fluid(quality: 90, maxWidth: 4160) {
-          ...GatsbyImageSharpFluid_withWebp
-        }
-      }
-    }
-  }
-`
 
 export default events
