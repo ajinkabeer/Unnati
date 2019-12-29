@@ -5,7 +5,7 @@ import Title from "../components/StyledTitle"
 import Styles2 from "../css/single-blog.module.css"
 import Content from '../components/Times/content'
 
-const times = ({ data }) => {
+const times = () => {
   return (
     <Layout>
       <section className={Styles2.blog}>
@@ -15,17 +15,5 @@ const times = ({ data }) => {
     </Layout>
   )
 }
-
-export const query = graphql`
-  query {
-    defaultBcg: file(relativePath: { eq: "abbout.jpg" }) {
-      childImageSharp {
-        fluid(quality: 90, maxWidth: 4160) {
-          ...GatsbyImageSharpFluid_withWebp
-        }
-      }
-    }
-  }
-`
 
 export default times
