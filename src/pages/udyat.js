@@ -1,6 +1,5 @@
 import React  from "react"
 import Layout from "../components/Layout"
-import { graphql } from "gatsby"
 import Title from "../components/StyledTitle"
 import Styles2 from "../css/single-blog.module.css"
 import Styles from "../css/about.module.css"
@@ -25,7 +24,7 @@ const udyats = [
   },
 ]
 
-const udyat = ({ data }) => {
+const udyat = () => {
   return (
     <Layout>
       <section className={Styles2.blog}>
@@ -89,16 +88,5 @@ const udyat = ({ data }) => {
   )
 }
 
-export const query = graphql`
-  query {
-    defaultBcg: file(relativePath: { eq: "abbout.jpg" }) {
-      childImageSharp {
-        fluid(quality: 90, maxWidth: 4160) {
-          ...GatsbyImageSharpFluid_withWebp
-        }
-      }
-    }
-  }
-`
 
 export default udyat
