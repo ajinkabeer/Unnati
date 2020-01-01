@@ -1,6 +1,5 @@
 import React from "react"
 import Layout from "../components/Layout"
-import { graphql } from "gatsby"
 import Title from "../components/StyledTitle"
 import Styles from "../css/about.module.css"
 import Styles2 from "../css/single-blog.module.css"
