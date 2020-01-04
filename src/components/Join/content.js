@@ -1,5 +1,5 @@
 import React from "react"
- import { graphql } from "gatsby"
+import { graphql } from "gatsby"
 import Styles from "../../css/about.module.css"
 import Styles2 from "../../css/single-blog.module.css"
 import ImageGallery from "react-image-gallery"
@@ -8,32 +8,15 @@ import { campus, poster } from "./links"
 const content = () => {
   return (
     <>
-    <div className={Styles2.center}>
-          <article className={Styles2.article}>
-            <p>
-              "The only person you are destined to become is the person you
-              decide to be.” – Ralph Waldo Emerson. To stand out of crowd you
-              need to put your best foot forward. Internship gives you an
-              opportunity to learn things practically while you are still in
-              college. Team Unnati participated in internship fair of different
-              colleges to provide them an opportunity to learn the work culture
-              while they are still in college and sharpen their skills. Unnati:
-              The Knowledge Hub For Civil Aspirants is a not for profit
-              organisation registered under the government of India. Started by
-              Mr. Lokesh Chugh under the able guidance of Mr. Oscar Fernandez
-              (MP, Rajya Sabha and Chief Patron, Unnati), Unnati is working for
-              the upliftment of youth in different sectors from 18th of
-              December, 2016. Unnati aims at providing free guidance to those
-              UPSC aspirants who have knowledge and talent but lack adequate
-              resources. We host various events and also provide free UPSC
-              guidance to UPSC aspirants.
-            </p>
-          </article>
-        </div>
-       <section className={Styles.about}>
+      <div className={Styles2.center}>
+        <article className={Styles2.article}>
+         
+        </article>
+      </div>
+      <section className={Styles.about}>
         <div className={Styles.aboutCenter}>
           <article className={Styles.aboutImg}>
-            <div className={Styles.imgContainer}>
+            <div>
               <ImageGallery
                 items={campus}
                 showPlayButton={false}
@@ -44,7 +27,7 @@ const content = () => {
             </div>
           </article>
           <article className={Styles.aboutInfo}>
-          <h5>Unnati on Campus</h5>
+            <h5>Unnati on Campus</h5>
             <p>
               "The only person you are destined to become is the person you
               decide to be.” – Ralph Waldo Emerson. To stand out of crowd you
@@ -60,7 +43,7 @@ const content = () => {
       <section className={Styles.about}>
         <div className={Styles.aboutCenter}>
           <article className={Styles.aboutImg}>
-            <div className={Styles.imgContainer}>
+            <div>
               <ImageGallery
                 items={poster}
                 showPlayButton={false}

@@ -11,7 +11,7 @@ class content extends Component {
         <section className={Styles.about} style={{ marginTop: -50 }}>
           <div className={Styles.aboutCenter}>
             <article className={Styles.aboutImg}>
-              <div className={Styles.imgContainer}>
+              <div>
                 <ImageGallery
                   items={behtar}
                   showPlayButton={false}
@@ -63,7 +63,7 @@ class content extends Component {
         <section className={Styles.about} style={{ marginTop: -50 }}>
           <div className={Styles.aboutCenter}>
             <article className={Styles.aboutImg}>
-              <div className={Styles.imgContainer}>
+              <div>
                 <ImageGallery
                   items={mun}
                   showPlayButton={false}
@@ -96,7 +96,7 @@ class content extends Component {
         <section className={Styles.about} style={{ marginTop: -50 }}>
           <div className={Styles.aboutCenter}>
             <article className={Styles.aboutImg}>
-              <div className={Styles.imgContainer}>
+              <div>
                 <ImageGallery
                   items={uth}
                   showPlayButton={false}
@@ -107,7 +107,7 @@ class content extends Component {
               </div>
             </article>
             <article className={Styles.aboutInfo}>
-              <h5>Mahapanchayat MUN</h5>
+              <h5>Uthan V</h5>
               <p>
                 {" "}
                 The pen has always proved to be mightier than the sword. So, if

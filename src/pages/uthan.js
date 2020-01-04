@@ -63,7 +63,7 @@ const uthan = () => {
       <section className={Styles.about}>
         <div className={Styles.aboutCenter}>
           <article className={Styles.aboutImg}>
-            <div className={Styles.imgContainer}>
+            <div>
               <ImageGallery
                 items={uthans}
                 showPlayButton={false}
@@ -94,7 +94,7 @@ const uthan = () => {
       <section className={Styles.about} style={{ marginTop: -30 }}>
         <div className={Styles.aboutCenter}>
           <article className={Styles.aboutImg}>
-            <div className={Styles.imgContainer}>
+            <div>
               <ImageGallery
                 items={satta}
                 showPlayButton={false}
@@ -124,7 +124,7 @@ const uthan = () => {
       <section className={Styles.about} style={{ marginTop: -30 }}>
         <div className={Styles.aboutCenter}>
           <article className={Styles.aboutImg}>
-            <div className={Styles.imgContainer}>
+            <div>
               <ImageGallery
                 items={uthan3}
                 showPlayButton={false}
@@ -154,7 +154,7 @@ const uthan = () => {
       <section className={Styles.about} style={{ marginTop: -30 }}>
         <div className={Styles.aboutCenter}>
           <article className={Styles.aboutImg}>
-            <div className={Styles.imgContainer}>
+            <div>
               <ImageGallery
                 items={uthan4}
                 showPlayButton={false}
@@ -205,6 +205,5 @@ const uthan = () => {
     </Layout>
   )
 }
-
 
 export default uthan

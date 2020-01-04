@@ -20,10 +20,10 @@ class events extends React.Component {
   render() {
     return (
       <div>
-        <section className={Styles.about} style={{marginTop:-50}}>
+        <section className={Styles.about} style={{ marginTop: -50 }}>
           <div className={Styles.aboutCenter}>
             <article className={Styles.aboutImg}>
-              <div className={Styles.imgContainer}>
+              <div>
                 <ImageGallery
                   items={parliamentaryVisit}
                   showPlayButton={false}
@@ -61,7 +61,7 @@ class events extends React.Component {
         <section className={Styles.about}>
           <div className={Styles.aboutCenter}>
             <article className={Styles.aboutImg}>
-              <div className={Styles.imgContainer}>
+              <div>
                 <ImageGallery
                   items={interactiveSession}
                   showPlayButton={false}
@@ -95,7 +95,7 @@ class events extends React.Component {
         <section className={Styles.about} style={{ marginTop: -30 }}>
           <div className={Styles.aboutCenter}>
             <article className={Styles.aboutImg}>
-              <div className={Styles.imgContainer}>
+              <div>
                 <ImageGallery
                   items={parliamentaryDebate}
                   showPlayButton={false}
@@ -130,7 +130,7 @@ class events extends React.Component {
         <section className={Styles.about}>
           <div className={Styles.aboutCenter}>
             <article className={Styles.aboutImg}>
-              <div className={Styles.imgContainer}>
+              <div>
                 <ImageGallery
                   items={run}
                   showPlayButton={false}
@@ -164,7 +164,7 @@ class events extends React.Component {
         <section className={Styles.about}>
           <div className={Styles.aboutCenter}>
             <article className={Styles.aboutImg}>
-              <div className={Styles.imgContainer}>
+              <div>
                 <ImageGallery
                   items={erudite}
                   showPlayButton={false}
@@ -205,7 +205,7 @@ class events extends React.Component {
         <section className={Styles.about}>
           <div className={Styles.aboutCenter}>
             <article className={Styles.aboutImg}>
-              <div className={Styles.imgContainer}>
+              <div>
                 <ImageGallery
                   items={korean}
                   showPlayButton={false}
@@ -242,7 +242,7 @@ class events extends React.Component {
         <section className={Styles.about}>
           <div className={Styles.aboutCenter}>
             <article className={Styles.aboutImg}>
-              <div className={Styles.imgContainer}>
+              <div>
                 <ImageGallery
                   items={mun}
                   showPlayButton={false}
@@ -292,7 +292,7 @@ class events extends React.Component {
         <section className={Styles.about}>
           <div className={Styles.aboutCenter}>
             <article className={Styles.aboutImg}>
-              <div className={Styles.imgContainer}>
+              <div>
                 <ImageGallery
                   items={career}
                   showPlayButton={false}
@@ -332,7 +332,7 @@ class events extends React.Component {
         <section className={Styles.about}>
           <div className={Styles.aboutCenter}>
             <article className={Styles.aboutImg}>
-              <div className={Styles.imgContainer}>
+              <div>
                 <ImageGallery
                   items={samvidhan}
                   showPlayButton={false}
@@ -373,7 +373,7 @@ class events extends React.Component {
         <section className={Styles.about}>
           <div className={Styles.aboutCenter}>
             <article className={Styles.aboutImg}>
-              <div className={Styles.imgContainer}>
+              <div>
                 <ImageGallery
                   items={self}
                   showPlayButton={false}
@@ -400,7 +400,7 @@ class events extends React.Component {
         <section className={Styles.about}>
           <div className={Styles.aboutCenter}>
             <article className={Styles.aboutImg}>
-              <div className={Styles.imgContainer}>
+              <div>
                 <ImageGallery
                   items={interaction}
                   showPlayButton={false}

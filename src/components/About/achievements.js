@@ -26,7 +26,7 @@ const achievements = () => {
             </div>
           </article>
           <article className={Styles.aboutInfo}>
-            <h5>Letter of Appreciation From the Republic of Lebnon</h5>
+            <h5>Letter of Appreciation From the Republic of Lebanon</h5>
             <p>
               {" "}
               Opportunities don't happen. You create them. Only those who has

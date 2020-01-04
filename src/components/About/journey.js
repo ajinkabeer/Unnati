@@ -8,7 +8,7 @@ const journeySoFar = () => {
     <>
       <div className={Styles.aboutCenter}>
         <article className={Styles.aboutImg}>
-          <div className={Styles.imgContainer}>
+          <div>
             <ImageGallery
               items={journey}
               showPlayButton={false}
@@ -34,7 +34,7 @@ const journeySoFar = () => {
       </div>
       <div className={Styles.aboutCenter} style={{ marginTop: 100 }}>
         <article className={Styles.aboutImg}>
-          <div className={Styles.imgContainer}>
+          <div>
             <ImageGallery
               items={journey2}
               showPlayButton={false}

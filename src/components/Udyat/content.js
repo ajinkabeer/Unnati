@@ -62,7 +62,7 @@ const content = () => {
       <section className={Styles.about} style={{ marginTop: "-10%" }}>
         <div className={Styles.aboutCenter}>
           <article className={Styles.aboutImg}>
-            <div className={Styles.imgContainer}>
+            <div>
               <ImageGallery
                 items={udyats}
                 showPlayButton={false}
