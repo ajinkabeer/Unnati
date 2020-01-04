@@ -14,4 +14,11 @@ const journey = [
   },
 ]
 
-export { journey }
+const journey2 = [
+  {
+    original:
+      "https://lh3.googleusercontent.com/ntRkEI3NcQQ32PQcfX-C0DqPbhsDgCqmmQRLmX3_ovhNOFiJMfK9F-abf4EBWEOH4kslLYwMkFUrn6w7ruFRbScmSC8Whn-2M7rQqb4_sGo8aJ2k5ieT4wth7cqKg0RCkKMa8qU1hG_Wll8xdNQ2BshnHMSsAbeJeoTtl4B509FDtvLudoIN4w7FP1pbCfVFHbhs3XG8A03eUt3enG3JIcs7yapDXhr_ZZ3nHnZEoTn43n74cvPIgkCJbONQJ6h-AbSjKWsAbN9ZheJaCB-i2Blt6n6a3-3CJeJrDp23FUAbvETtyPcXH51cCyVbnPwEA4K-hH6-hi7vL2a3Qdq0qXbikQoCol1xsU9NEHiIr5UEVA3S0LKggryH0iQpZzLJxxziP58ZUn3KgpbiLu1WHjIC_yz9tfMzEV06GaW4kpqSbrbIUFfMPhy15TjhOnKmATqlS0q3uyBiGzG8-VQ0oSOO-DXBWOCRYf2wQD-Jtm3kPjRXBE76ElDjgw6iNn_m-lgAMSun-U3PIFWWgoQvLoPglHcDMidjXcZsTJ2RF2HHl8Tze7-GEVMe8Wg0mw8_jA5KrSK1l_qviI0VklnasDqxIdR5RCRtHagirkBpoa7cjfrb1UD2sM1PY7yIHgcjHifqkWsD5s1zjF3ioA0-_D6IyP_Pcm4nDcxxsw-g8pUP0Zo5W4TK3IIrL1CJA8Wp9gn7zPQ6vnMXxZEcQIjMo1HvWJ6SMEpoCxGFFtXYjQ60YYmb=w720-h784-no",
+  },
+]
+
+export { journey, journey2 }
