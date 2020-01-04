@@ -12,6 +12,10 @@ export default [
     text: "events",
   },
   {
+    path: "/upcoming",
+    text: "upcoming",
+  },
+  {
     path: "/about",
     text: "about",
   },
@@ -19,10 +23,5 @@ export default [
     path:"/join",
     text:"join"
   },
-  {
-    path: "/contact",
-    text: "contact",
-  },
-
 
 ]

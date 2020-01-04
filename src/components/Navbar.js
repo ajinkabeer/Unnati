@@ -63,10 +63,10 @@ const Navbar = () => {
             <Link to="/events">Events</Link>
           </li>
           <li>
-            <Link to="/join">Join</Link>
+            <Link to="/upcoming">Upcoming</Link>
           </li>
           <li>
-            <Link to="/contact">Contact</Link>
+            <Link to="/join">Join</Link>
           </li>
         </ul>
         <div className={Styles.navSocialLinks}>
