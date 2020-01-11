@@ -8,57 +8,57 @@ class content extends Component {
   render() {
     return (
       <div>
-        <section className={Styles.about} style={{ marginTop: -50 }}>
-          <div className={Styles.aboutCenter}>
-            <article className={Styles.aboutImg}>
-              <div>
-                <ImageGallery
-                  items={behtar}
-                  showPlayButton={false}
-                  showFullscreenButton={false}
-                  showIndex={false}
-                  infinite={false}
-                />
-              </div>
-            </article>
-            <article className={Styles.aboutInfo}>
-              <h5>Behtar Bharat Youth Parliament</h5>
-              <p>
-                {" "}
-                "Parliament is more than procedure- it is the custodian of
-                nations freedom" - John Diefenbaker It is very important to make
-                the common people specially the youth, aware of the procedures
-                of Parliament. Todays's youth is tommorow's adult, the voters of
-                the country, those who will vote and decide the govt and some of
-                them probably will even contest the election and become the part
-                of the government and participate in parliamentary proceedings.
-                To make the youth experience the parliamentary proceedings and
-                give them an experience of how the parliament works about
-                different topics UDYAT : The Rising Stars in association with
-                NSUI is organizing 'Behtar Bharat Youth Parliament' on 11th and
-                12th January 2020. There will be three committees- Rajya Sabha,
-                AIPPM and National Press. Make sure to register yourself as soon
-                as possible to grab the seat in the committe you wish to chosse.
-                To register for any of the committees click on the link below:-
-                <a
-                  className="btn-primary"
-                  href="https://docs.google.com/forms/d/1QH1Ia9JchhmwcttKyZ8Y86YeHcrjrYqQo_LgLFHGjwo/edit"
-                  style={{ marginTop: 15 }}
-                >
-                  Click here to register
-                </a>{" "}
-                <br />
-                <br />
-                <a
-                  className="btn-primary"
-                  href="https://facebook.com/events/527759531110437/?ti=as"
-                >
-                  Facebook Link
-                </a>
-              </p>
-            </article>
-          </div>
-        </section>
+//         <section className={Styles.about} style={{ marginTop: -50 }}>
+//           <div className={Styles.aboutCenter}>
+//             <article className={Styles.aboutImg}>
+//               <div>
+//                 <ImageGallery
+//                   items={behtar}
+//                   showPlayButton={false}
+//                   showFullscreenButton={false}
+//                   showIndex={false}
+//                   infinite={false}
+//                 />
+//               </div>
+//             </article>
+//             <article className={Styles.aboutInfo}>
+//               <h5>Behtar Bharat Youth Parliament</h5>
+//               <p>
+//                 {" "}
+//                 "Parliament is more than procedure- it is the custodian of
+//                 nations freedom" - John Diefenbaker It is very important to make
+//                 the common people specially the youth, aware of the procedures
+//                 of Parliament. Todays's youth is tommorow's adult, the voters of
+//                 the country, those who will vote and decide the govt and some of
+//                 them probably will even contest the election and become the part
+//                 of the government and participate in parliamentary proceedings.
+//                 To make the youth experience the parliamentary proceedings and
+//                 give them an experience of how the parliament works about
+//                 different topics UDYAT : The Rising Stars in association with
+//                 NSUI is organizing 'Behtar Bharat Youth Parliament' on 11th and
+//                 12th January 2020. There will be three committees- Rajya Sabha,
+//                 AIPPM and National Press. Make sure to register yourself as soon
+//                 as possible to grab the seat in the committe you wish to chosse.
+//                 To register for any of the committees click on the link below:-
+//                 <a
+//                   className="btn-primary"
+//                   href="https://docs.google.com/forms/d/1QH1Ia9JchhmwcttKyZ8Y86YeHcrjrYqQo_LgLFHGjwo/edit"
+//                   style={{ marginTop: 15 }}
+//                 >
+//                   Click here to register
+//                 </a>{" "}
+//                 <br />
+//                 <br />
+//                 <a
+//                   className="btn-primary"
+//                   href="https://facebook.com/events/527759531110437/?ti=as"
+//                 >
+//                   Facebook Link
+//                 </a>
+//               </p>
+//             </article>
+//           </div>
+//         </section>
 
         <section className={Styles.about} style={{ marginTop: -50 }}>
           <div className={Styles.aboutCenter}>
