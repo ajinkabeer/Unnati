@@ -19,7 +19,6 @@ const Contact = props => {
               name="name"
               id="name"
               className={Styles.formControl}
-              placeholder="Your name"
               required
             />
           </div>
@@ -30,7 +29,6 @@ const Contact = props => {
               name="email"
               id="email"
               className={Styles.formControl}
-              placeholder="email@example.com"
               required
             />
           </div>
@@ -41,7 +39,6 @@ const Contact = props => {
               name="number"
               id="number"
               className={Styles.formControl}
-              placeholder="Your contact number"
              />
           </div>
           <div>
@@ -50,7 +47,6 @@ const Contact = props => {
               name="website"
               id="website"
               className={Styles.formControl}
-              placeholder="Your website if available"
              />
           </div>
           <div>
@@ -59,7 +55,6 @@ const Contact = props => {
               name="message"
               id="message"
               className={Styles.formControl}
-              placeholder="Your message"
               required
             />
           </div>
