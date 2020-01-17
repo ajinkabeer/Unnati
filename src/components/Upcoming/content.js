@@ -37,6 +37,24 @@ class content extends Component {
                 skills. Stop dreaming and Start working. Stay tuned for more
                 updates!
               </p>
+              <a
+                className="btn-primary"
+                href="https://docs.google.com/forms/d/1kjI97PWRTlldlcHbGAszMmMYxwmPEwj2H0Hu9TT5hRg/edit"
+              >
+               Delegate Applications
+              </a>
+               <a
+                className="btn-primary"
+                href="https://docs.google.com/forms/d/11ZM4l8d7pYCk3lZ0p1HEhS8m6Y6xUwdmtKYSBhhfpvQ/edit"
+              >
+               Organizing Committee  Applications
+              </a>
+               <a
+                className="btn-primary"
+                href="https://docs.google.com/forms/d/1ppUeI2tc2AVOi7sT7KvDUdE6L1AJo6jb_fOru3LmPPc/edit"
+              >
+             Executive Board Applications
+              </a>
             </article>
           </div>
         </section>
