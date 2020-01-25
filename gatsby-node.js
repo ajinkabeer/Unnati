@@ -15,6 +15,7 @@ exports.createPages = async({graphql,actions}) => {
   }
     }
     `)
+    
     data.posts.edges.forEach(({node})=>{
       createPage({
         path:`article/${node.slug}`,
@@ -24,4 +25,21 @@ exports.createPages = async({graphql,actions}) => {
         },
       })
     })
+
+    const posts = data.posts.edges;
+    const postsPerPage = 6;
+    const numPages = Math.ceil(posts.length/postsPerPage);
+     Array.from({length:numPages}).forEach((_,i)=>{
+       createPage({
+         path:i === 0? `/article` : `/article/${i+1}`,
+         component:path.resolve('./src/templates/article-list-template.js'),
+         context:{
+           limit:postsPerPage,
+           skip:i*postsPerPage,
+           numPages,
+           currentPage:i+1
+         }
+       })
+     })
+      
 }

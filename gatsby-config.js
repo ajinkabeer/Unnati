@@ -28,5 +28,6 @@ module.exports = {
     `gatsby-plugin-sass`,
     `gatsby-plugin-styled-components`,
     `gatsby-plugin-playground`,
+    `gatsby-plugin-transition-link`,
   ],
 }
