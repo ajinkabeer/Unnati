@@ -23,8 +23,7 @@ const articles = props => {
             return (
               <AniLink
                 key={i}
-                fade
-                to={`/article/${i === 0 ? "" : i + 1}`}
+                to={`/article/${i === 0 ? `1` : i + 1}`}
                 className={
                   i + 1 === currentPage
                     ? `${styles.link} ${styles.active}`
