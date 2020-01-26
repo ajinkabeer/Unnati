@@ -20,8 +20,8 @@ const Navbar = () => {
     >
       <div className={Styles.navCenter}>
         <div className={Styles.navHeader}>
-         <img alt="logo" src={logo} style={{width:60}}  />
-          <button type="button" className={Styles.logoBtn} onClick={toggleNav }>
+          <img alt="logo" src={logo} style={{ width: 60 }} />
+          <button type="button" className={Styles.logoBtn} onClick={toggleNav}>
             <FaAlignRight className={Styles.logoIcon} />
           </button>
         </div>
@@ -36,7 +36,7 @@ const Navbar = () => {
             <Link to="/">Home</Link>
           </li>
           <li>
-            <Link to="/article">Articles</Link>
+            <Link to="/article/1">Articles</Link>
           </li>
           <li>
             <Link to="/about">About</Link>

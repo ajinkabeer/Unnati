@@ -4,7 +4,7 @@ export default [
     text: "home",
   },
   {
-    path: "/article",
+    path: "/article/1",
     text: "articles",
   },
   {
@@ -20,8 +20,7 @@ export default [
     text: "about",
   },
   {
-    path:"/join",
-    text:"join"
+    path: "/join",
+    text: "join",
   },
-
 ]
