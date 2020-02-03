@@ -30,7 +30,11 @@ Unnati: The Knowledge Hub For Civil Aspirants is a not for profit organisation r
 
   **Open the source code and start editing!**
 
-    Your site is now running at `http://localhost:8000`!
+    Your site is now running at http://localhost:8000
+    
+  **Open GraphQL playground**
+    
+    http://localhost:8000/___playground
 
 ## 🧐 What's inside?
 
