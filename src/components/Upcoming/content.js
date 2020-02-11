@@ -35,48 +35,67 @@ class content extends Component {
                 , who is not a searcher of consensus but molder of consensus.
                 Take this opportunity to develop your oratory and debating
                 skills. Stop dreaming and Start working. 
-                1. Lok Sabha I - Discussing the disinvestment policy of the government with emphasis to the fiscal targets.
+       
+                <p> 1. Lok Sabha I - Discussing the disinvestment policy of the government with emphasis to the fiscal targets.</p>
+                <p>2. Lok Sabha II - Reviewing the effectiveness of reservation policy.</p>
 
-2. Lok Sabha II - Reviewing the effectiveness of reservation policy.
+ <p>3. Rajya Sabha- Discussion on transgender person (protection of Rights act ) 2019</p>
 
-3. Rajya Sabha- Discussion on transgender person (protection of Rights act ) 2019
+ <p>4. AIPPM - CAA through the lens of Article 14 of Indian Constitution.</p>
 
-4. AIPPM - CAA through the lens of Article 14 of Indian Constitution.
 
-5. Stakeholders Meet - Deliberation on treating Juvenile as adults in cases of serious crimes, with reference to the act of 16 December 2014.
+ <p>5. Stakeholders Meet - Deliberation on treating Juvenile as adults in cases of serious crimes, with reference to the act of 16 December 2014.
+</p>
 
-6. All India Students Body Meet- Deliberation on the right to education with emphasis on providing free education till class 12.
+ <p>6. All India Students Body Meet- Deliberation on the right to education with emphasis on providing free education till class 12.
+</p>
 
-7. Niti Ayog - Finance centric policies on Indian economy.
+ <p>7. Niti Ayog - Finance centric policies on Indian economy.
+</p>
 
-8. UNCSW - Deliberation on discrimination against female athletes & abortion rights/ access to reproductive health.
+ <p>8. UNCSW - Deliberation on discrimination against female athletes & abortion rights/ access to reproductive health.
+</p>
 
-9. UNGA - Use of mercenaries as a means of violating human rights and impeding the exercise of the right of peoples to self-determination
+ <p>9. UNGA - Use of mercenaries as a means of violating human rights and impeding the exercise of the right of peoples to self-determination
+</p>
 
-10. UNGA DISEC - Role of AI in millitary with special emphasis on unmanned aerial vehicles.
+ <p>10. UNGA DISEC - Role of AI in millitary with special emphasis on unmanned aerial vehicles.
+</p>
 
-11. UNEP - Discussion on solution of climate induced -migration
+ <p>11. UNEP - Discussion on solution of climate induced -migration
+</p>
 
-12. UNHRC- protecting victims of human trafficking in conflict and post conflict areas.
+ <p>12. UNHRC- protecting victims of human trafficking in conflict and post conflict areas.
+</p>
 
-13. UNSC II - Deliberation on world peace in refrence to relation between iran and America
+ <p>13. UNSC II - Deliberation on world peace in refrence to relation between iran and America
+</p>
 
-14. UNFCCC- Climate action in line with violation of the SDG with special emphasis on finding solutions to prevent atrocities like Amazon fire and Australian wild fires.
+ <p>14. UNFCCC- Climate action in line with violation of the SDG with special emphasis on finding solutions to prevent atrocities like Amazon fire and Australian wild fires.
+</p>
 
-15. UNSC I - Discussing ways to increase cooperation between the United Nations and regional and sub regional organizations in maintaining international peace and security
+ <p>15. UNSC I - Discussing ways to increase cooperation between the United Nations and regional and sub regional organizations in maintaining international peace and security
+</p>
 
-16. ODC - Deliberation on complete prohibition of drug testing on animals with emphasis on finding new ways of testing drugs .
+ <p>16. ODC - Deliberation on complete prohibition of drug testing on animals with emphasis on finding new ways of testing drugs .
+</p>
 
-17. PMHC - Deliberation on the possible solutions to the current situation of Kashmir post removal of article 370 and ongoing lockdown.
+ <p>17. PMHC - Deliberation on the possible solutions to the current situation of Kashmir post removal of article 370 and ongoing lockdown.
+</p>
 
-18. ECOSOC- Enhancing regional economic cooperation through trade and investment in the Asia-Pacific region.
+ <p>18. ECOSOC- Enhancing regional economic cooperation through trade and investment in the Asia-Pacific region.
+</p>
 
-19. Cabinet Meet II (Classified) -  Deliberation on the ongoing water crisis with special emphasis to ground water.
+ <p>19. Cabinet Meet II (Classified) -  Deliberation on the ongoing water crisis with special emphasis to ground water.
+</p>
 
-20. Cabinet Meet (Crisis)
+ <p>20. Cabinet Meet (Crisis)
+</p>
 
-21. National Press
-22. International Press
+ <p>21. National Press</p>
+
+ <p>22. International Press</p>
+
       Stay tuned for more
                 updates!
               </p>
