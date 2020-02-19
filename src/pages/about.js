@@ -16,17 +16,14 @@ const about = () => {
         <Title title="about" subtitle="us" />
         <Abouts />
       </section>
-
       <Title title="our" subtitle="team" />
       <div className={Styles2.center}>
         <Team />
       </div>
       <br />
-
       <section className={Styles.about}>
         <JourneySoFar />
       </section>
-
       <div className={Styles2.center}>
         <section className={Styles.about}>
           <Title title="" subtitle="Achievements" style={{ marginTop: 120 }} />
@@ -41,6 +38,5 @@ const about = () => {
     </Layout>
   )
 }
-
 
 export default about
