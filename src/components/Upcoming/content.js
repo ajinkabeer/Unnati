@@ -23,6 +23,8 @@ class content extends Component {
             </article>
             <article className={Styles.aboutInfo}>
               <h5>Mahapanchayat MUN</h5>
+      <p>18th and 19th of April, 2020</p>
+      <p>Venue: GD Goenka Public School, Great Noida</p>
               <p>
                 {" "}
                 Greetings to all, With immense gratitude and pleasure we are
@@ -37,7 +39,8 @@ class content extends Component {
                 skills. Stop dreaming and Start working. 
        
                 <p> 1. Lok Sabha I - Discussing the disinvestment policy of the government with emphasis to the fiscal targets.</p>
-                <p>2. Lok Sabha II - Reviewing the effectiveness of reservation policy.</p>
+                
+      <p>2. Lok Sabha II - Reviewing the effectiveness of reservation policy.</p>
 
  <p>3. Rajya Sabha- Discussion on transgender person (protection of Rights act ) 2019</p>
 
