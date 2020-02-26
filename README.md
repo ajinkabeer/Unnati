@@ -20,8 +20,6 @@ Unnati: The Knowledge Hub For Civil Aspirants is a not for profit organisation r
     # cd unnati
     # yarn 
 
-  **Start developing.**
-
    Start up the server to get started.
 
     # cd unnati
