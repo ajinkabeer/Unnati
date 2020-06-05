@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="https://unnaticell.com/">
-    <img alt="Unnati" src="https://unnati.netlify.com/static/logo-2ac21394a0a0f54f0971881bea24caa8.jpg" width="60" />
-  </a>
-</p>
 <h1 align="center">
   Unnati : The Knowledge Hub For Civil Aspirants
 </h1>
