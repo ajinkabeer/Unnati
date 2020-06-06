@@ -7,6 +7,14 @@ Unnati: The Knowledge Hub For Civil Aspirants is a not for profit organisation r
 
 ## 🚀 Quick start
 
+ **Install Gatsby**
+ 
+    # npm install -g gatsby gatsby-cli 
+    
+    or
+    
+    # yarn add global gatsby gatsby-cli
+
  **Clone the repo.**
 
    Clone the repo and run yarn to get started.
