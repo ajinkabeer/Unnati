@@ -8,7 +8,7 @@ const BlogCard = ({ blog }) => {
   return (
     <article className={styles.blog}>
       <div className={styles.imgContainer}>
-        <Image fluid={image.fluid} className={styles.img} alt="single post" />
+    {image &&  <Image fluid={image.fluid} className={styles.img} alt="single post" />}
         <Link className={styles.link} to={`/article/${slug}`}>
           read more
         </Link>
